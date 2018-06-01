@@ -23,38 +23,26 @@ import matplotlib as mpl
 import plotly
 import arrow
 
-#import tflearn
+# import tflearn
 tflearn = tf.contrib.learn
-#-----------------
-#1
-print('\n#1 tensorflow.ver:',tf.__version__)
-
-#2
-print('\n#2 tensorlayer.ver:',tl.__version__)
-
-#3
-print('\n#3 keras.ver:',ks.__version__)
-
-#4
-print('\n#4 nltk.ver:',nltk.__version__)
-
-
-#5
-print('\n#5 pandas.ver:',pd.__version__)
-
-#6
-print('\n#6 tushare.ver:',ts.__version__)
-
-#7
-print('\n#7 matplotlib.ver:',mpl.__version__)
-
-#8
-print('\n#8 plotly.ver:',plotly.__version__)
-
-
-#9
-print('\n#9 arrow.ver:',arrow.__version__)
-
-
-#10
+# -----------------
+# 1
+print('\n#1 tensorflow.ver:', tf.__name__)
+# 2
+print('\n#2 tensorlayer.ver:', tl.__version__)
+# 3
+print('\n#3 keras.ver:', ks.__version__)
+# 4
+print('\n#4 nltk.ver:', nltk.__version__)
+# 5
+print('\n#5 pandas.ver:', pd.__version__)
+# 6
+print('\n#6 tushare.ver:', ts.__version__)
+# 7
+print('\n#7 matplotlib.ver:', mpl.__version__)
+# 8
+print('\n#8 plotly.ver:', plotly.__version__)
+# 9
+print('\n#9 arrow.ver:', arrow.__version__)
+# 10
 print('\n#10 tflearn.ver:')

@@ -12,15 +12,16 @@ QQ群: Top极宽量化1群，124134140
   
 '''
 
-
 import pandas as pd
 
-#================================
+# ================================
 
 
-pd.set_option('display.width', 450)    
-#---------------
+pd.set_option('display.width', 450)
+# ---------------
 
-fss='data/600663.csv'
-df=pd.read_csv(fss,index_col=0)
-print(df.tail())
+fss = 'data/600663.csv'
+df = pd.read_csv(fss, index_col=0)
+print(df.tail(5))
+print(df.head(5))
+
