@@ -1,0 +1,101 @@
+code,name,cname
+AAPL,Apple Inc. ,苹果
+GOOG,Google Inc. ,谷歌
+MSFT,Microsoft Corporation ,微软
+FB,Facebook Inc. ,Facebook
+CSCO,Cisco Systems Inc. ,思科
+AMZN,Amazon.com Inc. ,亚马逊
+INTC,Intel Corporation ,英特尔
+ORCL,Oracle Corporation ,甲骨文
+QCOM,QUALCOMM Incorporated ,高通
+NTAP,NetApp Inc. ,NetApp
+EBAY,eBay Inc. ,eBay
+PCLN,priceline.com Incorporated ,Priceline
+BIDU,Baidu Inc. ,百度
+YHOO,Yahoo! Inc. ,雅虎
+GILD,Gilead Sciences Inc. ,吉利德
+NWSA,News Corporation ,新闻集团
+BIIB,Biogen Idec Inc. ,生化基因
+ESRX,Express Scripts Holding Company ,快捷药方
+AMGN,Amgen Inc. ,安进
+CMCSA,Comcast Corporation ,康卡斯特
+MDLZ,Mondelez International Inc. ,卡夫全球零食
+COST,Costco Wholesale Corporation ,好市多
+CELG,Celgene Corporation ,新基
+MU,Micron Technology Inc. ,美光科技
+BRCM,Broadcom Corporation ,博通
+SBUX,Starbucks Corporation ,星巴克
+VOD,Vodafone Group Plc ,沃达丰
+SIRI,Sirius XM Radio Inc. ,Sirius
+VIAB,Viacom Inc. ,维亚康姆新公司
+XLNX,Xilinx Inc. ,赛灵思
+CTSH,Cognizant Technology Solutions Corporation ,高知特
+TXN,Texas Instruments Incorporated ,德州仪器
+SYMC,Symantec Corporation ,赛门铁克
+DTV,DIRECTV ,DirecTV
+AMAT,Applied Materials Inc. ,应用材料公司
+INTU,Intuit Inc. ,财捷
+BMC,BMC Software Inc. ,BMC软件
+ATVI,Activision Blizzard,动视暴雪
+EQIX,Equinix Inc. ,Equinix
+LIFE,Life Technologies Corporation ,Life Technologies
+REGN,Regeneron Pharmaceuticals Inc. ,Regeneron
+STX,Seagate Technology. ,希捷
+EXPE,Expedia Inc. ,Expedia
+WYNN,Wynn Resorts,永利度假村
+ISRG,Intuitive Surgical Inc. ,达芬奇手术机器人
+SPLS,Staples Inc. ,史泰博
+MYL,Mylan Inc. ,Mylan
+KRFT,Kraft Foods Group Inc. ,卡夫北美杂货
+WFM,Whole Foods Market Inc. ,Whole Foods
+ADP,Automatic Data Processing Inc. ,Automatic Data
+SNDK,SanDisk Corporation ,SanDisk
+KLAC,KLA-Tencor Corporation ,科磊
+ADSK,Autodesk Inc. ,欧特克
+ADBE,Adobe Systems Incorporated ,Adobe
+WDC,Western Digital Corporation ,西部数据
+MXIM,Maxim Integrated Products Inc. ,美信集成
+VRTX,Vertex Pharmaceuticals Incorporated ,福泰制药
+CTXS,Citrix Systems Inc. ,思杰
+BBBY,Bed Bath & Beyond Inc. ,Bed Bath & Beyond
+SHLD,Sears Holdings Corporation ,西尔斯
+FFIV,F5 Networks Inc. ,F5网络
+NVDA,NVIDIA Corporation ,英伟达
+ALXN,Alexion Pharmaceuticals Inc. ,Alexion
+DELL,Dell Inc. ,戴尔
+AKAM,Akamai Technologies Inc. ,Akamai
+ALTR,Altera Corporation ,Altera
+CA,CA Inc. ,冠群电脑
+VRSK,Verisk Analytics Inc. ,Verisk
+ROST,Ross Stores Inc. ,罗斯百货
+VMED,Virgin Media Inc. ,Virgin Media
+SIAL,Sigma-Aldrich Corporation ,西格玛-奥德里奇
+CHRW,C.H. Robinson Worldwide Inc. ,罗宾逊物流
+PRGO,Perrigo Company ,培瑞克
+CTRX,Catamaran Corporation ,Catamaran
+DISCA,Discovery Communications Inc. ,Discovery
+LBTYA,Liberty Global Inc. ,Liberty
+ADI,Analog Devices Inc. ,亚德诺
+NUAN,Nuance Communications Inc. ,Nuance
+SBAC,SBA Communications Corporation ,SBA Communications
+AVGO,Avago Technologies Limited ,安华高科技
+EXPD,Expeditors International of Washington Inc. ,康捷物流
+DLTR,Dollar Tree Inc. ,Dollar Tree
+FAST,Fastenal Company ,法切特
+PAYX,Paychex Inc. ,Paychex
+CHKP,Check Point Software Technologies Ltd. ,Check Point 软件
+FOSL,Fossil Inc. ,福斯尔
+MNST,Monster Beverage Corporation ,Monster
+ORLY,O'Reilly Automotive Inc. ,O'Reilly
+CERN,Cerner Corporation ,塞纳
+SRCL,Stericycle Inc. ,Stericycle
+LLTC,Linear Technology Corporation ,凌特科技
+MAT,Mattel Inc. ,美泰
+PCAR,PACCAR Inc. ,帕卡
+GOLD,Randgold Resources Limited ,Randgold
+LINTA,Liberty Interactive Corporation ,Liberty
+HSIC,Henry Schein Inc. ,Henry
+MCHP,Microchip Technology Incorporated ,微芯科技
+XRAY,DENTSPLY International Inc. ,DENTSPLY
+FISV,Fiserv Inc. ,Fiserv
+GRMN,Garmin Ltd. ,佳明

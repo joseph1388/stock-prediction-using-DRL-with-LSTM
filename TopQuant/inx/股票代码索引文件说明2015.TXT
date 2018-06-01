@@ -1,0 +1,15 @@
+inx_code.csv,中国A股大盘及各种指数代码
+stk_base.csv,中国A股2810只股票代码公司概况
+stk_code.csv,中国A股2810只股票代码
+stk_hs300.csv,中国沪深300指数股票代码
+stk_sz50.csv,中国上证50指数股票代码
+stk_zz500.csv,中国中证500指数股票代码
+
+
+inxYahoo.csv,全部6688美股代码
+inxYahoo30sp.csv,道琼斯30指数美股代码
+inxYahoo100ns.csv,纳斯达克100指数美股代码
+inxYahoo100sp.csv,道琼斯100工业指数美股代码
+inxYahoo500sp.csv,道琼斯500指数美股代码
+inxYahoo600.csv,量化常用美股600股票代码
+

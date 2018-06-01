@@ -1,0 +1,1531 @@
+Algorithm,CoinName,FullName,FullyPremined,Id,ImageUrl,Name,PreMinedValue,ProofType,SortOrder,TotalCoinSupply,TotalCoinsFreeFloat,Url,code
+Scrypt,007 coin,007 coin (007),0,5294,/media/350595/007.png,007,N/A,PoW,263,989800,N/A,/coins/007/overview,007
+X13,1337,1337 (1337),0,20824,/media/350976/1337.png,1337,N/A,PoW/PoS,577,314159265359,N/A,/coins/1337/overview,1337
+Scrypt,1Credit,1Credit (1CR),0,5406,/media/20175/1cr.png,1CR,N/A,PoW,374,92000000000,N/A,/coins/1cr/overview,1CR
+N/A,FirstBlood,FirstBlood (1ST),1,28328,/media/351524/1st.png,1ST,N/A,N/A,759,93468691,N/A,/coins/1st/overview,1ST
+X11,2015 coin,2015 coin (2015),0,3744,/media/20180/2015.png,2015,N/A,PoW/PoS,33,0,N/A,/coins/2015/overview,2015
+Scrypt,2BACCO Coin,2BACCO Coin (2BACCO),0,30912,/media/351869/2bacco.png,2BACCO,N/A,PoW/PoS,874,81454545,N/A,/coins/2bacco/overview,2BACCO
+Scrypt,2GiveCoin,2GiveCoin (2GIVE),0,20910,/media/350986/2give.png,2GIVE,N/A,PoW/PoS,587,500000000,N/A,/coins/2give/overview,2GIVE
+X11,32Bitcoin,32Bitcoin (32BIT),0,30428,/media/351763/32bit.png,32BIT,N/A,PoW/PoS,863,355000,N/A,/coins/32bit/overview,32BIT
+X11,365Coin,365Coin (365),0,33639,/media/352070/365.png,365,N/A,PoW/PoS,916,2300000000,N/A,/coins/365/overview,365
+N/A,3DES,3DES (3DES),0,304693,/media/12318014/3des.png,3DES,N/A,N/A,1581,35000000,N/A,/coins/3des/overview,3DES
+Scrypt,404Coin,404Coin (404),0,21227,/media/351001/404.png,404,N/A,PoW/PoS,602,532000000,N/A,/coins/404/overview,404
+Scrypt,42 Coin,42 Coin (42),0,4321,/media/19984/42.png,42,N/A,PoW,34,42,N/A,/coins/42/overview,42
+Scrypt,ChanCoin,ChanCoin (4CHN),0,175683,/media/1383831/chan2.png,4CHN,N/A,PoW,1286,30000000,N/A,/coins/4chn/overview,4CHN
+SHA256,SixEleven,SixEleven (611),0,20909,/media/350985/611.png,611,N/A,PoW,586,611000,N/A,/coins/611/overview,611
+SHA256,808,808 (808),0,28223,/media/351513/808.png,808,N/A,PoW/PoS,750,N/A,N/A,/coins/808/overview,808
+N/A,Octocoin,Octocoin (888),0,29462,/media/351639/888.png,888,N/A,PoW,811,135776563,N/A,/coins/888/overview,888
+Scrypt,8BIT Coin,8BIT Coin (8BIT),0,5327,/media/20176/8bit.png,8BIT,N/A,PoW/PoS,295,0,N/A,/coins/8bit/overview,8BIT
+N/A,8 Circuit Studios,8 Circuit Studios (8BT),0,177124,/media/1383698/8bt.png,8BT,N/A,N/A,1291,100000000,N/A,/coins/8bt/overview,8BT
+N/A,AB-Chain,AB-Chain (ABC),0,303943,/media/12318006/bac.png,ABC,N/A,N/A,1577,100000000,N/A,/coins/abc/overview,ABC
+Scrypt,ArtByte,ArtByte (ABY),0,5338,/media/1383379/aby.png,ABY,N/A,PoW,306,1000000000,N/A,/coins/aby/overview,ABY
+Scrypt,Asia Coin,Asia Coin (AC),0,4322,/media/19593/ac.png,AC,N/A,PoS,35,360000000,N/A,/coins/ac/overview,AC
+Scrypt,AdCoin,AdCoin (ACC),0,249821,/media/9350776/acc.jpg,ACC,N/A,PoW,1542,100000000,N/A,/coins/acc/overview,ACC
+N/A,TokenStars,TokenStars (ACE),0,294364,/media/11999076/ace.png,ACE,N/A,N/A,1565,N/A,N/A,/coins/ace/overview,ACE
+X13,AcesCoin,AcesCoin (ACES),0,45617,/media/1382661/aces.png,ACES,N/A,PoS,1104,100000000,N/A,/coins/aces/overview,ACES
+SHA256,AcidCoin,AcidCoin (ACID),0,39700,/media/1382237/acid.png,ACID,N/A,PoW,1016,4500000000,N/A,/coins/acid/overview,ACID
+PoS,AvonCoin,AvonCoin (ACN),0,35949,/media/352310/acn.png,ACN,N/A,PoS,976,1000000000,N/A,/coins/acn/overview,ACN
+SHA256,ACoin,ACoin (ACOIN),0,4323,/media/20079/acoin.png,ACOIN,N/A,PoW,36,1600000,N/A,/coins/acoin/overview,ACOIN
+SHA256,Anarchists Prime,Anarchists Prime (ACP),0,6476,/media/351019/acp.png,ACP,N/A,PoW,416,53760000,N/A,/coins/acp/overview,ACP
+N/A,ACT,ACT (ACT),0,177157,/media/1383700/act.png,ACT,N/A,N/A,1293,10000000000,N/A,/coins/act/overview,ACT
+Scrypt,AudioCoin,AudioCoin (ADC),0,6108,/media/350880/adc.png,ADC,N/A,PoW/PoS,395,10500000000,N/A,/coins/adc/overview,ADC
+Scrypt,Asiadigicoin,Asiadigicoin (ADCN),0,20907,/media/350983/adcn.png,ADCN,N/A,PoW,584,42000000,N/A,/coins/adcn/overview,ADCN
+N/A,Adelphoi,Adelphoi (ADL),0,127738,/media/1383544/adl.png,ADL,N/A,N/A,1249,100000000,N/A,/coins/adl/overview,ADL
+ScryptOG,Aiden,Aiden (ADN),1,21007,/media/350993/adn.png,ADN,N/A,PoW,594,84000000,N/A,/coins/adn/overview,ADN
+N/A,Adshares,Adshares (ADST),0,194530,/media/1383846/adst.png,ADST,N/A,N/A,1383,N/A,N/A,/coins/adst/overview,ADST
+N/A,AdToken,AdToken (ADT),0,188858,/media/1383829/adt.png,ADT,N/A,N/A,1374,1000000000,N/A,/coins/adt/overview,ADT
+N/A,AdEx,AdEx (ADX),0,170452,/media/1383667/adx1.png,ADX,N/A,N/A,1277,100000000,N/A,/coins/adx/overview,ADX
+X11,Adzcoin,Adzcoin (ADZ),0,20656,/media/351424/adz1.jpg,ADZ,N/A,PoW,552,84000000,N/A,/coins/adz/overview,ADZ
+N/A,Aeternity,Aeternity (AE),0,190978,/media/1383836/ae.png,AE,N/A,PoW/PoS,1375,227213467,N/A,/coins/ae/overview,AE
+X11,AcesCoin,AcesCoin (AEC),0,20986,/media/350991/aec.png,AEC,N/A,PoS,592,98000000,N/A,/coins/aec/overview,AEC
+CryptoNight,AeonCoin,AeonCoin (AEON),0,20730,/media/350955/aeon.png,AEON,N/A,PoW,567,184000000,N/A,/coins/aeon/overview,AEON
+X13,Aero Coin,Aero Coin (AERO),0,4324,/media/19594/aero.png,AERO,N/A,PoS,37,7000000,N/A,/coins/aero/overview,AERO
+N/A,Agoras Token,Agoras Token (AGRS),0,191142,/media/1383839/agrs.png,AGRS,N/A,N/A,1378,42000000,N/A,/coins/agrs/overview,AGRS
+X13,Aegis,Aegis (AGS),0,4326,/media/19595/ags.png,AGS,N/A,PoS,39,0,N/A,/coins/ags/overview,AGS
+Ethash,Ahoolee,Ahoolee (AHT),0,175611,/media/1383688/ahc.png,AHT,N/A,PoW,1283,100000000,N/A,/coins/aht/overview,AHT
+N/A,Bowhead Health,Bowhead Health (AHT*),1,186064,/media/1383796/aht.png,AHT*,N/A,N/A,1351,100000000,N/A,/coins/ahtstar/overview,AHT*
+Scrypt,AdvancedInternetBlock,AdvancedInternetBlock (AIB),0,20806,/media/350971/aib.png,AIB,N/A,PoW,571,314159265359,N/A,/coins/aib/overview,AIB
+Scrypt,Aircoin,Aircoin (AIR),0,30182,/media/351740/air.png,AIR,N/A,PoW/PoS,846,357000000,N/A,/coins/air/overview,AIR
+X13,Arab League Coin,Arab League Coin (ALC),0,33401,/media/352022/alc.png,ALC,N/A,PoW,908,N/A,N/A,/coins/alc/overview,ALC
+SHA256,Alexandrite,Alexandrite (ALEX),0,45607,/media/1382657/alex.png,ALEX,N/A,PoW/PoS,1100,1268000,N/A,/coins/alex/overview,ALEX
+Scrypt,AlphaCoin,AlphaCoin (ALF),0,4325,/media/19600/alf.png,ALF,N/A,PoW,38,210182000,N/A,/coins/alf/overview,ALF
+Scrypt,AlienCoin,AlienCoin (ALN),0,4328,/media/20080/aln.png,ALN,N/A,PoW,41,200000000,N/A,/coins/aln/overview,ALN
+N/A,AltoCar,AltoCar (ALTOCAR),0,240439,/media/9350746/altc.png,ALTOCAR,N/A,N/A,1522,N/A,N/A,/coins/altocar/overview,ALTOCAR
+X13,AeroMe,AeroMe (AM),0,5330,/media/20191/am.png,AM,N/A,PoW/PoS,298,12000000,N/A,/coins/am/overview,AM
+N/A,Ambrosus,Ambrosus (AMB),0,238733,/media/9350739/amb.png,AMB,N/A,N/A,1518,N/A,N/A,/coins/amb/overview,AMB
+X11,AmberCoin,AmberCoin (AMBER),0,5332,/media/20187/amber.png,AMBER,N/A,PoW/PoS,300,1000000000,N/A,/coins/amber/overview,AMBER
+Scrypt,AmericanCoin,AmericanCoin (AMC),0,4327,/media/19601/amc.png,AMC,N/A,PoW,40,168000000,N/A,/coins/amc/overview,AMC
+N/A,AMIS,AMIS (AMIS),0,57676,/media/1382862/amis.png,AMIS,N/A,N/A,1147,20000000,N/A,/coins/amis/overview,AMIS
+N/A,Ammo Rewards,Ammo Rewards (AMMO),0,182463,/media/1383778/ammo.png,AMMO,N/A,PoS,1336,77777777,N/A,/coins/ammo/overview,AMMO
+N/A,Synereo,Synereo (AMP),0,18244,/media/350825/amp.png,AMP,N/A,Pow/PoSC,501,927785483,N/A,/coins/amp/overview,AMP
+Quark,Amsterdam Coin,Amsterdam Coin (AMS),0,15284,/media/350562/ams.png,AMS,N/A,PoW/PoS,480,N/A,N/A,/coins/ams/overview,AMS
+N/A,Acumen,Acumen (AMT),0,243045,/media/9350756/amt.jpg,AMT,N/A,N/A,1529,N/A,N/A,/coins/amt/overview,AMT
+Scrypt,Amygws,Amygws (AMY),0,59304,/media/1382935/amy.jpg,AMY,N/A,PoW,1154,23333333,N/A,/coins/amy/overview,AMY
+SHA256,AnalCoin,AnalCoin (ANAL),0,37359,/media/1381991/anal.jpg,ANAL,N/A,N/A,991,600000,N/A,/coins/anal/overview,ANAL
+N/A,Anoncoin,Anoncoin (ANC),0,27370,/media/19598/anc.png,ANC,N/A,PoW,719,4200000,N/A,/coins/anc/overview,ANC
+N/A,Anacrypt,Anacrypt (ANCP),0,196572,/media/1383863/ancp.png,ANCP,N/A,N/A,1391,10000,N/A,/coins/ancp/overview,ANCP
+X11,AndromedaCoin,AndromedaCoin (AND),0,30568,/media/351797/and.png,AND,N/A,PoW/PoS,870,N/A,N/A,/coins/and/overview,AND
+Scrypt,AnonCoin,AnonCoin (ANNC),0,4329,/media/19598/anc.png,ANNC,N/A,PoW,42,4200000,N/A,/coins/annc/overview,ANNC
+N/A,Aragon,Aragon (ANT),0,78152,/media/1383244/ant.png,ANT,N/A,N/A,1216,39609524,N/A,/coins/ant/overview,ANT
+Scrypt,AntiLitecoin,AntiLitecoin (ANTC),0,29758,/media/351690/antc.png,ANTC,N/A,PoW,822,84000000,N/A,/coins/antc/overview,ANTC
+SHA256,Anti Bitcoin,Anti Bitcoin (ANTI),0,20828,/media/350972/anti.png,ANTI,N/A,PoW,580,42000000,N/A,/coins/anti/overview,ANTI
+N/A,AlpaCoin,AlpaCoin (APC),0,20722,/media/350956/apc.png,APC,N/A,PoW,563,N/A,N/A,/coins/apc/overview,APC
+X13,ApexCoin,ApexCoin (APEX),0,4330,/media/19599/apex.png,APEX,N/A,PoW/PoS,43,6000000,N/A,/coins/apex/overview,APEX
+Scrypt-n,Aptcoin,Aptcoin (APT),0,60419,/media/1382945/apt.png,APT,N/A,PoW,1160,42000000,N/A,/coins/apt/overview,APT
+N/A,Apx,Apx (APX),0,74912,/media/1383235/apx.png,APX,N/A,N/A,1208,1000000,N/A,/coins/apx/overview,APX
+N/A,Arbit Coin,Arbit Coin (ARB),0,7599,/media/20645/arb.png,ARB,N/A,PoW/PoS,435,0,N/A,/coins/arb/overview,ARB
+X11,ArcticCoin,ArcticCoin (ARC*),0,188615,/media/1383824/arc.png,ARC*,N/A,PoW,1370,60000000,N/A,/coins/arcstar/overview,ARC*
+SHA256,Archain,Archain (ARC1),0,251598,/media/9350779/arc1.png,ARC1,N/A,PoW,1543,N/A,N/A,/coins/arc1/overview,ARC1
+Scrypt,ArchCoin,ArchCoin (ARCH),0,4331,/media/20085/arch.png,ARCH,N/A,PoS,44,16403135,N/A,/coins/arch/overview,ARCH
+Scrypt,AquariusCoin,AquariusCoin (ARCO),0,34506,/media/352134/arco.png,ARCO,N/A,PoW/PoS,943,42000000,N/A,/coins/arco/overview,ARCO
+N/A,Ardor,Ardor (ARDR),1,30173,/media/351736/ardr.png,ARDR,N/A,PoS,842,1000000000,N/A,/coins/ardr/overview,ARDR
+Scrypt,Argentum,Argentum (ARG),0,4371,/media/19602/arg.png,ARG,N/A,PoW,45,64000000,N/A,/coins/arg/overview,ARG
+Scrypt,ArgusCoin,ArgusCoin (ARGUS),0,70352,/media/1383149/argus.png,ARGUS,N/A,PoW/PoS,1194,28600000,N/A,/coins/argus/overview,ARGUS
+Scrypt,AriCoin,AriCoin (ARI),0,4332,/media/20082/ari.png,ARI,N/A,PoW,46,322649400,N/A,/coins/ari/overview,ARI
+N/A,BeckSang,BeckSang (ARI*),0,235221,/media/9350704/ari.png,ARI*,N/A,N/A,1506,5000000000,N/A,#overview,ARI*
+DPoS,ARK,ARK (ARK),0,32699,/media/351931/ark.png,ARK,N/A,DPoS,885,125000000,N/A,/coins/ark/overview,ARK
+Scrypt,Armory Coin,Armory Coin (ARM),0,28654,/media/351545/arm.png,ARM,N/A,PoW/PoS,768,1990000000,N/A,/coins/arm/overview,ARM
+N/A,Arena,Arena (ARNA*),0,201896,/media/1383912/arna.png,ARNA*,N/A,N/A,1422,14000000,N/A,/coins/arnastar/overview,ARNA
+N/A,ARNA Panacea,ARNA Panacea (ARNA),0,303888,/media/12318005/arna.png,ARNA,N/A,N/A,1576,1000000000,N/A,/coins/arna/overview,ARNA*
+SHA256D,ArpaCoin,ArpaCoin (ARPA),0,60618,/media/1382966/arpa.png,ARPA,N/A,PoW/PoS,1162,N/A,N/A,/coins/arpa/overview,ARPA
+X11,Allsafe,Allsafe (ASAFE),0,38367,/media/1382096/allsafe.jpg,ASAFE,N/A,PoS,1007,900000000,N/A,/coins/asafe/overview,ASAFE
+QuBit,Ascension Coin,Ascension Coin (ASN),0,5356,/media/20192/asn.png,ASN,N/A,PoW/PoS,324,0,N/A,/coins/asn/overview,ASN
+X13,Astral,Astral (AST),0,38959,/media/1382170/ast.png,AST,N/A,PoW/PoS,1011,37875500,N/A,/coins/ast/overview,AST
+SHA256,ATB coin,ATB coin (ATB),0,175618,/media/1383689/atb.png,ATB,N/A,PoW,1284,N/A,N/A,/coins/atb/overview,ATB
+N/A,ATLANT,ATLANT (ATL),0,235213,/media/9350703/atlant.png,ATL,N/A,N/A,1505,150000000,N/A,/coins/atl/overview,ATL
+X11,Autumncoin,Autumncoin (ATM),0,28023,/media/351492/atm.png,ATM,N/A,PoW/PoS,729,N/A,N/A,/coins/atm/overview,ATM
+PoS,Atmos,Atmos (ATMS),0,61902,/media/1383003/atms.png,ATMS,N/A,PoS,1172,110000000,N/A,/coins/atms/overview,ATMS
+Scrypt,Atomic Coin,Atomic Coin (ATOM),0,29721,/media/351685/atom.png,ATOM,N/A,PoW/PoS,820,12000000,N/A,/coins/atom/overview,ATOM
+PoS,Cosmos,Cosmos (ATOM*),0,199107,/media/1383901/cosmos.jpg,ATOM*,N/A,N/A,1414,N/A,N/A,/coins/atomstar/overview,ATOM*
+X11,ArtexCoin,ArtexCoin (ATX),0,33871,/media/352084/atx.png,ATX,N/A,PoW,920,500000000,N/A,/coins/atx/overview,ATX
+Scrypt,Aurora Coin,Aurora Coin (AUR),0,4333,/media/19608/aur.png,AUR,N/A,PoW/PoS,47,21000000,N/A,/coins/aur/overview,AUR
+N/A,Autoria,Autoria (AUT),0,206001,/media/1383956/aut.png,AUT,N/A,N/A,1437,N/A,N/A,/coins/aut/overview,AUT
+N/A,Authoreon,Authoreon (AUTH),0,222200,/media/1384019/auth.png,AUTH,N/A,N/A,1463,1000000000,N/A,/coins/auth/overview,AUTH
+PoS,Avatar Coin,Avatar Coin (AV),0,38026,/media/1382048/av.png,AV,N/A,PoS,997,10000000,N/A,/coins/av/overview,AV
+N/A,Avalon,Avalon (AVA),0,248300,/media/9350772/ava.png,AVA,N/A,N/A,1540,10000000,N/A,/coins/ava/overview,AVA
+N/A,AventCoin,AventCoin (AVT),0,138642,/media/1383599/avt.png,AVT,N/A,N/A,1265,10000000,N/A,/coins/avt/overview,AVT
+N/A,Axiom Coin,Axiom Coin (AXIOM),0,8693,/media/20686/axiom.png,AXIOM,N/A,PoW/PoS,449,0,N/A,/coins/axiom/overview,AXIOM
+N/A,AXRON,AXRON (AXR),0,4334,/media/20086/axr.png,AXR,N/A,N/A,48,0,N/A,/coins/axr/overview,AXR
+X11,B3 Coin,B3 Coin (B3),0,28333,,B3,N/A,PoW/PoS,762,N/A,N/A,/coins/b3/overview,B3
+N/A,BankCoin,BankCoin (B@),0,56078,/media/1382804/b.png,B@,N/A,N/A,1137,N/A,N/A,/coins/b/overview,B@
+N/A,BitalphaCoin,BitalphaCoin (BAC),0,20348,/media/350913/bac.png,BAC,N/A,Pow,532,7850161887.50,N/A,/coins/bac/overview,BAC
+PoS,Babes and Nerds,Babes and Nerds (BAN),0,43247,/media/1382466/ban.png,BAN,N/A,N/A,1069,150000000,N/A,/coins/ban/overview,BAN
+Scrypt,LuckChain,LuckChain (BASH),0,33129,/media/352004/bash.png,BASH,N/A,PoW/PoS,902,1000000000,N/A,/coins/bash/overview,BASH
+N/A,Basic Attention Token,Basic Attention Token (BAT),0,107672,/media/1383370/bat.png,BAT,N/A,N/A,1238,1500000000,N/A,/coins/bat/overview,BAT
+N/A,BitBay,BitBay (BAY),0,5300,/media/1383137/bay1.png,BAY,N/A,PoS,269,1007625990,N/A,/coins/bay/overview,BAY
+Scrypt,BaseballCardCoin,BaseballCardCoin (BBCC),0,29554,/media/351658/bbcc.png,BBCC,N/A,PoW/PoS,813,19000000,N/A,/coins/bbcc/overview,BBCC
+X11,Boolberry,Boolberry (BBR),0,5343,/media/19609/bbr.png,BBR,N/A,PoW,311,18450000,N/A,/coins/bbr/overview,BBR
+N/A,BrickBlock,BrickBlock (BBT),0,198474,/media/1383883/bbt.png,BBT,N/A,N/A,1403,N/A,N/A,/coins/bbt/overview,BBT
+N/A,Blockchain Capital,Blockchain Capital (BCAP),0,72955,/media/1383948/bcap1.png,BCAP,N/A,N/A,1204,10000000,N/A,/coins/bcap/overview,BCAP
+Scrypt,BitConnect Coin,BitConnect Coin (BCCOIN),0,35165,/media/9350709/bccoin1.png,BCCOIN,N/A,PoW/PoS,957,28000000,N/A,/coins/bccoin/overview,BCCOIN
+Scrypt,BitcoinFast,BitcoinFast (BCF),0,34854,/media/352189/btf.png,BCF,N/A,PoW/PoS,953,33000000,N/A,/coins/bcf/overview,BCF
+SHA256,Bitcoin Cash / BCC,Bitcoin Cash / BCC (BCH),0,202330,/media/1383919/bch.jpg,BCH,N/A,PoW,1425,21000000,N/A,/coins/bch/overview,BCH
+CryptoNight,ByteCoin,ByteCoin (BCN),0,5280,/media/20197/bytecoin-logo.png,BCN,N/A,PoW,249,184467440735,N/A,/coins/bcn/overview,BCN
+Momentum,BitCredit,BitCredit (BCR),0,5345,/media/20198/bcr.png,BCR,N/A,PoW,313,210000000,N/A,/coins/bcr/overview,BCR
+SHA256,BattleCoin,BattleCoin (BCX),0,4335,/media/19620/bcx.png,BCX,N/A,PoS,49,100000000,N/A,/coins/bcx/overview,BCX
+Counterparty,BitCrystals,BitCrystals (BCY),1,20315,/media/350903/bcy.png,BCY,N/A,N/A,524,100000000,N/A,/coins/bcy/overview,BCY
+Scrypt,BelaCoin,BelaCoin (BELA),0,21239,/media/351933/bela.jpg,BELA,N/A,PoW,605,54000000,N/A,/coins/bela/overview,BELA
+SHA256,Benjamins,Benjamins (BEN),0,4336,/media/19617/ben.png,BEN,N/A,PoW,50,12800000,N/A,/coins/ben/overview,BEN
+Scrypt,BenjiRolls,BenjiRolls (BENJI),0,71884,/media/1383163/benji.png,BENJI,N/A,PoW,1202,35520400,N/A,/coins/benji/overview,BENJI
+X14,BERNcash,BERNcash (BERN),0,20817,/media/350973/bern.png,BERN,N/A,PoW/PoS,573,N/A,N/A,/coins/bern/overview,BERN
+Scrypt,BestChain,BestChain (BEST),0,56246,/media/1382805/best.jpg,BEST,N/A,PoW/PoS ,1138,N/A,N/A,/coins/best/overview,BEST
+SHA256,BetaCoin,BetaCoin (BET),0,4337,/media/19621/bet.png,BET,N/A,PoW,51,32000000,N/A,/coins/bet/overview,BET
+N/A,DAO.casino,DAO.casino (BET*),0,177831,/media/1383729/bet.png,BET*,N/A,N/A,1298,167270820.6879,N/A,/coins/betstar/overview,BET*
+N/A,BitFinex Tokens,BitFinex Tokens (BFX),1,25238,/media/19554/bitfinex.png,BFX,N/A,N/A,699,32000000,N/A,/coins/bfx/overview,BFX
+Quark,BighanCoin,BighanCoin (BHC),0,29559,/media/351660/bhc.png,BHC,N/A,PoW,815,411000000,N/A,/coins/bhc/overview,BHC
+CryptoNight,Bikercoins,Bikercoins (BIC),0,41587,/media/1382337/bic.png,BIC,N/A,PoW,1033,25000000,N/A,/coins/bic/overview,BIC
+N/A,BigUp,BigUp (BIGUP),1,20819,/media/350980/bigup.png,BIGUP,N/A,PoS,574,4000000000,N/A,/coins/bigup/overview,BIGUP
+SHA256D,BioBar,BioBar (BIOB),0,50734,/media/1382739/biob.png,BIOB,N/A,PoW/PoS,1117,60000000,N/A,/coins/biob/overview,BIOB
+Quark,BiosCrypto,BiosCrypto (BIOS),0,20209,/media/350894/bios.png,BIOS,N/A,Pow/PoS,514,20190463.54969237,N/A,/coins/bios/overview,BIOS
+CryptoNight,BipCoin,BipCoin (BIP),0,33936,/media/352108/bip.png,BIP,N/A,PoW,924,18446744,N/A,/coins/bip/overview,BIP
+NIST5,16BitCoin,16BitCoin (BIT16),0,22333,/media/20181/16bit.png,BIT16,N/A,PoW/PoS,661,16000000,N/A,/coins/bit16/overview,BIT16
+SHA256,BitBean,BitBean (BITB),0,4338,/media/350879/bitb.png,BITB,N/A,PoW/PoS,52,1000000000,N/A,/coins/bitb/overview,BITB
+N/A,bitCNY,bitCNY (BITCNY),1,28019,/media/351490/bitcny.png,BITCNY,N/A,N/A,727,100000000000,N/A,/coins/bitcny/overview,BITCNY
+Scrypt,BitOKX,BitOKX (BITOK),0,81445,/media/1383282/bitok.jpg,BITOK,N/A,PoS,1225,N/A,N/A,/coins/bitok/overview,BITOK
+Scrypt,BitstarCoin,BitstarCoin (BITS),0,5368,/media/19622/bits.png,BITS,N/A,PoW/PoS,336,54256119,N/A,/coins/bits/overview,BITS
+N/A,Bits Digit,Bits Digit (BITSD),0,198251,/media/1383878/bitsd.png,BITSD,N/A,N/A,1398,N/A,N/A,/coins/bitsd/overview,BITSD
+N/A,bitUSD,bitUSD (BITUSD),0,28021,/media/351491/bitusd.png,BITUSD,N/A,N/A,728,100000000000,N/A,/coins/bitusd/overview,BITUSD
+N/A,Bitz Coin,Bitz Coin (BITZ),0,7626,/media/20654/bitz.png,BITZ,N/A,PoS,439,0,N/A,/coins/bitz/overview,BITZ
+Blake2S,BlakeStar,BlakeStar (BLAS),0,253707,/media/9350785/blas.png,BLAS,N/A,PoW/PoS,1547,2400000000,N/A,/coins/blas/overview,BLAS
+Scrypt,BlazerCoin,BlazerCoin (BLAZR),0,60424,/media/1382946/blazr.png,BLAZR,N/A,PoW,1161,294336000,N/A,/coins/blazr/overview,BLAZR
+Blake,BlakeCoin,BlakeCoin (BLC),0,5362,/media/19623/blc.png,BLC,N/A,PoW,330,7000000000,N/A,/coins/blc/overview,BLC
+X13,BlitzCoin,BlitzCoin (BLITZ),0,15879,/media/350612/blitz.png,BLITZ,N/A,PoS,485,3852156,N/A,/coins/blitz/overview,BLITZ
+Scrypt,BlackCoin,BlackCoin (BLK),0,4339,/media/351795/blk.png,BLK,N/A,PoS,54,0,N/A,/coins/blk/overview,BLK
+N/A,BlockNet,BlockNet (BLOCK),0,5305,/media/20204/block.png,BLOCK,N/A,PoW/PoS,274,3900000,N/A,/coins/block/overview,BLOCK
+N/A,BlockPay,BlockPay (BLOCKPAY),0,28204,/media/351508/blockpay.png,BLOCKPAY,N/A,N/A,745,100000000,N/A,/coins/blockpay/overview,BLOCKPAY
+Scrypt,BillaryCoin,BillaryCoin (BLRY),0,20336,/media/350908/blry.png,BLRY,N/A,Pow/PoS,527,42000000,N/A,/coins/blry/overview,BLRY
+X11,BlueCoin,BlueCoin (BLU),0,4340,/media/19624/blu.png,BLU,N/A,PoW/PoS,53,500000000,N/A,/coins/blu/overview,BLU
+X13,BitMoon,BitMoon (BM),0,24405,/media/351311/bm.png,BM,N/A,PoS,691,100000000,N/A,/coins/bm/overview,BM
+N/A,Blackmoon Crypto,Blackmoon Crypto (BMC),0,304184,/media/12318008/bmc.png,BMC,N/A,N/A,1579,60000000,N/A,/coins/bmc/overview,BMC
+Scrypt,Bitmxittz,Bitmxittz (BMXT),0,213113,/media/1383984/bmxt.png,BMXT,N/A,PoW/PoS,1444,10000,N/A,/coins/bmxt/overview,BMXT
+N/A,Binance Coin,Binance Coin (BNB),0,204788,/media/1383947/bnb.png,BNB,N/A,N/A,1432,200000000,N/A,/coins/bnb/overview,BNB
+X11,Boats and Bitches,Boats and Bitches (BNB*),0,60622,/media/1382967/bnb.png,BNB*,N/A,PoS,1163,696969,N/A,/coins/bnbstar/overview,BNB*
+N/A,Benjacoin,Benjacoin (BNC),0,215570,/media/1383991/bnc.png,BNC,N/A,N/A,1448,1000000000,N/A,/coins/bnc/overview,BNC
+N/A,Bancor Network Token,Bancor Network Token (BNT),0,22327,/media/1383549/bnt.jpg,BNT,N/A,N/A,657,79323978,N/A,/coins/bnt/overview,BNT
+X11,BnrtxCoin,BnrtxCoin (BNX),0,56682,/media/1382853/bnx.png,BNX,N/A,PoW,1143,210000000,N/A,/coins/bnx/overview,BNX
+HMQ1725,Doubloon,Doubloon (BOAT),0,57742,/media/1382866/boat.png,BOAT,N/A,PoW/PoS,1150,500000000,N/A,/coins/boat/overview,BOAT
+Scrypt,Bob Coin,Bob Coin (BOB),0,7635,/media/20207/bob.png,BOB,N/A,PoW,442,21000000,N/A,/coins/bob/overview,BOB
+SHA256,Bogcoin,Bogcoin (BOG),0,188677,/media/1383826/bog.png,BOG,N/A,PoW,1371,21212121,N/A,/coins/bog/overview,BOG
+X11,BolivarCoin,BolivarCoin (BOLI),0,21357,/media/351008/boli.png,BOLI,N/A,PoW,607,25000000,N/A,/coins/boli/overview,BOLI
+Scrypt,BombCoin,BombCoin (BOMB),0,42110,/media/1382384/bomb.png,BOMB,N/A,PoW/PoS,1049,4516129032,N/A,/coins/bomb/overview,BOMB
+Scrypt,BonesCoin,BonesCoin (BON),0,21869,/media/351045/bon_1.png,BON,N/A,PoS,630,N/A,N/A,/coins/bon/overview,BON
+X13,BOOM Coin,BOOM Coin (BOOM),0,5378,/media/20208/boom.png,BOOM,N/A,PoW/PoS,346,0,N/A,/coins/boom/overview,BOOM
+N/A,BOScoin,BOScoin (BOS),0,116384,/media/1383521/bos.png,BOS,N/A,mFBA,1245,500000000,N/A,/coins/bos/overview,BOS
+X11,BosonCoin,BosonCoin (BOSON),0,33869,/media/352083/boson.png,BOSON,N/A,PoW/PoS,919,5000000000,N/A,/coins/boson/overview,BOSON
+SHA256,BitBoss,BitBoss (BOSS),0,41125,/media/1382289/boss.png,BOSS,N/A,PoW/PoS,1031,N/A,N/A,/coins/boss/overview,BOSS
+X13,BoostCoin,BoostCoin (BOST),0,4342,/media/19626/bost.png,BOST,N/A,PoW/PoS,56,40000000,N/A,/coins/bost/overview,BOST
+N/A,ArkDAO,ArkDAO (BOTS),0,28125,/media/351499/bot.png,BOTS,N/A,N/A,736,N/A,N/A,/coins/bots/overview,BOTS
+N/A,Boulle,Boulle (BOU),0,241804,/media/9350750/bou.jpg,BOU,N/A,N/A,1526,N/A,N/A,/coins/bou/overview,BOU
+Scrypt,BQCoin,BQCoin (BQC),0,4343,/media/19631/bqc.png,BQC,N/A,PoW,57,88000000,N/A,/coins/bqc/overview,BQC
+N/A,Bitquence,Bitquence (BQX),0,141464,/media/1383614/bqx.png,BQX,N/A,N/A,1269,19461495.70166717,N/A,/coins/bqx/overview,BQX
+X11,BrainCoin,BrainCoin (BRAIN),0,30373,/media/351753/brain.png,BRAIN,N/A,PoW/PoS,853,22000000,N/A,/coins/brain/overview,BRAIN
+Scrypt,BeardDollars,BeardDollars (BRDD),0,33875,/media/352086/brdd.png,BRDD,N/A,PoW/PoS,922,21212121,N/A,/coins/brdd/overview,BRDD
+X13,BritCoin,BritCoin (BRIT),0,182416,/media/1383777/brit.png,BRIT,N/A,PoW/PoS,1335,30000000,N/A,/coins/brit/overview,BRIT
+SHA256,BreakoutCoin,BreakoutCoin (BRK),0,20892,/media/350981/brk.png,BRK,N/A,PoW/PoS,581,42000000,N/A,/coins/brk/overview,BRK
+PoS,Bitradio,Bitradio (BRO),0,234982,/media/9350701/bro.png,BRO,N/A,PoS,1503,N/A,N/A,/coins/bro/overview,BRO
+Scrypt,BitBronze,BitBronze (BRONZ),0,28888,/media/351566/bronz.png,BRONZ,N/A,PoW,784,4502400,N/A,/coins/bronz/overview,BRONZ
+N/A,Breakout Stake,Breakout Stake (BRX),0,299415,/media/12317960/brx.png,BRX,N/A,PoW/PoS,1568,12500000,N/A,/coins/brx/overview,BRX
+X11,BlackShadowCoin,BlackShadowCoin (BS),0,30175,/media/351737/bs.png,BS,N/A,PoW/PoS,843,2100000000,N/A,/coins/bs/overview,BS
+X11,BowsCoin,BowsCoin (BSC),0,7482,/media/20601/bsc.png,BSC,N/A,PoW,419,21000000,N/A,/coins/bsc/overview,BSC
+X11,BitSend,BitSend (BSD),0,22329,/media/351086/bsd.png,BSD,N/A,PoW/PoS,659,139000000,N/A,/coins/bsd/overview,BSD
+X11,BitStone,BitStone (BST),0,15272,/media/350558/bst.png,BST,N/A,PoW/PoS,477,N/A,N/A,/coins/bst/overview,BST
+X11,Blackstar,Blackstar (BSTAR),0,35684,/media/352250/bstar.png,BSTAR,N/A,PoS,966,N/A,N/A,/coins/bstar/overview,BSTAR
+PoS,BattleStake,BattleStake (BSTK),0,57466,/media/1382858/bstk.png,BSTK,N/A,PoS,1144,N/A,N/A,/coins/bstk/overview,BSTK
+yescript,GlobalBoost,GlobalBoost (BSTY),0,6100,/media/19808/mrs.png,BSTY,N/A,PoW,387,0,N/A,/coins/bsty/overview,BSTY
+N/A,BuildTeam,BuildTeam (BT),0,249784,/media/9350775/bt.png,BT,N/A,N/A,1541,1000000,N/A,/coins/bt/overview,BT
+Scrypt,Bata,Bata (BTA),0,16125,/media/1383113/bta1.png,BTA,N/A,PoW,490,5000000,N/A,/coins/bta/overview,BTA
+Scrypt,BitBar,BitBar (BTB),0,4399,/media/20083/bitb.png,BTB,N/A,PoW/PoS,69,2800,N/A,/coins/btb/overview,BTB
+SHA256,Bitcoin,Bitcoin (BTC),0,1182,/media/19633/btc.png,BTC,N/A,PoW,1,21000000,N/A,/coins/btc/overview,BTC
+SHA256,BitcoinDark,BitcoinDark (BTCD),0,4400,/media/19630/btcd_1.png,BTCD,N/A,PoW/PoS,13,22000000,N/A,/coins/btcd/overview,BTCD
+Scrypt,BitluckCoin,BitluckCoin (BTCL),0,29370,/media/351633/btlc.png,BTCL,N/A,PoS,804,5000000000,N/A,/coins/btcl/overview,BTCL
+Scrypt,BitCurrency,BitCurrency (BTCR),0,28764,/media/351554/btr.png,BTCR,N/A,PoS,773,N/A,N/A,/coins/btcr/overview,BTCR
+N/A,BitCrystal,BitCrystal (BTCRY),0,5344,/media/20210/btcry.png,BTCRY,N/A,N/A,312,0,N/A,/coins/btcry/overview,BTCRY
+Scrypt,Bitcoin Scrypt,Bitcoin Scrypt (BTCS),0,71321,/media/1383158/btcs.png,BTCS,N/A,PoW,1198,21000000,N/A,/coins/btcs/overview,BTCS
+Scrypt,Bitcloud,Bitcloud (BTD),0,28089,/media/351498/btd.png,BTD,N/A,PoW/PoS,735,N/A,N/A,/coins/btd/overview,BTD
+SHA256,ByteCoin,ByteCoin (BTE),0,4401,/media/19632/bte.png,BTE,N/A,PoW,71,21000000 ,N/A,/coins/bte/overview,BTE
+Scrypt,BitGem,BitGem (BTG),0,4402,/media/19634/btg.png,BTG,N/A,PoW/PoS,72,1500000,N/A,/coins/btg/overview,BTG
+PoS,BitLuckCoin,BitLuckCoin (BTLC),0,33522,/media/352054/btlc.png,BTLC,N/A,PoS,912,5000000000,N/A,/coins/btlc/overview,BTLC
+Scrypt,BitMark,BitMark (BTM),0,4403,/media/20084/btm.png,BTM,N/A,PoW,73,27580000,N/A,/coins/btm/overview,BTM
+N/A,Bytom,Bytom (BTM*),0,218008,/media/1383996/btm.png,BTM*,N/A,N/A,1450,1407000000,N/A,/coins/btmstar/overview,BTM*
+Scrypt,BitMiles,BitMiles (BTMI),0,5404,/media/20213/btmi.png,BTMI,N/A,PoW,372,4832660000,N/A,/coins/btmi/overview,BTMI
+Skein,Bitcoin Planet,Bitcoin Planet (BTPL),0,182346,/media/1383774/btpl.png,BTPL,N/A,PoW/PoS,1332,100000000,N/A,/coins/btpl/overview,BTPL
+Multiple,BitQuark,BitQuark (BTQ),0,8763,/media/19638/btq.png,BTQ,N/A,PoW,458,0,N/A,/coins/btq/overview,BTQ
+SHA-512,Bitshares,Bitshares (BTS),1,5039,/media/20705/bts.png,BTS,N/A,PoS,10,2511953117,N/A,/coins/bts/overview,BTS
+PoS,Coin to the Future,Coin to the Future (BTTF),0,33945,/media/352111/bttf.png,BTTF,N/A,PoS,927,1210000,N/A,/coins/bttf/overview,BTTF
+Time Travel,Bitcore,Bitcore (BTX),0,198983,/media/1383895/btx.png,BTX,N/A,PoW,1410,21000000,N/A,/coins/btx/overview,BTX
+X11,BitcoinTX,BitcoinTX (BTX*),0,6113,/media/20215/btx.png,BTX*,N/A,PoS,400,0,N/A,/coins/btxstar/overview,BTX*
+X11,BitzCoin,BitzCoin (BTZ),0,42843,/media/1382433/btz.png,BTZ,N/A,PoW/PoS,1064,N/A,N/A,/coins/btz/overview,BTZ
+Scrypt,SwagBucks,SwagBucks (BUCKS),0,66685,/media/1383089/bucks.png,BUCKS,N/A,PoW/PoS,1184,N/A,N/A,/coins/bucks/overview,BUCKS
+N/A,GorillaBucks,GorillaBucks (BUCKS*),0,7481,/media/20602/bucks.png,BUCKS*,N/A,PoS,418,0,N/A,/coins/bucksstar/overview,BUCKS*
+Scrypt,CryptoBuk,CryptoBuk (BUK),0,4404,/media/19637/buk.png,BUK,N/A,PoW/PoS,74,100000000,N/A,/coins/buk/overview,BUK
+Scrypt,BullshitCoin,BullshitCoin (BULLS),0,35821,/media/352295/bulls.png,BULLS,N/A,PoW/PoS,972,N/A,N/A,/coins/bulls/overview,BULLS
+Shabal256,BurstCoin,BurstCoin (BURST),0,5286,/media/1383375/burst.png,BURST,N/A,PoC,255,2158812800,N/A,/coins/burst/overview,BURST
+SHA256D,BuzzCoin,BuzzCoin (BUZZ),0,28893,/media/351568/buzz.png,BUZZ,N/A,PoW/PoS,786,2000000000,N/A,/coins/buzz/overview,BUZZ
+Scrypt,BeaverCoin,BeaverCoin (BVC),0,48800,/media/1382711/bvc.png,BVC,N/A,PoW,1111,3360000,N/A,/coins/bvc/overview,BVC
+CryptoNight,Bitcedi,Bitcedi (BXC),0,45031,/media/1382649/bxc.jpg,BXC,N/A,PoW,1093,8589869056,N/A,/coins/bxc/overview,BXC
+SHA256,BitTokens,BitTokens (BXT),0,28208,/media/351509/bxt.png,BXT,N/A,PoW/PoS,746,21000000,N/A,/coins/bxt/overview,BXT
+N/A,ByteCent,ByteCent (BYC),0,5308,/media/20217/byc.png,BYC,N/A,PoW,277,33000000,N/A,/coins/byc/overview,BYC
+X11,BAM,BAM (BAM),0,35407,/media/352236/bam.png,BAM,N/A,PoW/PoS,963,N/A,N/A,/coins/bam/overview,BamitCoin
+Scrypt,Coin.2,Coin.2 (C2),0,5396,/media/19640/c2.png,C2,N/A,PoW/PoS,364,100000000,N/A,/coins/c2/overview,C2
+N/A,CabbageUnit,CabbageUnit (CAB),0,20212,/media/350896/cab.png,CAB,N/A,PoS,516,10499999.99999999,N/A,/coins/cab/overview,CAB
+N/A,CryptoABS,CryptoABS (CABS),0,196986,/media/1383869/cabs.png,CABS,N/A,N/A,1395,N/A,N/A,/coins/cabs/overview,CABS
+Scrypt,Cachecoin,Cachecoin (CACH),0,4405,/media/19642/cach.png,CACH,N/A,PoW,75,2000000000,N/A,/coins/cach/overview,CACH
+Scrypt,CAIx,CAIx (CAIx),0,4406,/media/20226/caix.png,CAIx,N/A,PoS,70,0,N/A,/coins/caix/overview,CAIX
+SHA256,CaliphCoin,CaliphCoin (CALC),0,30029,/media/351712/calc.png,CALC,N/A,PoW,834,135000000,N/A,/coins/calc/overview,CALC
+X11,Camcoin,Camcoin (CAM),0,5398,/media/20220/cam.png,CAM,N/A,PoW/PoS,366,10000000,N/A,/coins/cam/overview,CAM
+X11,CannabisCoin,CannabisCoin (CANN),0,4407,/media/20015/cann.png,CANN,N/A,PoW,76,106000000,N/A,/coins/cann/overview,CANN
+Scrypt,BottleCaps,BottleCaps (CAP),0,4408,/media/20017/cap.png,CAP,N/A,PoW/PoS,77,47433600,N/A,/coins/cap/overview,CAP
+Scrypt,Carboncoin,Carboncoin (CARBON),0,21382,/media/351017/carbon.png,CARBON,N/A,PoW,614,16000000000,N/A,/coins/carbon/overview,CARBON
+Scrypt,CashCoin,CashCoin (CASH),0,4409,/media/20016/cash.png,CASH,N/A,PoW/PoS,78,47433600,N/A,/coins/cash/overview,CASH
+N/A,Cash Poker Pro,Cash Poker Pro (CASH*),0,222436,/media/1384020/cpp.png,CASH*,N/A,N/A,1464,N/A,N/A,/coins/cashstar/overview,CASH*
+N/A,BlockCAT,BlockCAT (CAT),0,194567,/media/1383848/bcat1.png,CAT,N/A,N/A,1384,N/A,N/A,/coins/cat/overview,CAT
+N/A,BitClave,BitClave (CAT*),0,185689,/media/1383791/cat1.png,CAT*,N/A,N/A,1347,N/A,N/A,/coins/catstar/overview,CAT*
+PoS,CBD Crystals,CBD Crystals (CBD),0,33008,/media/351990/cbd.png,CBD,N/A,N/A,896,50000000,N/A,/coins/cbd/overview,CBD
+Scrypt,CryptoBullion,CryptoBullion (CBX),0,4411,/media/20697/cbx.png,CBX,N/A,PoW/PoS,80,1000000,N/A,/coins/cbx/overview,CBX
+Scrypt,CyberCoin,CyberCoin (CC),0,5367,/media/20225/cc.png,CC,N/A,PoW/PoS,335,0,N/A,/coins/cc/overview,CC
+N/A,CCCoin,CCCoin (CCC),0,210595,/media/1383980/ccc.png,CCC,N/A,N/A,1442,2500000,N/A,/coins/ccc/overview,CCC
+Scrypt,CannaCoin,CannaCoin (CCN),0,4412,/media/19643/ccn.png,CCN,N/A,PoW,81,13140000,N/A,/coins/ccn/overview,CCN
+N/A,CryptoCarbon,CryptoCarbon (CCRB),0,35818,/media/352294/ccrb.png,CCRB,N/A,N/A,971,N/A,N/A,/coins/ccrb/overview,CCRB
+N/A,Crystal Clear Token ,Crystal Clear Token  (CCT),0,301191,/media/12317979/cct1.png,CCT,N/A,N/A,1574,10000000,N/A,/coins/cct/overview,CCT*
+Scrypt,CoolDarkCoin,CoolDarkCoin (CCX),0,34851,/media/352188/ccx.png,CCX,N/A,PoW/PoS,952,11052632,N/A,/coins/ccx/overview,CCX
+Scrypt,Canada eCoin,Canada eCoin (CDN),0,52015,/media/1382763/cdn.png,CDN,N/A,PoW,1124,100000000 ,N/A,/coins/cdn/overview,CDN
+N/A,CoinDash,CoinDash (CDT),0,177139,/media/1383699/cdt.png,CDT,N/A,N/A,1292,9200151,N/A,/coins/cdt/overview,CDT
+N/A,Cryptodex,Cryptodex (CDX),0,26113,/media/351404/cdx.png,CDX,N/A,N/A,713,100000000,N/A,/coins/cdx/overview,CDX
+N/A,SolarFarm,SolarFarm (CELL),1,5297,/media/20227/cell.png,CELL,N/A,PoW,266,1000000000,N/A,/coins/cell/overview,CELL
+Scrypt,Crypto Escudo,Crypto Escudo (CESC),0,6104,/media/350786/cesc.png,CESC,N/A,PoW,391,1000000000,N/A,/coins/cesc/overview,CESC
+Scrypt,CETUS Coin,CETUS Coin (CETI),0,3644,/media/20228/ceti.png,CETI,N/A,PoW/PoS,24,0,N/A,/coins/ceti/overview,CETI
+SHA256,Californium,Californium (CF),0,30119,/media/351730/cf.png,CF,N/A,PoW,836,2520000,N/A,/coins/cf/overview,CF
+PoS,CoffeeCoin,CoffeeCoin (CFC),0,30123,/media/351732/cfc.png,CFC,N/A,PoS,838,N/A,N/A,/coins/cfc/overview,CFC
+N/A,Cofound.it,Cofound.it (CFI),0,136984,/media/1383567/cfi.png,CFI,N/A,N/A,1263,500000000,N/A,/coins/cfi/overview,CFI
+N/A,CryptoForecast,CryptoForecast (CFT),0,182258,/media/1383769/cft.png,CFT,N/A,N/A,1328,50000000,N/A,/coins/cft/overview,CFT
+N/A,Credo,Credo (CFT*),0,241536,/media/9350747/credo.jpg,CFT*,N/A,N/A,1523,N/A,N/A,/coins/cftstar/overview,CFT*
+Scrypt,Cryptographic Anomaly,Cryptographic Anomaly (CGA),0,20911,/media/350988/cga.png,CGA,N/A,PoW,588,10000000000,N/A,/coins/cga/overview,CGA
+Scrypt,Charity Coin,Charity Coin (CHA),0,7580,/media/19986/a3c.png,CHA,N/A,PoW,428,500000,N/A,/coins/cha/overview,CHA
+SHA256D,23 Skidoo,23 Skidoo (CHAO),0,41974,/media/1382371/chao.png,CHAO,N/A,PoW,1043,23,N/A,/coins/chao/overview,CHAO
+N/A,CleverHash,CleverHash (CHASH),0,3648,/media/20231/chash.png,CHASH,N/A,N/A,28,0,N/A,/coins/chash/overview,CHASH
+Scrypt,ChatCoin,ChatCoin (CHAT),0,52008,/media/1382762/chat.png,CHAT,N/A,PoW/PoS,1123,52500000,N/A,/coins/chat/overview,CHAT
+N/A,ChainCoin,ChainCoin (CHC),0,56249,/media/1383907/chc.png,CHC,N/A,N/A,1139,23000000,N/A,/coins/chc/overview,CHC
+Scrypt,ChessCoin,ChessCoin (CHESS),0,22407,/media/351094/chess.jpg,CHESS,N/A,PoW/PoS,665,74666667,N/A,/coins/chess/overview,CHESS
+Scrypt,TheChiefCoin,TheChiefCoin (CHIEF),0,37214,/media/1381988/chief.png,CHIEF,N/A,PoW/PoS,989,2500000000,N/A,/coins/chief/overview,CHIEF
+X11,ChildCoin,ChildCoin (CHILD),0,5377,/media/20233/child.png,CHILD,N/A,PoW,345,2000000,N/A,/coins/child/overview,CHILD
+X11,Chip,Chip (CHIP),0,8696,/media/20685/chip.png,CHIP,N/A,PoW,452,0,N/A,/coins/chip/overview,CHIP
+Scrypt,ChoofCoin,ChoofCoin (CHOOF),0,31002,/media/351876/choof.png,CHOOF,N/A,PoW/PoS,877,40000000,N/A,/coins/choof/overview,CHOOF
+Multiple,CinderCoin,CinderCoin (CIN),0,4413,/media/20698/cinder.png,CIN,N/A,PoW/PoS,82,114000000,N/A,/coins/cin/overview,CIN
+Scrypt,CINNICOIN,CINNICOIN (CINNI),0,4414,/media/19651/cinni.jpeg,CINNI,N/A,PoW,83,15000000,N/A,/coins/cinni/overview,CINNI
+SHA256D,CircuitCoin,CircuitCoin (CIR),0,43598,/media/1382506/cir.png,CIR,N/A,PoW/PoS,1074,3125000000,N/A,/coins/cir/overview,CIR
+vDPOS,CryptoCircuits,CryptoCircuits (CIRC),0,7484,/media/20603/circ.png,CIRC,N/A,PoS,421,0,N/A,/coins/circ/overview,CIRC
+X13,CryptoJacks,CryptoJacks (CJ),0,23734,/media/351234/cj.png,CJ,N/A,PoW/PoS,681,500000000,N/A,/coins/cj/overview,CJ
+PoS,CryptoJournal,CryptoJournal (CJC),0,58125,/media/1382887/cjc.png,CJC,N/A,PoS,1153,100000000,N/A,/coins/cjc/overview,CJC
+SHA256,Clockcoin,Clockcoin (CKC),0,22207,/media/351068/ckc.png,CKC,N/A,PoW/PoS,643,525000000,N/A,/coins/ckc/overview,CKC
+N/A,CLAMS,CLAMS (CLAM),0,4416,/media/20020/clam.png,CLAM,N/A,PoW,85,N/A,N/A,/coins/clam/overview,CLAM
+PoS,Clickcoin,Clickcoin (CLICK),0,42680,/media/1382399/click.png,CLICK,N/A,PoS,1058,N/A,N/A,/coins/click/overview,CLICK
+SHA256,Clinton,Clinton (CLINT),0,22191,/media/351067/clint.png,CLINT,N/A,PoW,642,2421227,N/A,/coins/clint/overview,CLINT
+X13,CloakCoin,CloakCoin (CLOAK),0,4417,/media/19994/cloak.png,CLOAK,N/A,PoW/PoS,86,4500000,N/A,/coins/cloak/overview,CLOAK
+N/A,Cloud,Cloud (CLOUD),0,243146,/media/9350757/cloud.jpg,CLOUD,N/A,N/A,1531,N/A,N/A,/coins/cloud/overview,CLOUD
+SHA256,CopperLark,CopperLark (CLR),0,4418,/media/19657/clr.png,CLR,N/A,PoW,87,27200000,N/A,/coins/clr/overview,CLR
+Scrypt, ClubCoin, ClubCoin (CLUB),0,15869,/media/350609/club.png,CLUB,N/A,PoW/PoS,482,81843455.18483748,N/A,/coins/club/overview,CLUB
+Scrypt,CludCoin,CludCoin (CLUD),0,21359,/media/351027/clud.png,CLUD,N/A,PoW,608,100200000,N/A,/coins/clud/overview,CLUD
+N/A,CleverCoin,CleverCoin (CLV),0,13074,/media/20727/clv.png,CLV,N/A,PoS/PoW,474,0,N/A,/coins/clv/overview,CLV
+Scrypt,CosmosCoin,CosmosCoin (CMC),0,4419,/media/20019/cmc.png,CMC,N/A,PoW/PoS,88,100000000,N/A,/coins/cmc/overview,CMC
+N/A,Compcoin,Compcoin (CMP),0,176004,/media/1383692/compcoin.png,CMP,N/A,N/A,1287,10000000,N/A,/coins/cmp/overview,CMP
+Scrypt,CampusCoin,CampusCoin (CMPCO),0,228090,/media/1384036/cmpo.png,CMPCO,N/A,PoW,1465,2000000000,N/A,/coins/cmpco/overview,CMPCO
+Scrypt,CometCoin,CometCoin (CMT),0,22354,/media/351090/cmt.png,CMT,N/A,PoW,663,2000000,N/A,/coins/cmt/overview,CMT
+Scrypt,ChinaCoin,ChinaCoin (CNC),0,4420,/media/20021/cnc.png,CNC,N/A,PoW,89,462500000,N/A,/coins/cnc/overview,CNC
+Scrypt,Canada eCoin,Canada eCoin (CND),0,37746,/media/1381997/cnd.png,CND,N/A,PoW,995,100000000,N/A,/coins/cnd/overview,CND
+X11,ConcealCoin,ConcealCoin (CNL),0,4421,/media/20024/cnl.png,CNL,N/A,PoW,90,8500000,N/A,/coins/cnl/overview,CNL
+N/A,Coinomat,Coinomat (CNMT),1,25825,/media/351396/cnmt.png,CNMT,N/A,N/A,706,3000000,N/A,/coins/cnmt/overview,CNMT
+Scrypt,Coino,Coino (CNO),0,42438,/media/1382391/coino.png,CNO,N/A,PoW,1053,100000000,N/A,/coins/cno/overview,CNO
+X11,Centurion,Centurion (CNT),0,70365,/media/1383150/cnt.png,CNT,N/A,PoW/PoS,1195,250000000,N/A,/coins/cnt/overview,CNT
+N/A,Cryptonex,Cryptonex (CNX),0,289715,/media/11417632/cnx.png,CNX,N/A,N/A,1562,210000000,N/A,#overview,CNX
+N/A,Cobinhood,Cobinhood (COB),0,234811,/media/9350700/cobin.png,COB,N/A,N/A,1502,1000000000,N/A,/coins/cob/overview,COB
+SHA256,Community Coin,Community Coin (COC),0,30925,/media/351872/coc.png,COC,N/A,PoW,876,36129032,N/A,/coins/coc/overview,COC
+N/A,CoEval,CoEval (COE),0,201701,/media/1383911/coe.png,COE,N/A,N/A,1421,100000,N/A,/coins/coe/overview,COE
+SHA256,Coin,Coin (COIN),0,20714,/media/350950/coin.png,COIN,N/A,PoW,561,N/A,N/A,/coins/coin/overview,COIN
+Scrypt,Community Coin,Community Coin (COMM),0,4422,/media/19661/comm.png,COMM,N/A,PoW/PoS,91,1000000000,N/A,/coins/comm/overview,COMM
+X13,Paycon,Paycon (CON_),0,12985,/media/20717/con_.png,CON_,N/A,PoW/PoS,469,50000000,N/A,/coins/con_/overview,CON
+Scrypt,CoolCoin,CoolCoin (COOL),0,4423,/media/19658/cool.png,COOL,N/A,PoS,92,100000000,N/A,/coins/cool/overview,COOL
+N/A,Corion,Corion (COR),0,179980,/media/1383753/cor.png,COR,N/A,N/A,1316,N/A,N/A,/coins/cor/overview,COR
+X13,CoralPay,CoralPay (CORAL),0,35232,/media/352225/coral.png,CORAL,N/A,PoS,962,21000000,N/A,/coins/coral/overview,CORAL
+N/A,Core Group Asset,Core Group Asset (CORE),0,205549,/media/1383950/core.png,CORE,N/A,N/A,1433,1000000,N/A,/coins/core/overview,CORE
+N/A,COSS,COSS (COSS),1,186335,/media/1383802/coss.png,COSS,N/A,N/A,1356,200000000,N/A,/coins/coss/overview,COSS
+SHA256,CovenCoin,CovenCoin (COV),0,28151,/media/351503/cov.png,COV,N/A,PoW/PoS,740,33000,N/A,/coins/cov/overview,COV
+Multiple,Circuits of Value,Circuits of Value (COVAL),0,28276,/media/351519/coval.png,COVAL,N/A,PoW,754,1000000000,N/A,/coins/coval/overview,COVAL
+Scrypt,CobraCoin,CobraCoin (COX),0,22326,/media/351083/cox.png,COX,N/A,PoW/PoS,656,1012941176,N/A,/coins/cox/overview,COX
+X11,CapriCoin,CapriCoin (CPC),0,15282,/media/350560/cpc.png,CPC,N/A,PoW/PoS,479,208000000,N/A,/coins/cpc/overview,CPC
+X13,ConquestCoin,ConquestCoin (CQST),0,37195,/media/1381983/cqst.png,CQST,N/A,PoW/PoS,986,30000000,N/A,/coins/cqst/overview,CQST
+X15,CrabCoin,CrabCoin (CRAB),0,30179,/media/351739/crab.png,CRAB,N/A,PoW/PoS,845,N/A,N/A,/coins/crab/overview,CRAB
+X11,CrackCoin,CrackCoin (CRACK),0,4424,/media/20023/crack.png,CRACK,N/A,PoW,93,6000000,N/A,/coins/crack/overview,CRACK
+Scrypt,Craftcoin,Craftcoin (CRAFT),0,29711,/media/351681/craft.png,CRAFT,N/A,PoW/PoS,816,49411760,N/A,/coins/craft/overview,CRAFT
+X11,CraigsCoin,CraigsCoin (CRAIG),0,4425,/media/20022/craig.png,CRAIG,N/A,PoS,15,30000000,N/A,/coins/craig/overview,CRAIG
+Scrypt,CraveCoin,CraveCoin (CRAVE),0,5304,/media/20242/crave.png,CRAVE,N/A,PoW/PoS,273,0,N/A,/coins/crave/overview,CRAVE
+X11,Creditbit ,Creditbit  (CRBIT),0,17547,/media/1382904/crbit1.png,CRBIT,N/A,PoW/PoS,495,100000000,N/A,/coins/crbit/overview,CRBIT
+Scrypt,CraftCoin,CraftCoin (CRC),0,4426,/media/19665/crc.png,CRC,N/A,PoW,94,100000000,N/A,/coins/crc/overview,CRC
+SHA256,Credits,Credits (CRE),0,8692,/media/20683/cre.png,CRE,N/A,PoW/PoD,448,30000000,N/A,/coins/cre/overview,CRE
+Keccak,CreativeChain,CreativeChain (CREA),0,48787,/media/1382709/crea.png,CREA,N/A,PoW,1109,115000000,N/A,/coins/crea/overview,CREA
+X11,Creva Coin,Creva Coin (CREVA),0,6451,/media/20571/creva.png,CREVA,N/A,N/A,411,0,N/A,/coins/creva/overview,CREVA
+X11,Cream,Cream (CRM),0,202049,/media/1383915/cream.png,CRM,N/A,PoW/PoS,1424,100000000,N/A,/coins/crm/overview,CRM
+X11,CrankCoin,CrankCoin (CRNK),0,30121,/media/351731/crnk.png,CRNK,N/A,PoS/PoW,837,N/A,N/A,/coins/crnk/overview,CRNK
+X11,CryptoPennies,CryptoPennies (CRPS),0,41590,/media/1382338/crps.png,CRPS,N/A,PoS,1034,1593.15,N/A,/coins/crps/overview,CRPS
+N/A,Cryptum,Cryptum (CRTM),0,255489,/media/9350790/crtm.jpg,CRTM,N/A,Proof of Ownership,1551,1100000,N/A,/coins/crtm/overview,CRTM
+SHA256,Crown Coin,Crown Coin (CRW),0,7586,/media/1383378/crw1.png,CRW,N/A,PoW,430,42000000,N/A,/coins/crw/overview,CRW
+Scrypt,ChronosCoin,ChronosCoin (CRX),0,25613,/media/351388/crx.png,CRX,N/A,PoW/PoS,701,N/A,N/A,/coins/crx/overview,CRX
+X11,CryptCoin,CryptCoin (CRYPT),0,4427,/media/19664/crypt.png,CRYPT,N/A,PoW,95,18000000,N/A,/coins/crypt/overview,CRYPT
+DPoS,CryptoSpots,CryptoSpots (CS),0,35813,/media/352292/cs.png,CS,N/A,DPoS,969,5000000,N/A,/coins/cs/overview,CS
+Scrypt,CasinoCoin,CasinoCoin (CSC),0,4428,/media/19667/csc.png,CSC,N/A,PoW,96,336000000,N/A,/coins/csc/overview,CSC
+SHA256,CashOut,CashOut (CSH),0,31004,/media/351877/csh.png,CSH,N/A,PoW,878,100000000,N/A,/coins/csh/overview,CSH
+SHA256D,Cosmic,Cosmic (CSMIC),0,34215,/media/352115/csmic.png,CSMIC,N/A,PoW/PoS,929,N/A,N/A,/coins/csmic/overview,CSMIC
+N/A,BitDice,BitDice (CSNO),1,202714,/media/1383922/csno.png,CSNO,N/A,N/A,1428,100000000,N/A,/coins/csno/overview,CSNO
+Scrypt,CarterCoin,CarterCoin (CTC),0,28083,/media/351496/ctc.png,CTC,N/A,PoW/PoS,733,90000000,N/A,/coins/ctc/overview,CTC
+N/A,Coinmatic,Coinmatic (CTIC),0,79887,/media/1383267/ctic.png,CTIC,N/A,N/A,1223,N/A,N/A,/coins/ctic/overview,CTIC
+Lyra2RE,Crypto,Crypto (CTO),0,6117,/media/19808/mrs.png,CTO,N/A,PoW,404,65789100,N/A,/coins/cto/overview,CTO
+N/A,Centra,Centra (CTR),0,225277,/media/1384029/ctr.png,CTR,N/A,N/A,1467,100000000,N/A,/coins/ctr/overview,CTR
+N/A,CodeTract,CodeTract (CTT),0,206009,/media/1383957/ctt.png,CTT,N/A,N/A,1438,N/A,N/A,/coins/ctt/overview,CTT
+N/A,DigiCube,DigiCube (CUBE),0,20688,/media/350948/cube.png,CUBE,N/A,PoS,559,N/A,N/A,/coins/cube/overview,CUBE
+Scrypt,Curecoin,Curecoin (CURE),0,5387,/media/1383812/cure.png,CURE,N/A,PoW,355,0,N/A,/coins/cure/overview,CURE
+X11,ColossusCoin2.0,ColossusCoin2.0 (CV2),0,20903,/media/350972/anti.png,CV2,N/A,PoS,582,21000000000,N/A,/coins/cv2/overview,CV2
+N/A,Civic,Civic (CVC),0,139467,/media/1383611/cvc.png,CVC,N/A,N/A,1266,1000000000,N/A,/coins/cvc/overview,CVC
+N/A,Crypviser,Crypviser (CVCOIN),0,188400,/media/1383821/cvcoin.png,CVCOIN,N/A,N/A,1368,15193882,N/A,/coins/cvcoin/overview,CVCOIN
+N/A,CryptoWorldXToken,CryptoWorldXToken (CWXT),0,43265,/media/1382470/cwxt.png,CWXT,N/A,PoW/pOs,1072,100000000,N/A,/coins/cwxt/overview,CWXT
+N/A,CheckCoin,CheckCoin (CXC),0,4415,/media/20246/cxc.png,CXC,N/A,PoS,84,100000000,N/A,/coins/cxc/overview,CXC
+NIST5,Coinonat,Coinonat (CXT),0,63308,/media/1383080/cxt.png,CXT,N/A,PoW,1179,48252000,N/A,/coins/cxt/overview,CXT
+X11,ConSpiracy Coin ,ConSpiracy Coin  (CYC),0,5392,/media/19671/cyc.png,CYC,N/A,PoW,360,33000000,N/A,/coins/cyc/overview,CYC
+X11,Cygnus,Cygnus (CYG),0,21213,/media/350997/cygnus.png,CYG,N/A,PoW/PoS,597,25885320,N/A,/coins/cyg/overview,CYG
+QuBit,CypherPunkCoin,CypherPunkCoin (CYP),0,5354,/media/20248/cyp.png,CYP,N/A,PoW,322,0,N/A,/coins/cyp/overview,CYP
+PoS,Cryptokenz,Cryptokenz (CYT),0,21706,/media/351024/cyt.png,CYT,N/A,PoS,621,N/A,N/A,/coins/cyt/overview,CYT
+X13,DarkKush,DarkKush (DANK),0,3640,/media/20247/dank.png,DANK,N/A,PoW/PoS,20,3000000,N/A,/coins/dank/overview,DANK
+N/A,Darcrus,Darcrus (DAR),0,32694,/media/351930/dar.png,DAR,N/A,N/A,884,14055048,N/A,/coins/dar/overview,DAR
+SHA256,Dark,Dark (DARK),0,61066,/media/1382995/dark.png,DARK,N/A,PoW/PoS,1167,12800000,N/A,/coins/dark/overview,DARK
+X11,DAS,DAS (DAS),0,194399,/media/1383845/das.png,DAS,N/A,PoW,1382,18900000,N/A,/coins/das/overview,DAS
+X11,DigitalCash,DigitalCash (DASH),0,3807,/media/20626/dash.png,DASH,N/A,PoW/PoS,4,22000000,N/A,/coins/dash/overview,DASH
+Scrypt,DarkBit,DarkBit (DB),0,6116,/media/19808/mrs.png,DB,N/A,PoW/PoS,403,0,N/A,/coins/db/overview,DB
+PoS,Digital Bullion Gold,Digital Bullion Gold (DBG),0,21859,/media/351047/dbg.png,DBG,N/A,PoS,629,15000000,N/A,/coins/dbg/overview,DBG
+SHA256,DubaiCoin,DubaiCoin (DBIC),0,20198,/media/350891/dbic.png,DBIC,N/A,PoW/PoS,511,10500000,N/A,/coins/dbic/overview,DBIC
+Dagger-Hashimoto,DubaiCoin,DubaiCoin (DBIX),0,57481,/media/1382860/dbix.png,DBIX,N/A,PoW,1146,N/A,N/A,/coins/dbix/overview,DBIX
+Scrypt,DebitCoin,DebitCoin (DBTC),0,20726,/media/350953/dbtc.png,DBTC,N/A,PoW,565,18000000,N/A,/coins/dbtc/overview,DBTC
+SHA256,DarkCrave,DarkCrave (DCC),0,6114,/media/19808/mrs.png,DCC,N/A,PoW/PoS,401,277500,N/A,/coins/dcc/overview,DCC
+X11,DickCoin,DickCoin (DCK),0,28229,/media/351516/dck.png,DCK,N/A,PoW/PoS,753,N/A,N/A,/coins/dck/overview,DCK
+N/A,Dentacoin,Dentacoin (DCN),0,218906,/media/1383999/dcn.png,DCN,N/A,N/A,1453,8000000000000,N/A,/coins/dcn/overview,DCN
+BLAKE256,Decred,Decred (DCR),0,16713,/media/1382607/decred.png,DCR,N/A,PoW/PoS,492,21000000,N/A,/coins/dcr/overview,DCR
+N/A,DeltaCredits,DeltaCredits (DCRE),0,34487,/media/352128/dcre.png,DCRE,N/A,PoS,937,100000,N/A,/coins/dcre/overview,DCRE
+N/A,deCLOUDs,deCLOUDs (DCS),0,26129,/media/351407/cloud.png,DCS,N/A,PoS,715,100000000,N/A,/coins/dcs/overview,DCS.
+N/A,Decent,Decent (DCT),0,25721,/media/351389/dct.png,DCT,N/A,PoS,702,73197775,N/A,/coins/dct/overview,DCT
+CryptoNight,Dinastycoin,Dinastycoin (DCY),0,181373,/media/1383767/dcy.png,DCY,N/A,PoW,1327,2000000000,N/A,/coins/dcy/overview,DCY
+N/A,Digital Developers Fund,Digital Developers Fund (DDF),0,180595,/media/1383760/ddf.png,DDF,N/A,N/A,1321,250000000,N/A,/coins/ddf/overview,DDF
+Scrypt,Degas Coin,Degas Coin (DEA),0,79849,/media/1383264/dea.png,DEA,N/A,PoW/PoS,1220,105000000,N/A,/coins/dea/overview,DEA
+N/A,Deep Gold,Deep Gold (DEEP),0,301119,/media/12317976/deep.png,DEEP,N/A,N/A,1572,100000000,N/A,/coins/deep/overview,DEEP
+N/A,Agrello Delta,Agrello Delta (DELTA),0,220204,/media/1384001/delta.png,DELTA,N/A,N/A,1454,N/A,N/A,/coins/delta/overview,DELTA
+SHA256,eMark,eMark (DEM),0,4429,/media/20028/dem.png,DEM,N/A,PoW/PoS,97,210000000,N/A,/coins/dem/overview,DEM
+N/A,Dent,Dent (DENT),0,141331,/media/1383613/dent.png,DENT,N/A,N/A,1268,100000000000,N/A,/coins/dent/overview,DENT
+Scrypt,Destiny,Destiny (DES),0,22330,/media/351087/des.png,DES,N/A,PoW/PoS,660,212625,N/A,/coins/des/overview,DES
+X11,DarkEther,DarkEther (DETH),0,40845,/media/1382252/deth.png,DETH,N/A,N/A,1024,16035000,N/A,/coins/deth/overview,DETH
+Scrypt,DigiEuro,DigiEuro (DEUR),0,21384,/media/351018/deur.png,DEUR,N/A,PoW,615,N/A,N/A,/coins/deur/overview,DEUR
+N/A,DentalFix,DentalFix (DFBT),0,198693,/media/1383890/dfbt.png,DFBT,N/A,N/A,1405,100000000,N/A,/coins/dfbt/overview,DFBT
+Scrypt,Draftcoin,Draftcoin (DFT),0,236039,/media/9350712/dft.png,DFT,N/A,PoS,1508,N/A,N/A,/coins/dft/overview,DFT
+Multiple,DigiByte,DigiByte (DGB),0,4430,/media/19673/dgb.png,DGB,N/A,PoW,11,21000000000,N/A,/coins/dgb/overview,DGB
+Scrypt,DigiCoin,DigiCoin (DGC),0,4353,/media/19676/dgc.png,DGC,N/A,PoW,66,48166000,N/A,/coins/dgc/overview,DGC
+N/A,Digix DAO,Digix DAO (DGD),0,18907,/media/350851/dgd.png,DGD,N/A,N/A,503,N/A,N/A,/coins/dgd/overview,DGD
+X13,DarkGold,DarkGold (DGDC),0,28278,/media/351520/dgd.png,DGDC,N/A,PoW/PoS,755,1000000,N/A,/coins/dgdc/overview,DGDC
+Scrypt,Digigems,Digigems (DGMS),0,34496,/media/352132/dgms.png,DGMS,N/A,PoW,941,50000000,N/A,/coins/dgms/overview,DGMS
+X11,DogeGoreCoin,DogeGoreCoin (DGORE),0,29904,/media/351697/dgore.png,DGORE,N/A,PoW/PoS,824,500000000,N/A,/coins/dgore/overview,DGORE
+N/A,DigiPulse,DigiPulse (DGT),0,202696,/media/1383920/dgt.png,DGT,N/A,N/A,1426,N/A,N/A,/coins/dgt/overview,DGT
+N/A,Etheroll,Etheroll (DICE),0,89572,/media/1383361/dice.png,DICE,N/A,N/A,1231,7001622.64,N/A,/coins/dice/overview,DICE
+SHA256,CarpeDiemCoin,CarpeDiemCoin (DIEM),0,20213,/media/20260/diem_1.png,DIEM,N/A,PoW,517,21626280000 ,N/A,/coins/diem/overview,DIEM
+Scrypt,Diggits,Diggits (DIGS),1,12192,/media/20706/digs.png,DIGS,N/A,PoS,464,100000000,N/A,/coins/digs/overview,DIGS
+N/A,DIMCOIN,DIMCOIN (DIM),0,180678,/media/1383761/dim.png,DIM,N/A,N/A,1322,10000000 ,N/A,/coins/dim/overview,DIM
+Quark,DimeCoin,DimeCoin (DIME),0,21365,/media/351012/dime.png,DIME,N/A,PoW,609,460000000000,N/A,/coins/dime/overview,DIME
+X11,Dark Lisk,Dark Lisk (DISK),0,21652,/media/351023/disk.png,DISK,N/A,PoW/PoS,619,N/A,N/A,/coins/disk/overview,DISK
+Scrypt,DarkKnightCoin,DarkKnightCoin (DKC),0,30920,/media/351870/dkc.png,DKC,N/A,PoW/PoS,875,24000000,N/A,/coins/dkc/overview,DKC
+SHA256,DollarCoin,DollarCoin (DLC),0,28776,/media/351559/dlc.png,DLC,N/A,PoW,778,10638298,N/A,/coins/dlc/overview,DLC
+N/A,Dlisk,Dlisk (DLISK),0,23743,/media/351237/dlisk.png,DLISK,N/A,DPoS,684,100000000,N/A,/coins/dlisk/overview,DLISK
+X11,DollarOnline,DollarOnline (DLR),0,34213,/media/352114/dollarcoin.png,DLR,N/A,PoW/PoS,928,1000000000,N/A,/coins/dlr/overview,DLR
+N/A,DMarket,DMarket (DMARKET),0,192400,/media/1383841/dmarket.png,DMARKET,N/A,N/A,1381,N/A,N/A,/coins/dmarket/overview,DMARKET
+Groestl,Diamond,Diamond (DMD),0,4431,/media/19680/dmd.png,DMD,N/A,PoW/PoS,98,4380000,N/A,/coins/dmd/overview,DMD
+N/A,Encrypgen,Encrypgen (DNA),0,180804,/media/1383763/dna.png,DNA,N/A,N/A,1324,100000000,N/A,/coins/dna/overview,DNA
+Quark,Darknet,Darknet (DNET),0,20346,/media/350912/dnet.png,DNET,N/A,Pow/PoS,531,37175346,N/A,/coins/dnet/overview,DNET
+NIST5,Denarius,Denarius (DNR),0,182288,/media/1383770/dnr.png,DNR,N/A,PoW/PoS,1329,10000000,N/A,/coins/dnr/overview,DNR
+N/A,district0x,district0x (DNT),0,177175,/media/1383701/dnt.png,DNT,N/A,N/A,1294,1000000000,N/A,/coins/dnt/overview,DNT
+Scrypt,Dogecoin,Dogecoin (DOGE),0,4432,/media/19684/doge.png,DOGE,N/A,PoW,8,100000000000,N/A,/coins/doge/overview,DOGE
+Scrypt,DogeCoinDark,DogeCoinDark (DOGED),0,17549,/media/20029/doged.png,DOGED,N/A,PoW,496,16500000000,N/A,/coins/doged/overview,DOGED
+X11,EtherDoge,EtherDoge (DOGETH),0,33403,/media/352023/dogeth-2.png,DOGETH,N/A,PoW/PoS,909,18100000,N/A,/coins/dogeth/overview,DOGETH
+Scrypt,DopeCoin,DopeCoin (DOPE),0,28332,/media/351526/dope.png,DOPE,N/A,PoW,761,575000000,N/A,/coins/dope/overview,DOPE
+Scrypt,Dotcoin,Dotcoin (DOT),0,20339,/media/350909/dot.png,DOT,N/A,Pow,529,890000000,N/A,/coins/dot/overview,DOT
+Scrypt,DonationCoin,DonationCoin (DOV),0,61073,/media/1382995/don.png,DOV,N/A,PoW,1168,90000000,N/A,/coins/dov/overview,DOV
+X11,DigitalPrice,DigitalPrice (DP),0,182325,/media/1383772/dp.png,DP,N/A,PoW,1330,N/A,N/A,/coins/dp/overview,DP
+X13,DelightPay,DelightPay (DPAY),0,29718,/media/351684/dpay.png,DPAY,N/A,PoW/PoS,819,90400000,N/A,/coins/dpay/overview,DPAY
+Scrypt,DraculaCoin,DraculaCoin (DRA),0,38360,/media/1382095/dra.png,DRA,N/A,60,1006,N/A,N/A,/coins/dra/overview,DRA
+N/A,DT Token,DT Token (DRACO),1,22248,/media/351390/dt-token.png,DRACO,N/A,N/A,647,88888888,N/A,/coins/draco/overview,DRACO
+N/A,Dropcoin,Dropcoin (DRC),0,290053,/media/11417638/drp.png,DRC,N/A,PoS,1563,500000000,N/A,/coins/drc/overview,DRC
+X11,DarkCash,DarkCash (DRKC),0,4434,/media/20027/drkc.png,DRKC,N/A,PoW/PoS,100,3720000,N/A,/coins/drkc/overview,DRKC
+SHA256,DarkTron,DarkTron (DRKT),0,7483,/media/20604/drkt.png,DRKT,N/A,PoW/PoS,420,1500000,N/A,/coins/drkt/overview,DRKT
+Scrypt,Dream8Coin,Dream8Coin (DRM8),0,33524,/media/352055/drm8.png,DRM8,N/A,PoW,913,88800000000,N/A,/coins/drm8/overview,DRM8
+X13,FaucetCoin,FaucetCoin (DROP),0,28767,/media/351555/drop.png,DROP,N/A,PoS,774,10000,N/A,/coins/drop/overview,DROP
+N/A,DCORP,DCORP (DRP),0,188523,/media/1383822/drp.png,DRP,N/A,N/A,1369,8094002,N/A,/coins/drp/overview,DRP
+Scrypt,Digital Rupees,Digital Rupees (DRS),0,33645,/media/352072/drs.png,DRS,N/A,PoS ,917,N/A,N/A,/coins/drs/overview,DRS
+QUAIT,Droidz,Droidz (DRZ),0,7480,/media/20605/drz.png,DRZ,N/A,PoW/PoS,417,5060000,N/A,/coins/drz/overview,DRZ
+Scrypt,DarkShibe,DarkShibe (DSB),0,4435,/media/20034/dsb.png,DSB,N/A,PoW,101,2043962,N/A,/coins/dsb/overview,DSB
+CryptoNight,Dashcoin,Dashcoin (DSH),0,20196,/media/20026/dash.png,DSH,N/A,PoW,510,18446744,N/A,/coins/dsh/overview,DSH
+NIST5,DarkToken,DarkToken (DT),0,3643,/media/20031/dt.png,DT,N/A,PoW/PoS,23,0,N/A,/coins/dt/overview,DT
+N/A,Databits,Databits (DTB),0,55540,/media/1382791/dtb.png,DTB,N/A,N/A,1131,22747809,N/A,/coins/dtb/overview,DTB
+X13,DayTrader Coin,DayTrader Coin (DTC),0,5337,/media/19688/dtc.png,DTC,N/A,PoW/PoS,305,1000000,N/A,/coins/dtc/overview,DTC
+N/A,DetectorToken,DetectorToken (DTCT),0,223644,/media/1384025/dtct.png,DTCT,N/A,N/A,1466,N/A,N/A,/coins/dtct/overview,DTCT
+X15,DubCoin,DubCoin (DUB),0,7627,/media/19986/a3c.png,DUB,N/A,PoW/PoS,440,0,N/A,/coins/dub/overview,DUB
+Scrypt,DuckDuckCoin,DuckDuckCoin (DUCK),0,56678,/media/1382852/duckduckcoin.png,DUCK,N/A,PoW,1142,121,N/A,/coins/duck/overview,DUCK
+Scrypt,ParallelCoin,ParallelCoin (DUO),0,73132,/media/1383196/duo.png,DUO,N/A,PoW,1205,1000000,N/A,/coins/duo/overview,DUO
+Scrypt,DuxCoin,DuxCoin (DUX),0,105206,/media/1383364/dux.png,DUX,N/A,PoW/PoS,1234,1680000000,N/A,/coins/dux/overview,DUX
+SHA256,DevCoin,DevCoin (DVC),0,4436,/media/20563/dvc.png,DVC,N/A,PoW,102,21000000000,N/A,/coins/dvc/overview,DVC
+Argon2,Dynamic,Dynamic (DYN),0,131111,/media/1383557/dyn.png,DYN,N/A,PoW,1256,44738100,N/A,/coins/dyn/overview,DYN
+SHA256,EagleCoin,EagleCoin (EA),0,45821,/media/1382685/ea.png,EA,N/A,PoW,1106,40000000,N/A,/coins/ea/overview,EA
+Scrypt,EarthCoin,EarthCoin (EAC),0,4437,/media/19690/eac.png,EAC,N/A,PoW,103,13500000000,N/A,/coins/eac/overview,EAC
+X11,EagsCoin,EagsCoin (EAGS),0,6106,/media/19808/mrs.png,EAGS,N/A,PoW/PoS,393,20445500,N/A,/coins/eags/overview,EAGS
+Scrypt,EB3coin,EB3coin (EB3),0,59968,/media/1382938/eb3.png,EB3,N/A,PoW,1157,4000000000,N/A,/coins/eb3/overview,EB3
+N/A,EbolaShare,EbolaShare (EBS),0,5329,/media/20267/ebs.png,EBS,N/A,PoS,297,2100000,N/A,/coins/ebs/overview,EBS
+PoS,Ebitz,Ebitz (EBZ),0,33636,/media/352069/ebz.png,EBZ,N/A,PoS,915,21000000,N/A,/coins/ebz/overview,EBZ
+SHA256D,Eclipse,Eclipse (EC),0,30367,/media/351750/ec.jpg,EC,N/A,PoW/PoS,850,N/A,N/A,/coins/ec/overview,EC
+Scrypt,E-CurrencyCoin,E-CurrencyCoin (ECC),0,129013,/media/1383546/ecc.png,ECC,N/A,PoW/PoS,1250,25000000000,N/A,/coins/ecc/overview,ECC
+Scrypt,ECOcoin,ECOcoin (ECO),0,61047,/media/1382993/eco.png,ECO,N/A,PoW/PoS,1165,10733333,N/A,/coins/eco/overview,ECO
+N/A,EcoBit,EcoBit (ECOB),0,171390,/media/1383670/ecob.png,ECOB,N/A,N/A,1279,N/A,N/A,/coins/ecob/overview,ECOB
+Scrypt,EducoinV,EducoinV (EDC),0,22185,/media/351066/edc.png,EDC,N/A,PoW/PoS,641,99000000,N/A,/coins/edc/overview,EDC
+N/A,Edgeless,Edgeless (EDG),0,55676,/media/1382799/edg.jpg,EDG,N/A,N/A,1136,132046997,N/A,/coins/edg/overview,EDG
+SHA256,EdgeCoin,EdgeCoin (EDGE),0,6339,/media/20556/edge.png,EDGE,N/A,PoW/HiPoS,405,N/A,N/A,/coins/edge/overview,EDGE
+X11,E-Dinar Coin,E-Dinar Coin (EDR),0,27634,/media/351430/edc.png,EDR,N/A,DPoS,722,999000000000000,N/A,/coins/edr/overview,EDR
+SHA256,EDRCoin,EDRCoin (EDRC),0,19051,/media/350858/edrc.jpg,EDRC,N/A,PoW/PoS,504,22000000,N/A,/coins/edrc/overview,EDRC
+Scrypt,E-Gulden,E-Gulden (EFL),0,4438,/media/19692/efl.png,EFL,N/A,PoW,104,21000000 ,N/A,/coins/efl/overview,EFL
+N/A,Ergo,Ergo (EFYT),0,165555,/media/1383646/efyt.png,EFYT,N/A,N/A,1272,150000,N/A,/coins/efyt/overview,EFYT
+X15,EverGreenCoin,EverGreenCoin (EGC),0,15885,/media/350614/egc.png,EGC,N/A,PoW/PoS,487,26298000,N/A,/coins/egc/overview,EGC
+Scrypt,EggCoin,EggCoin (EGG),0,5395,/media/20269/egg.png,EGG,N/A,PoW/PoS,363,3891,N/A,/coins/egg/overview,EGG
+PoS,EGOcoin,EGOcoin (EGO),0,29368,/media/351632/ego.png,EGO,N/A,PoS,803,60000000,N/A,/coins/ego/overview,EGO
+X13,Elektron,Elektron (EKN),0,5281,/media/20270/ekn.png,EKN,N/A,PoW/PoS,250,3000000,N/A,/coins/ekn/overview,EKN
+Scrypt,EkoCoin,EkoCoin (EKO),0,22328,/media/351085/eko.png,EKO,N/A,PoW,658,533333333,N/A,/coins/eko/overview,EKO
+Scrypt,Elacoin,Elacoin (ELC),0,4439,/media/19694/elc.png,ELC,N/A,PoW,105,75000000,N/A,/coins/elc/overview,ELC
+Ethash,Elementrem,Elementrem (ELE),0,30550,/media/351793/ele.png,ELE,N/A,PoW,868,N/A,N/A,/coins/ele/overview,ELE
+Scrypt,Elysium,Elysium (ELS),0,42685,/media/1382400/els.png,ELS,N/A,PoW,1059,18000000,N/A,/coins/els/overview,ELS
+X13,EmberCoin,EmberCoin (EMB),0,33942,/media/352110/emb.png,EMB,N/A,PoW/PoS,926,850000000,N/A,/coins/emb/overview,EMB
+SHA256,Emercoin,Emercoin (EMC),0,15876,/media/350611/emc.png,EMC,N/A,PoW/PoS,484,1000000000,N/A,/coins/emc/overview,EMC
+Scrypt,Einsteinium,Einsteinium (EMC2),0,4440,/media/20033/emc2.png,EMC2,N/A,PoW,106,299792458,N/A,/coins/emc2/overview,EMC2
+Scrypt,Emerald,Emerald (EMD),0,4441,/media/20278/emd.png,EMD,N/A,PoW,107,31499000	,N/A,/coins/emd/overview,EMD
+SHA256,EmiratesGoldCoin,EmiratesGoldCoin (EMIGR),0,29556,/media/351659/emirg.png,EMIGR,N/A,PoW,814,4000000,N/A,/coins/emigr/overview,EMIGR
+X11,EmporiumCoin,EmporiumCoin (EMPC),0,63312,/media/1383081/empc.png,EMPC,N/A,PoW/PoS,1180,N/A,N/A,/coins/empc/overview,EMPC
+N/A,EasyMine,EasyMine (EMT),0,247322,/media/9350765/emt.png,EMT,N/A,N/A,1535,33000000,N/A,/coins/emt/overview,EMT
+X13,EneCoin,EneCoin (ENE),0,28174,/media/351506/ene.png,ENE,N/A,PoW/PoS,743,N/A,N/A,/coins/ene/overview,ENE
+N/A,Enjin Coin,Enjin Coin (ENJ),0,283116,/media/11417639/enjt.png,ENJ,N/A,N/A,1561,1000000000,N/A,/coins/enj/overview,ENJ
+Scrypt,EnergyCoin,EnergyCoin (ENRG),0,4350,/media/19697/enrg.png,ENRG,N/A,PoW/PoS,63,0,N/A,/coins/enrg/overview,ENRG
+X11,Eternity,Eternity (ENT),0,34609,/media/352157/ent.jpg,ENT,N/A,PoW/PoS,946,60000000,N/A,/coins/ent/overview,ENT
+Scrypt,EnterCoin (ENTER),EnterCoin (ENTER) (ENTER),0,24307,/media/351305/enter.png,ENTER,N/A,PoW/PoS,689,N/A,N/A,/coins/enter/overview,ENTER
+Scrypt,EveryonesCoin,EveryonesCoin (EOC),0,44803,/media/1382628/eoc.png,EOC,N/A,PoW/PoS,1088,N/A,N/A,/coins/eoc/overview,EOC
+N/A,Exscudo,Exscudo (EON),0,255546,/media/9350791/eon.jpg,EON,N/A,DPoS,1552,N/A,N/A,/coins/eon/overview,EON
+DPoS,EOS,EOS (EOS),0,166503,/media/1383652/eos-logo.png,EOS,N/A,DPoS,1274,1000000000,N/A,/coins/eos/overview,EOS
+Scrypt,Empyrean,Empyrean (EPY),0,7564,/media/20628/epy.png,EPY,N/A,PoW,424,100000,N/A,/coins/epy/overview,EPY
+N/A,EQUI,EQUI (EQ),1,198698,/media/1383891/eq.png,EQ,N/A,N/A,1406,500000000,N/A,/coins/eq/overview,EQ
+N/A,Equibit,Equibit (EQB),0,188300,/media/1383816/eqb.png,EQB,N/A,N/A,1365,1000000,N/A,/coins/eqb/overview,EQB
+SHA256,Equilibrium Coin,Equilibrium Coin (EQM),0,6093,/media/19808/mrs.png,EQM,N/A,PoW/PoS,380,0,N/A,/coins/eqm/overview,EQM
+Scrypt,EquiTrader,EquiTrader (EQT),0,105263,/media/1383366/eqt.png,EQT,N/A,PoW,1236,72000000,N/A,/coins/eqt/overview,EQT
+X13,EqualCoin,EqualCoin (EQUAL),0,30883,/media/351867/equal.png,EQUAL,N/A,PoW/PoS,872,1000000000,N/A,/coins/equal/overview,EQUAL
+Scrypt,ERBCoin,ERBCoin (ERB),0,28665,/media/351550/erb.png,ERB,N/A,N/A,770,125000000,N/A,/coins/erb/overview,ERB
+X11,EuropeCoin,EuropeCoin (ERC),0,20748,/media/350960/erc.png,ERC,N/A,PoW/PoS,570,384000000,N/A,/coins/erc/overview,ERC
+Scrypt,ErrorCoin,ErrorCoin (ERR),0,44749,/media/1382624/err.png,ERR,N/A,PoW,1085,81000000,N/A,/coins/err/overview,ERR
+X11,Eryllium,Eryllium (ERY),0,42694,/media/1382403/ely2.png,ERY,N/A,PoW/PoS,1061,100000000,N/A,/coins/ery/overview,ERY
+HMQ1725,Espers,Espers (ESP),0,130951,/media/1383554/esp.png,ESP,N/A,PoW/PoS,1254,50000000000,N/A,/coins/esp/overview,ESP
+N/A,Ethbits,Ethbits (ETB),0,188394,/media/1383820/avatar_900663.jpg,ETB,N/A,N/A,1367,1298672.2166,N/A,/coins/etb/overview,ETB
+Ethash,Ethereum Classic,Ethereum Classic (ETC),0,5324,/media/20275/etc2.png,ETC,N/A,PoW,7,N/A,N/A,/coins/etc/overview,ETC
+Ethash,Ethereum ,Ethereum  (ETH),0,7605,/media/20646/eth.png,ETH,N/A,PoW,2,0,N/A,/coins/eth/overview,ETH
+Scrypt,EthereumScrypt,EthereumScrypt (ETHS),0,20448,/media/350910/eths.png,ETHS,N/A,Pow/PoS,539,4200000,N/A,/coins/eths/overview,ETHS
+N/A,EncryptoTel,EncryptoTel (ETT),0,62529,/media/1383046/ett.png,ETT,N/A,N/A,1174,N/A,N/A,/coins/ett/overview,ETT
+SHA256,Eurocoin,Eurocoin (EUC),0,34849,/media/1382471/euc.png,EUC,N/A,PoW/PoS,951,20000000,N/A,/coins/euc/overview,EUC
+Scrypt,Event Token,Event Token (EVENT),0,5405,/media/20277/event.png,EVENT,N/A,PoW/PoS,373,0,N/A,/coins/event/overview,EVENT
+X11,EvilCoin,EvilCoin (EVIL),0,22272,/media/351080/evil.png,EVIL,N/A,PoW/PoS,653,21024000,N/A,/coins/evil/overview,EVIL
+N/A,Everex,Everex (EVX),0,194883,/media/1383850/evx.png,EVX,N/A,N/A,1484,N/A,N/A,/coins/evx/overview,EVX
+SHA256,ExaByte (EXB),ExaByte (EXB) (EXB),0,25925,/media/351401/exb.png,EXB,N/A,PoW,711,500000000,N/A,/coins/exb/overview,EXB
+PoS,Exclusive Coin,Exclusive Coin (EXCL),0,4442,/media/20035/excl.png,EXCL,N/A,PoS,108,4000000,N/A,/coins/excl/overview,EXCL
+Scrypt,ExeCoin,ExeCoin (EXE),0,4443,/media/19700/exe.png,EXE,N/A,PoW,109,21000000 ,N/A,/coins/exe/overview,EXE
+Scrypt,ExitCoin,ExitCoin (EXIT),0,22180,/media/351065/exit.png,EXIT,N/A,PoW/PoS,640,756000000,N/A,/coins/exit/overview,EXIT
+Ethash,Expanse,Expanse (EXP),0,12194,/media/20707/exp.png,EXP,N/A,PoW,465,N/A,N/A,/coins/exp/overview,EXP
+Scrypt,EZCoin,EZCoin (EZC),0,4444,/media/19702/ezc.png,EZC,N/A,PoW,110,84000000,N/A,/coins/ezc/overview,EZC
+Scrypt,F16Coin,F16Coin (F16),0,108099,/media/1383372/f16.png,F16,N/A,PoW/PoS,1240,N/A,N/A,/coins/f16/overview,F16
+Groestl,FairCoin,FairCoin (FAIR),0,5313,/media/20287/fair.png,FAIR,N/A,PoW/PoS,282,0,N/A,/coins/fair/overview,FAIR
+QuBit,FameCoin,FameCoin (FAME),0,33268,/media/352006/fame.png,FAME,N/A,PoW/PoS,903,50000000,N/A,/coins/fame/overview,FAME
+PoS,FazzCoin,FazzCoin (FAZZ),0,60409,/media/1382944/fazz.png,FAZZ,N/A,PoS,1159,N/A,N/A,/coins/fazz/overview,FAZZ
+N/A,Facecoin,Facecoin (FC),1,307112,/media/12318045/fc.png,FC,N/A,N/A,1587,20000000,N/A,/coins/fc/overview,FC
+X11,Fuel2Coin,Fuel2Coin (FC2),0,4446,/media/19719/fuel.png,FC2,N/A,PoS,112,100000000,N/A,/coins/fc2/overview,FC2
+CryptoNight,FantomCoin ,FantomCoin  (FCN),0,5385,/media/20282/fcn.png,FCN,N/A,PoW,353,18400000,N/A,/coins/fcn/overview,FCN
+X11,CryptoFocus,CryptoFocus (FCS),0,6101,/media/19808/mrs.png,FCS,N/A,PoW/PoS,388,0,N/A,/coins/fcs/overview,FCS
+N/A,Factoids,Factoids (FCT),1,13280,/media/1382863/fct1.png,FCT,N/A,N/A,475,8753873,N/A,/coins/fct/overview,FCT
+SHA256,FireflyCoin,FireflyCoin (FFC),0,4447,/media/19706/ffc.png,FFC,N/A,PoW,113,700000000000,N/A,/coins/ffc/overview,FFC
+Scrypt,Free Game Zone,Free Game Zone (FGZ),0,33866,/media/352082/fgz.png,FGZ,N/A,PoW,918,44775520,N/A,/coins/fgz/overview,FGZ
+NIST5,FIBRE,FIBRE (FIBRE),0,4448,/media/20030/fibre.png,FIBRE,N/A,PoW/PoS,114,624000,N/A,/coins/fibre/overview,FIBRE
+N/A,FileCoin,FileCoin (FIL),0,213663,/media/1383987/fil.png,FIL,N/A,N/A,1446,N/A,N/A,/coins/fil/overview,FIL
+X13,FindCoin,FindCoin (FIND),1,48807,/media/1382713/find.png,FIND,N/A,PoS,1112,14524851.4827,N/A,/coins/find/overview,FIND
+X15,FireCoin,FireCoin (FIRE),0,29196,/media/351625/fire.png,FIRE,N/A,PoW/PoS,797,N/A,N/A,/coins/fire/overview,FIRE
+Scrypt,FirstCoin,FirstCoin (FIRST),0,34223,/media/352116/first.png,FIRST,N/A,PoW/PoS,930,110000000,N/A,/coins/first/overview,FIRST
+X13,FistBump,FistBump (FIST),0,33526,/media/352056/fist.png,FIST,N/A,PoW/PoS,914,N/A,N/A,/coins/fist/overview,FIST
+X11,Fitcoin,Fitcoin (FIT),0,29133,/media/351618/fit.png,FIT,N/A,PoW/PoS,794,8880000000,N/A,/coins/fit/overview,FIT
+Scrypt-n,FujiCoin,FujiCoin (FJC),0,29935,/media/351702/fjc.png,FJC,N/A,N/A,828,10000000000,N/A,/coins/fjc/overview,FJC
+Scrypt,Flappy Coin,Flappy Coin (FLAP),0,4445,/media/20032/flap.png,FLAP,N/A,PoW,111,100000000000,N/A,/coins/flap/overview,FLAP
+Stanford Folding,Folding Coin,Folding Coin (FLDC),0,5348,/media/20284/fldc.png,FLDC,N/A,PoW,316,1000000000,N/A,/coins/fldc/overview,FLDC
+Scrypt,FlorinCoin,FlorinCoin (FLO),0,5325,/media/1383331/flo1.png,FLO,N/A,PoW,293,160000000,N/A,/coins/flo/overview,FLO
+Scrypt,FlutterCoin,FlutterCoin (FLT),0,4449,/media/19709/flt.png,FLT,N/A,PoS/PoW/PoT,116,0,N/A,/coins/flt/overview,FLT
+SHA256,FlavorCoin,FlavorCoin (FLVR),0,21878,/media/351046/2flav.png,FLVR,N/A,PoW/PoS,633,9000000,N/A,/coins/flvr/overview,FLVR
+Scrypt,Flash,Flash (FLX),0,21244,/media/351007/flx.png,FLX,N/A,PoW/PoS,606,1000000,N/A,/coins/flx/overview,FLX
+X13,FlyCoin,FlyCoin (FLY),0,21370,/media/351013/fly.png,FLY,N/A,PoS,610,N/A,N/A,/coins/fly/overview,FLY
+N/A,FundRequest,FundRequest (FND),0,180840,/media/1383765/fnd.png,FND,N/A,N/A,1326,N/A,N/A,/coins/fnd/overview,FND
+SHA256,FonzieCoin,FonzieCoin (FONZ),0,28703,/media/351553/fonz.png,FONZ,N/A,PoW/PoS,772,N/A,N/A,/coins/fonz/overview,FONZ
+X15,ForexCoin,ForexCoin (FOREX),0,30361,/media/351748/forex.png,FOREX,N/A,PoW/PoS,848,N/A,N/A,/coins/forex/overview,FOREX
+X11,FractalCoin,FractalCoin (FRAC),0,4450,/media/19710/frac.png,FRAC,N/A,PoW,118,1000000,N/A,/coins/frac/overview,FRAC
+SHA256,FireRoosterCoin,FireRoosterCoin (FRC),0,4521,/media/1382629/frc.png,FRC,N/A,PoW,115,2602410,N/A,/coins/frc/overview,FRC
+PoS,FreeCoin,FreeCoin (FRE),1,34489,/media/352129/fre.png,FRE,N/A,PoS,938,50000000,N/A,/coins/fre/overview,FRE
+Scrypt,Franko,Franko (FRK),0,4522,/media/19712/frk.png,FRK,N/A,PoW,117,11235813,N/A,/coins/frk/overview,FRK
+Scrypt,Francs,Francs (FRN),0,20991,/media/350992/frn.png,FRN,N/A,PoW,593,20000000,N/A,/coins/frn/overview,FRN
+Scrypt,FirstCoin,FirstCoin (FRST),0,45258,/media/1382654/first.png,FRST,N/A,PoW/PoS ,1097,109900000,N/A,/coins/frst/overview,FRST
+Scrypt,Frankywillcoin,Frankywillcoin (FRWC),0,24866,/media/351361/frwc.png,FRWC,N/A,PoW/PoS,692,7000000,N/A,/coins/frwc/overview,FRWC
+Scrypt,FriendshipCoin,FriendshipCoin (FSC2),0,5359,/media/19717/fsc.png,FSC2,N/A,PoW/PoS,327,0,N/A,/coins/fsc2/overview,FSC2
+SHA256,Fusion,Fusion (FSN),0,28081,/media/351495/fsn.png,FSN,N/A,PoW,732,3000000,N/A,/coins/fsn/overview,FSN
+Scrypt,FastCoin,FastCoin (FST),0,4523,/media/19720/fst.png,FST,N/A,PoW,119,165888000,N/A,/coins/fst/overview,FST
+Scrypt,FeatherCoin,FeatherCoin (FTC),0,4524,/media/19718/ftc.png,FTC,N/A,PoW,120,336000000,N/A,/coins/ftc/overview,FTC
+X11,FuturePoints,FuturePoints (FTP),0,28131,/media/351501/ftp.png,FTP,N/A,PoS,738,360000000,N/A,/coins/ftp/overview,FTP
+N/A,Fuck Token,Fuck Token (FUCK),0,229060,/media/1384043/fuck.png,FUCK,N/A,N/A,1472,70856775,N/A,/coins/fuck/overview,FUCK
+N/A,Etherparty,Etherparty (FUEL),0,292748,/media/11999072/fuel.png,FUEL,N/A,N/A,1564,1000000000,N/A,/coins/fuel/overview,FUEL
+N/A,FunFair,FunFair (FUN),0,178978,/media/1383738/fun.png,FUN,N/A,N/A,1304,17173696076,N/A,/coins/fun/overview,FUN
+N/A,FunCoin,FunCoin (FUNC),0,179018,/media/1383739/func.png,FUNC,N/A,N/A,1305,100000000,N/A,/coins/func/overview,FUNC
+X13,FutCoin,FutCoin (FUTC),0,6343,/media/20558/futc.png,FUTC,N/A,PoW/PoS,407,0,N/A,/coins/futc/overview,FUTC
+Scrypt,Fuzzballs,Fuzzballs (FUZZ),0,21708,/media/351025/fuzz.png,FUZZ,N/A,PoW,622,21000000,N/A,/coins/fuzz/overview,FUZZ
+Scrypt,FCoin,FCoin (FX),0,28336,/media/351527/fx.png,FX,N/A,PoW/PoS,763,987600000,N/A,/coins/fx/overview,FX
+N/A,FundYourselfNow,FundYourselfNow (FYN),0,180820,/media/1383764/fyn.png,FYN,N/A,N/A,1325,12500000,N/A,/coins/fyn/overview,FYN
+X11,GAIA Platform,GAIA Platform (GAIA),0,5383,/media/20290/gaia.png,GAIA,N/A,PoS,351,24000000,N/A,/coins/gaia/overview,GAIA
+Scrypt,GAKHcoin,GAKHcoin (GAKH),1,38277,/media/1382090/gakh.png,GAKH,N/A,PoW/PoS,1001,3315789,N/A,/coins/gakh/overview,GAKH
+Scrypt,Gambit coin,Gambit coin (GAM),0,6102,/media/20293/gam.png,GAM,N/A,PoW/PoS,389,0,N/A,/coins/gam/overview,GAM
+Scrypt,Gamecredits,Gamecredits (GAME),0,20157,/media/350887/game.png,GAME,N/A,PoW,509,84000000,N/A,/coins/game/overview,GAME
+Scrypt,Gapcoin,Gapcoin (GAP),0,20659,/media/350943/gap.png,GAP,N/A,PoW/PoS,553,250000000,N/A,/coins/gap/overview,GAP
+N/A,Gas,Gas (GAS),0,213532,/media/1383858/neo.jpg,GAS,N/A,N/A,1445,9677664,N/A,/coins/gas/overview,GAS
+X11,GayCoin,GayCoin (GAY),0,28431,/media/351531/gay.png,GAY,N/A,PoW/PoS,765,10000000000,N/A,/coins/gay/overview,GAY
+X11,GoldBlocks,GoldBlocks (GB),0,26194,/media/351411/db.png,GB,N/A,PoW/PoS,717,50000000,N/A,/coins/gb/overview,GB
+Scrypt,GravityBit,GravityBit (GBIT),0,42103,/media/1382382/gbit.jpg,GBIT,N/A,PoW/PoS,1047,5333000,N/A,/coins/gbit/overview,GBIT
+Scrypt,GBR Coin,GBR Coin (GBRC),0,29458,/media/351637/gbrc.png,GBRC,N/A,PoW,809,87500000,N/A,/coins/gbrc/overview,GBRC
+POS 3.0,GameBetCoin,GameBetCoin (GBT),0,20214,/media/350897/gbt.png,GBT,N/A,PoS,518,N/A,N/A,/coins/gbt/overview,GBT
+N/A,Byteball,Byteball (GBYTE),0,30736,/media/351835/bytes.png,GBYTE,N/A,N/A,871,1000000000000000,N/A,/coins/gbyte/overview,GBYTE
+Scrypt,GuccioneCoin,GuccioneCoin (GCC),0,30566,/media/351796/gcc.jpg,GCC,N/A,PoW,869,39760000,N/A,/coins/gcc/overview,GCC
+Scrypt,GCoin,GCoin (GCN),0,199065,/media/1383899/gcn.png,GCN,N/A,PoW,1413,200000000000,N/A,/coins/gcn/overview,GCN
+N/A,Global Currency Reserve,Global Currency Reserve (GCR),0,12217,/media/20708/gcr.png,GCR,N/A,PoS,466,0,N/A,/coins/gcr/overview,GCR
+Scrypt,GrandCoin,GrandCoin (GDC),0,4526,/media/20054/gdc.png,GDC,N/A,PoW,122,1420609614,N/A,/coins/gdc/overview,GDC
+N/A,Gemz Social,Gemz Social (GEMZ),0,5310,/media/19710/frac.png,GEMZ,N/A,PoW,279,90000000,N/A,/coins/gemz/overview,GEMZ
+Scrypt,Genstake,Genstake (GEN),0,7588,/media/20640/gen.png,GEN,N/A,PoW/PoS,431,0,N/A,/coins/gen/overview,GEN
+Scrypt,GeoCoin,GeoCoin (GEO),0,3647,/media/20292/geo.png,GEO,N/A,N/A,27,1000000000,N/A,/coins/geo/overview,GEO
+N/A,Gilgam,Gilgam (GGS),0,180716,/media/1383762/ggs.png,GGS,N/A,N/A,1323,700000,N/A,/coins/ggs/overview,GGS
+Scrypt,GhostCoin,GhostCoin (GHC),0,5336,/media/19721/ghc.png,GHC,N/A,PoW/PoS,304,750000000,N/A,/coins/ghc/overview,GHC
+N/A,Ghoul Coin,Ghoul Coin (GHOUL),0,8832,/media/20701/ghoul.png,GHOUL,N/A,PoW/PoS,462,0,N/A,/coins/ghoul/overview,GHOUL
+N/A,Giga Hash,Giga Hash (GHS),0,5307,/media/19565/cexio.png,GHS,N/A,N/A,276,0,N/A,/coins/ghs/overview,GHS
+X13,GiftNet,GiftNet (GIFT),0,38962,/media/1382171/gift.png,GIFT,N/A,PoW,1012,6750000,N/A,/coins/gift/overview,GIFT
+X11,GigCoin,GigCoin (GIG),0,5366,/media/20294/gig.png,GIG,N/A,PoW,334,0,N/A,/coins/gig/overview,GIG
+N/A,Gimli,Gimli (GIM),0,243079,/media/9350754/gim.png,GIM,N/A,N/A,1530,150000000,N/A,/coins/gim/overview,GIM
+X11,GiveCoin,GiveCoin (GIVE),0,3641,/media/20297/give.png,GIVE,N/A,PoW,21,500000000,N/A,/coins/give/overview,GIVE
+X11,GIZMOcoin,GIZMOcoin (GIZ),0,21378,/media/351015/giz.png,GIZ,N/A,PoW/PoS,612,100000,N/A,/coins/giz/overview,GIZ
+Scrypt,GlobalCoin,GlobalCoin (GLC),0,4527,/media/19724/glc.png,GLC,N/A,PoW,123,70000000,N/A,/coins/glc/overview,GLC
+Scrypt,GoldCoin,GoldCoin (GLD),0,4528,/media/19723/gld.png,GLD,N/A,PoW,124,123423900,N/A,/coins/gld/overview,GLD
+N/A,Global,Global (GLOBE),0,6393,/media/20564/globe.png,GLOBE,N/A,PoS,408,90000000,N/A,/coins/globe/overview,GLOBE
+Scrypt,GalaxyCoin,GalaxyCoin (GLX),0,4529,/media/19728/glx.png,GLX,N/A,PoW/PoS,125,538214400,N/A,/coins/glx/overview,GLX
+X11,GlyphCoin,GlyphCoin (GLYPH),0,4530,/media/19725/glyph.png,GLYPH,N/A,PoW/PoS,126,7000000,N/A,/coins/glyph/overview,GLYPH
+Scrypt,Gridmaster,Gridmaster (GMC),0,5388,/media/20299/gmc.png,GMC,N/A,PoW,356,84000000,N/A,/coins/gmc/overview,GMC
+Scrypt,GameLeagueCoin,GameLeagueCoin (GML),0,4531,/media/19726/gml.png,GML,N/A,PoW/PoS,127,500000000,N/A,/coins/gml/overview,GML
+Scrypt,Goldmaxcoin,Goldmaxcoin (GMX),0,30424,/media/351762/gmx.jpg,GMX,N/A,PoW,862,84000000,N/A,/coins/gmx/overview,GMX
+X14,GanjaCoin V2,GanjaCoin V2 (GNJ),1,30521,/media/351789/gnj.png,GNJ,N/A,PoW/PoS,864,100000000,N/A,/coins/gnj/overview,GNJ
+N/A,Gnosis,Gnosis (GNO),0,66193,/media/1383083/gnosis-logo.png,GNO,N/A,N/A,1181,10000000,N/A,/coins/gno/overview,GNO
+N/A,Golem Network Token,Golem Network Token (GNT),1,33022,/media/351995/golem-logo.png,GNT,N/A,N/A,900,1000000000,N/A,/coins/gnt/overview,GNT
+Scrypt,Goat,Goat (GOAT),0,37356,/media/1381990/goat.png,GOAT,N/A,PoW/PoS,990,N/A,N/A,/coins/goat/overview,GOAT
+N/A,Golos,Golos (GOLOS),0,40806,/media/1382246/golos.png,GOLOS,N/A,Pow,1020,N/A,N/A,/coins/golos/overview,GOLOS
+Scrypt,GoodCoin,GoodCoin (GOOD),0,253766,/media/9350786/good.png,GOOD,N/A,PoW/PoS,1548,100000000,N/A,/coins/good/overview,GOOD
+Scrypt,Goonies,Goonies (GOON),0,28221,/media/351512/goon.png,GOON,N/A,PoW,749,270875968,N/A,/coins/goon/overview,GOON
+Scrypt,Giotto Coin,Giotto Coin (GOT),0,63304,/media/1383079/got.png,GOT,N/A,PoW/PoS,1178,233100000,N/A,/coins/got/overview,GOT
+Scrypt,GothicCoin,GothicCoin (GOTX),0,21875,/media/351071/gotx.png,GOTX,N/A,PoW,632,313333333,N/A,/coins/gotx/overview,GOTX
+X11,GoldPieces,GoldPieces (GP),0,7625,/media/20656/gp.png,GP,N/A,PoW/PoS,438,0,N/A,/coins/gp/overview,GP
+N/A,Gold Pressed Latinum,Gold Pressed Latinum (GPL),0,28330,/media/351525/gpl.png,GPL,N/A,PoW/PoS,760,1000000,N/A,/coins/gpl/overview,GPL
+Scrypt,GPU Coin,GPU Coin (GPU),0,20650,/media/350939/gpu.png,GPU,N/A,PoS,549,221052632,N/A,/coins/gpu/overview,GPU
+N/A,Gram Coin,Gram Coin (GRAM),0,8717,/media/20688/gram.png,GRAM,N/A,PoW,454,0,N/A,/coins/gram/overview,GRAM
+SHA256,Graviton,Graviton (GRAV),0,7634,/media/20659/grav.png,GRAV,N/A,PoW/PoS,441,0,N/A,/coins/grav/overview,GRAV
+Scrypt,GridCoin,GridCoin (GRC),0,5309,/media/20307/grc.png,GRC,N/A,DPoR,278,N/A,N/A,/coins/grc/overview,GRC
+Scrypt,GreenCoin,GreenCoin (GRE),0,5375,/media/1382396/grn.png,GRE,N/A,PoW,343,10000000000,N/A,/coins/gre/overview,GRE
+N/A,GrexitCoin,GrexitCoin (GREXIT),0,21380,/media/351016/grexit.png,GREXIT,N/A,PoS,613,N/A,N/A,/coins/grexit/overview,GREXIT
+N/A,GridPay,GridPay (GRID),0,5323,/media/20313/grid.png,GRID,N/A,N/A,292,0,N/A,/coins/grid/overview,GRID
+N/A,GridMaster,GridMaster (GRM),0,7592,/media/20642/grm.png,GRM,N/A,N/A,433,0,N/A,/coins/grm/overview,GRM
+N/A,GrownCoin,GrownCoin (GROW),0,20600,/media/350934/grow.png,GROW,N/A,PoW/PoS,544,N/A,N/A,/coins/grow/overview,GROW
+Groestl,Groestlcoin ,Groestlcoin  (GRS),0,13070,/media/20309/grs.png,GRS,N/A,PoW,472,10500000,N/A,/coins/grs/overview,GRS
+SHA256,Grantcoin,Grantcoin (GRT),0,20438,/media/20310/grt.png,GRT,N/A,Pow,535,10031749627.87000084,N/A,/coins/grt/overview,GRT
+Scrypt,GrowthCoin,GrowthCoin (GRW),0,74894,/media/1383234/grw.png,GRW,N/A,PoS,1207,37368000,N/A,/coins/grw/overview,GRW
+DPoS,Growers International,Growers International (GRWI),0,207931,/media/1383971/grwi.png,GRWI,N/A,N/A,1439,1000420,N/A,/coins/grwi/overview,GRWI
+X11,GSM Coin,GSM Coin (GSM),0,5358,/media/20316/gsm.png,GSM,N/A,PoW/PoS,326,1800000,N/A,/coins/gsm/overview,GSM
+N/A,GlowShares,GlowShares (GSX),0,5397,/media/20314/gsxjpeg.png,GSX,N/A,PoS,365,0,N/A,/coins/gsx/overview,GSX
+SHA256,GenesysCoin,GenesysCoin (GSY),0,22453,/media/351103/gsy.png,GSY,N/A,Pow/PoS,673,N/A,N/A,/coins/gsy/overview,GSY
+X11,GuerillaCoin,GuerillaCoin (GUE),0,4532,/media/19732/gue.png,GUE,N/A,PoW/PoS,128,19500000,N/A,/coins/gue/overview,GUE
+N/A,GeoFunders,GeoFunders (GUNS),0,185625,/media/1383789/guns.png,GUNS,N/A,N/A,1345,100000000,N/A,/coins/guns/overview,GUNS
+N/A,Guppy,Guppy (GUP),0,67096,/media/1383107/gup.png,GUP,N/A,N/A,1186,100000000,N/A,/coins/gup/overview,GUP
+N/A,Gx Coin,Gx Coin (GXC),0,247350,/media/9350766/gxc.png,GXC,N/A,N/A,1536,10000000,N/A,/coins/gxc/overview,GXC
+X15,Halcyon,Halcyon (HAL),0,4533,/media/20036/hal.png,HAL,N/A,PoW/PoS,129,0,N/A,/coins/hal/overview,HAL
+X11,Halloween Coin,Halloween Coin (HALLO),0,29552,/media/351657/hallo.png,HALLO,N/A,PoW/PoS,812,1500000000,N/A,/coins/hallo/overview,HALLO
+Scrypt,HamsterCoin,HamsterCoin (HAMS),0,112363,/media/1383381/hams.png,HAMS,N/A,PoW,1241,20000000,N/A,/coins/hams/overview,HAMS
+Scrypt,HazeCoin,HazeCoin (HAZE),0,43937,/media/1382595/haze.png,HAZE,N/A,PoW,1080,25000000,N/A,/coins/haze/overview,HAZE
+Scrypt,HoboNickels,HoboNickels (HBN),0,4534,/media/19735/hbn.png,HBN,N/A,PoW/PoS,130,120000000,N/A,/coins/hbn/overview,HBN
+N/A,Hubiit,Hubiit (HBT),0,247391,/media/9350768/hbt.png,HBT,N/A,N/A,1537,N/A,N/A,/coins/hbt/overview,HBT
+Scrypt,HappyCreatorCoin ,HappyCreatorCoin  (HCC),0,30371,/media/351752/hcc.png,HCC,N/A,PoW,852,100100400000,N/A,/coins/hcc/overview,HCC
+N/A,Hedge Token,Hedge Token (HDG),0,237407,/media/9350726/hdg.png,HDG,N/A,N/A,1513,N/A,N/A,/coins/hdg/overview,HDG
+N/A,Heat Ledger,Heat Ledger (HEAT),0,25917,/media/351399/heat.png,HEAT,N/A,PoS/PoP,709,26000000,N/A,/coins/heat/overview,HEAT
+X13,Hedgecoin,Hedgecoin (HEDG),0,7653,/media/20663/hedg.png,HEDG,N/A,PoW,445,33000000,N/A,/coins/hedg/overview,HEDG
+PoS,HeelCoin,HeelCoin (HEEL),0,38035,/media/1382051/heel.png,HEEL,N/A,PoS,1000,N/A,N/A,/coins/heel/overview,HEEL
+N/A,Hello Gold,Hello Gold (HGT),0,234508,/media/9350692/hgt.jpg,HGT,N/A,N/A,1496,1000000000,N/A,/coins/hgt/overview,HGT
+N/A,President Clinton,President Clinton (HILL),0,30359,/media/351747/hill.png,HILL,N/A,N/A,847,57968072167,N/A,/coins/hill/overview,HILL
+N/A,HireMatch,HireMatch (HIRE),0,198458,/media/1383882/hite.png,HIRE,N/A,N/A,1402,N/A,N/A,/coins/hire/overview,HIRE
+Scrypt,BitHIRE,BitHIRE (HIRE*),0,15882,/media/350613/hire.png,HIRE*,N/A,PoS,486,42000000,N/A,/coins/hirestar/overview,HIRE*
+N/A,Hacker Gold,Hacker Gold (HKG),0,29733,/media/351689/hkg.jpg,HKG,N/A,N/A,821,N/A,N/A,/coins/hkg/overview,HKG
+Scrypt-n,HempCoin,HempCoin (HMP),0,20655,/media/350941/hmp.png,HMP,N/A,PoW,551,5000000000,N/A,/coins/hmp/overview,HMP
+N/A,Humaniq,Humaniq (HMQ),0,72438,/media/1383174/hmq.png,HMQ,N/A,N/A,1203,920952070,N/A,/coins/hmq/overview,HMQ
+Scrypt,Hellenic Coin,Hellenic Coin (HNC),0,8846,/media/20702/hnc.png,HNC,N/A,PoW,463,100000000,N/A,/coins/hnc/overview,HNC
+1GB AES Pattern Search,HOdlcoin,HOdlcoin (HODL),0,18670,/media/350840/hodl.png,HODL,N/A,PoW,502,81962100,N/A,/coins/hodl/overview,HODL
+Blake2S,Honey,Honey (HONEY),0,53915,/media/1382937/honey1.png,HONEY,N/A,PoW/PoS,1128,7000000,N/A,/coins/honey/overview,HONEY
+X11,HappyCoin,HappyCoin (HPC),0,62659,/media/1383046/hpc.png,HPC,N/A,PoW/PoS,1177,100000000,N/A,/coins/hpc/overview,HPC
+N/A,Harbour DAO,Harbour DAO (HRB),0,176336,/media/1383695/hrb.png,HRB,N/A,N/A,1289,N/A,N/A,/coins/hrb/overview,HRB
+Scrypt,Horse Power,Horse Power (HSP),0,35687,/media/352251/hsp.png,HSP,N/A,PoW,967,2900000,N/A,/coins/hsp/overview,HSP
+X11,Hitcoin,Hitcoin (HTC),0,20153,/media/350888/htc.png,HTC,N/A,PoW/PoS,508,26550000000,N/A,/coins/htc/overview,HTC
+X15,HTML Coin,HTML Coin (HTML5),0,84752,/media/1383327/html5.png,HTML5,N/A,PoW/PoS,1229,90000000000,N/A,/coins/html5/overview,HTML5
+Multiple,HunterCoin,HunterCoin (HUC),0,4535,/media/20037/hun.png,HUC,N/A,PoW,131,42000000,N/A,/coins/huc/overview,HUC
+Blake,BigCoin,BigCoin (HUGE),0,5290,/media/20318/huge.png,HUGE,N/A,PoW,259,164429865,N/A,/coins/huge/overview,HUGE
+Equihash,Hush,Hush (HUSH),0,33460,/media/1383138/hush.png,HUSH,N/A,PoW,911,21000000,N/A,/coins/hush/overview,HUSH
+Multiple,HeavyCoin,HeavyCoin (HVC),0,4536,/media/19745/hvc.png,HVC,N/A,PoW,132,128000000,N/A,/coins/hvc/overview,HVC
+SHA256,High Voltage Coin,High Voltage Coin (HVCO),0,21374,/media/351014/hvco.png,HVCO,N/A,PoW/PoS,611,1700000,N/A,/coins/hvco/overview,HVCO
+N/A,Hive,Hive (HVN),0,179329,/media/1383745/hvt.png,HVN,N/A,N/A,1309,500000000,N/A,/coins/hvn/overview,HVN
+Lyra2RE,HexxCoin,HexxCoin (HXX),0,41868,/media/1382348/hexx.jpg,HXX,N/A,PoW,1038,9999999,N/A,/coins/hxx/overview,HXX
+X11,Hyperstake,Hyperstake (HYP),0,4537,/media/20624/hyp.png,HYP,N/A,PoW/PoS,133,0,N/A,/coins/hyp/overview,HYP
+Scrypt,HyperCoin,HyperCoin (HYPER),0,5371,/media/19744/hyper.png,HYPER,N/A,PoW/PoS,339,0,N/A,/coins/hyper/overview,HYPER
+N/A,Horizon,Horizon (HZ),1,5312,/media/20320/hz.png,HZ,N/A,PoS,281,1000000000,N/A,/coins/hz/overview,HZ
+Scrypt,HazMatCoin,HazMatCoin (HZT),0,35811,/media/352291/hzt.png,HZT,N/A,PoW/PoS,968,100000000,N/A,/coins/hzt/overview,HZT
+SHA256,I0coin,I0coin (I0C),0,16123,/media/350691/i0c.png,I0C,N/A,PoW,489,21000000,N/A,/coins/i0c/overview,I0C
+Scrypt,iBankCoin,iBankCoin (IBANK),0,23745,/media/351238/ibank.png,IBANK,N/A,PoW/PoS,685,44333333,N/A,/coins/ibank/overview,IBANK
+X11,ICASH,ICASH (ICASH),0,5401,/media/20319/icash.png,ICASH,N/A,PoW,369,1000000,N/A,/coins/icash/overview,ICASH
+NIST5,IceBergCoin,IceBergCoin (ICB),0,4538,/media/19747/icb.png,ICB,N/A,PoW/PoS,134,8750000,N/A,/coins/icb/overview,ICB
+N/A,iDice,iDice (ICE),0,199004,/media/1383896/46b-uaba_400x400.jpg,ICE,N/A,N/A,1411,2071012.8129,N/A,/coins/ice/overview,ICE
+N/A,Iconomi,Iconomi (ICN),1,25921,/media/351400/icn.png,ICN,N/A,N/A,710,100000000,N/A,/coins/icn/overview,ICN
+Scrypt,Icobid,Icobid (ICOB),0,34499,/media/352133/icb.png,ICOB,N/A,PoW/PoS,942,100000000,N/A,/coins/icob/overview,ICOB
+PoS,Iconic,Iconic (ICON),0,35825,/media/352297/icon.png,ICON,N/A,PoS,974,520000,N/A,/coins/icon/overview,ICON
+N/A,ICO OpenLedger,ICO OpenLedger (ICOO),0,199363,/media/1383904/icoo.jpg,ICOO,N/A,N/A,1416,472649,N/A,/coins/icoo/overview,ICOO
+N/A,ICOBox,ICOBox (ICOS),0,207775,/media/1383968/icos1.png,ICOS,N/A,N/A,1490,N/A,N/A,/coins/icos/overview,ICOS
+Scrypt,IvugeoEvolutionCoin,IvugeoEvolutionCoin (IEC),0,68088,/media/1383144/wsx.png,IEC,N/A,PoW,1191,100000000,N/A,/coins/iec/overview,IEC
+Scrypt,Infinite Coin,Infinite Coin (IFC),0,4539,/media/19754/ifc.png,IFC,N/A,PoW,135,9060000000000000000,N/A,/coins/ifc/overview,IFC
+X11,InflationCoin,InflationCoin (IFLT),0,32775,/media/351934/iflt.png,IFLT,N/A,PoW/PoS,886,10000000000,N/A,/coins/iflt/overview,IFLT
+N/A,InvestFeed,InvestFeed (IFT),0,185669,/media/1383790/feed.png,IFT,N/A,N/A,1346,N/A,N/A,/coins/ift/overview,IFT
+N/A,Ignis,Ignis (IGNIS),0,231674,/media/1384046/ignis.png,IGNIS,N/A,N/A,1475,N/A,N/A,/coins/ignis/overview,IGNIS
+SHA256,ILCoin,ILCoin (ILC),0,75440,/media/1383238/ilc.png,ILC,N/A,PoW,1211,2500000000,N/A,/coins/ilc/overview,ILC
+N/A,IMMLA,IMMLA (IML),0,184187,/media/1383783/iml.png,IML,N/A,N/A,1341,226736000,N/A,/coins/iml/overview,IML
+Scrypt,Impeach,Impeach (IMPCH),0,44007,/media/1382606/impch.png,IMPCH,N/A,PoW/PoS,1084,21933333,N/A,/coins/impch/overview,IMPCH
+X13,Impulse Coin,Impulse Coin (IMPS),0,37204,/media/1381984/imps.jpg,IMPS,N/A,PoW/PoS,987,N/A,N/A,/coins/imps/overview,IMPS
+Scrypt,Independent Money System,Independent Money System (IMS),0,68093,/media/1383145/ims.png,IMS,N/A,PoW/PoS,1192,21212121,N/A,/coins/ims/overview,IMS
+X11,Impact,Impact (IMX),0,58121,/media/1382891/imx.png,IMX,N/A,PoW/PoS,1152,110000000,N/A,/coins/imx/overview,IMX
+X11,InCoin,InCoin (IN),0,37210,/media/1381987/in.png,IN,N/A,PoW/PoS,988,N/A,N/A,/coins/in/overview,IN
+PoS,Incrementum,Incrementum (INC),0,38967,/media/1382173/inc.png,INC,N/A,PoS,1014,1300000,N/A,/coins/inc/overview,INC
+N/A,Incent,Incent (INCNT),0,35823,/media/352296/incnt.png,INCNT,N/A,N/A,973,N/A,N/A,/coins/incnt/overview,INCNT
+X11,InceptionCoin,InceptionCoin (INCP),0,22264,/media/351078/incp.png,INCP,N/A,PoW/PoS,651,N/A,N/A,/coins/incp/overview,INCP
+N/A,Indorse,Indorse (IND),0,185953,/media/1383794/ind.png,IND,N/A,N/A,1350,N/A,N/A,/coins/ind/overview,IND
+HybridScryptHash256,Infinium-8,Infinium-8 (INF8),0,84262,/media/1383326/inf8.png,INF8,N/A,PoW,1228,N/A,N/A,/coins/inf8/overview,INF8
+X11,Influxcoin,Influxcoin (INFX),0,20446,/media/350919/infx.png,INFX,N/A,Pow/PoS,538,12000000,N/A,/coins/infx/overview,INFX
+N/A,InPay,InPay (INPAY),0,61912,/media/1383004/inpay.png,INPAY,N/A,N/A,1173,10000000,N/A,/coins/inpay/overview,INPAY
+X11,InsaneCoin,InsaneCoin (INSANE),0,33017,/media/351993/insane.png,INSANE,N/A,PoW/PoS,898,22000000,N/A,/coins/insane/overview,INSANE
+X11,Insane Coin,Insane Coin (INSN),0,105284,/media/1383366/insn.png,INSN,N/A,PoW/PoS,1237,30000000,N/A,/coins/insn/overview,INSN
+X11,Invictus,Invictus (INV),0,29713,/media/351682/inv.png,INV,N/A,PoW/PoS,817,N/A,N/A,/coins/inv/overview,INV
+X11,IOCoin,IOCoin (IOC),0,4540,/media/20042/ioc.png,IOC,N/A,PoW/PoS,136,16000000,N/A,/coins/ioc/overview,IOC
+N/A,Ionomy,Ionomy (ION),0,20591,/media/350933/ion.jpg,ION,N/A,PoS,543,50900000,N/A,/coins/ion/overview,ION
+SHA256,Internet of People,Internet of People (IOP),0,42596,/media/1382394/iop.png,IOP,N/A,PoW/PoS,1055,21000000,N/A,/coins/iop/overview,IOP
+N/A,IOTA,IOTA (IOT),1,127356,/media/1383540/iota.jpg,IOT,N/A,Tangle,1247,2779530283,N/A,/coins/iot/overview,IOT
+N/A,IOU1,IOU1 (IOU),0,77286,/media/1383241/iou1.png,IOU,N/A,N/A,1213,100000000,N/A,/coins/iou/overview,IOU
+NeoScrypt,ImperialCoin,ImperialCoin (IPC),0,182396,/media/1383776/ipc.png,IPC,N/A,PoW,1334,1600000000,N/A,/coins/ipc/overview,IPC
+X11,IslaCoin,IslaCoin (ISL),0,6094,/media/19808/mrs.png,ISL,N/A,PoW/PoS,381,0,N/A,/coins/isl/overview,ISL
+N/A,Intelligent Trading Technologies,Intelligent Trading Technologies (ITT),0,232678,/media/1384050/itt.png,ITT,N/A,N/A,1478,21000000,N/A,/coins/itt/overview,ITT
+N/A,InvisibleCoin,InvisibleCoin (IVZ),0,20679,/media/350944/ivz.png,IVZ,N/A,PoS,555,1000000,N/A,/coins/ivz/overview,IVZ
+X11,iWallet,iWallet (IW),0,34334,/media/352121/iw.png,IW,N/A,PoW/PoS,934,2142857142.86,N/A,/coins/iw/overview,IW
+N/A,IwToken,IwToken (IWT),0,232556,/media/1384048/iwt.png,IWT,N/A,N/A,1476,N/A,N/A,/coins/iwt/overview,IWT
+SHA256,IXcoin,IXcoin (IXC),0,4541,/media/19761/ixc.png,IXC,N/A,PoW,137,21000000,N/A,/coins/ixc/overview,IXC
+N/A,iXledger,iXledger (IXT),0,141171,/media/1383612/ixt.png,IXT,N/A,N/A,1267,130000000,N/A,/coins/ixt/overview,IXT
+Multiple,JoinCoin,JoinCoin (J),0,5335,/media/20350/j.png,J,N/A,PoW,303,2800000,N/A,/coins/j/overview,J
+X11,JaneCoin,JaneCoin (JANE),0,44955,/media/1382640/jane.png,JANE,N/A,PoW/PoS,1090,2100000000,N/A,/coins/jane/overview,JANE
+X11,JumBucks Coin,JumBucks Coin (JBS),0,4542,/media/20044/jbs.png,JBS,N/A,PoW/PoS,138,3293010,N/A,/coins/jbs/overview,JBS
+N/A,JustDatingSite,JustDatingSite (JDC),0,232607,/media/1384049/jdc.png,JDC,N/A,N/A,1477,N/A,N/A,/coins/jdc/overview,JDC
+SHA256D,JiffyCoin,JiffyCoin (JIF),0,30177,/media/351738/jif.png,JIF,N/A,PoW,844,5108400,N/A,/coins/jif/overview,JIF
+N/A,JIO Token,JIO Token (JIO),0,34332,/media/352120/jio.png,JIO,N/A,N/A,933,8888888,N/A,/coins/jio/overview,JIO
+Scrypt,JunkCoin,JunkCoin (JKC),0,4543,/media/19757/jkc.png,JKC,N/A,PoW,139,107000000,N/A,/coins/jkc/overview,JKC
+N/A,Janus,Janus (JNS),0,34440,/media/352126/jns.png,JNS,N/A,N/A,935,100000000,N/A,/coins/jns/overview,JNS
+X11,JobsCoin,JobsCoin (JOBS),0,29762,/media/351691/jobs.png,JOBS,N/A,PoW/PoS,823,20000000000,N/A,/coins/jobs/overview,JOBS
+Scrypt,JokerCoin,JokerCoin (JOK),0,42101,/media/1382381/jok.png,JOK,N/A,PoW/PoS,1046,5000000000,N/A,/coins/jok/overview,JOK
+SHA3,JackPotCoin,JackPotCoin (JPC),0,5333,/media/19759/jpc.png,JPC,N/A,PoW/PoS,301,0,N/A,/coins/jpc/overview,JPC
+X13,JudgeCoin,JudgeCoin (JUDGE),0,4544,/media/20038/judge.png,JUDGE,N/A,PoW/PoS,140,21600000,N/A,/coins/judge/overview,JUDGE
+POS 3.0,Jewels,Jewels (JWL),0,27674,/media/351432/jwl.png,JWL,N/A,N/A,723,20000000,N/A,/coins/jwl/overview,JWL
+DPoS,Kapu,Kapu (KAPU),0,305047,/media/12318035/logo_500x500.png,KAPU,N/A,DPoS,1583,115000000,N/A,/coins/kapu/overview,KAPU
+Scrypt,Karmacoin,Karmacoin (KARM),0,16127,/media/350693/karm.png,KARM,N/A,PoW,491,92,N/A,/coins/karm/overview,KARM
+SHA256D,KATZcoin,KATZcoin (KAT),0,21224,/media/351028/katz.png,KAT,N/A,PoW/PoS,601,100000000,N/A,/coins/kat/overview,KAT
+N/A,Kay?,Kay? (KAYI),0,57705,/media/1382863/kayi.png,KAYI,N/A,N/A,1148,1000000000,N/A,/coins/kayi/overview,KAYI
+SHA256,Kernalcoin,Kernalcoin (KC),0,35230,/media/352224/kc.png,KC,N/A,PoW,961,N/A,N/A,/coins/kc/overview,KC
+N/A,Kencoin,Kencoin (KCN),0,205967,/media/1383953/kencoin.png,KCN,N/A,N/A,1434,1000000000,N/A,/coins/kcn/overview,KCN
+Scrypt,Klondike Coin,Klondike Coin (KDC),0,4545,/media/19766/kdc.png,KDC,N/A,PoW,141,20000000,N/A,/coins/kdc/overview,KDC
+Scrypt,Klingon Empire Darsek,Klingon Empire Darsek (KED),0,42435,/media/1382390/ked.png,KED,N/A,PoW/PoS,1052,500000000,N/A,/coins/ked/overview,KED
+N/A,KexCoin,KexCoin (KEX),0,234766,/media/9350699/kex.png,KEX,N/A,N/A,1501,10000000,N/A,/coins/kex/overview,KEX
+X13,KeyCoin,KeyCoin (KEY),0,4546,/media/20331/key.png,KEY,N/A,PoW/PoS,142,1000000,N/A,/coins/key/overview,KEY
+Scrypt,KrugerCoin,KrugerCoin (KGC),0,4547,/media/19763/kgc.png,KGC,N/A,PoW,143,265420800,N/A,/coins/kgc/overview,KGC
+SHA256,KickCoin,KickCoin (KICK),0,202849,/media/1383929/kick.png,KICK,N/A,N/A,1429,815000000,N/A,/coins/kick/overview,KICK
+N/A,Kin,Kin (KIN),0,177918,/media/1383731/kin.png,KIN,N/A,N/A,1300,1000000000000,N/A,/coins/kin/overview,KIN
+N/A,King93,King93 (KING),0,196560,/media/1383862/king.png,KING,N/A,N/A,1390,50000000,N/A,/coins/king/overview,KING
+Scrypt,KiloCoin,KiloCoin (KLC),0,33405,/media/352024/klc.png,KLC,N/A,PoW,910,10000000000,N/A,/coins/klc/overview,KLC
+Equihash,Komodo,Komodo (KMD),0,26132,/media/351408/kmd.png,KMD,N/A,dPoW/PoW,716,200000000,N/A,/coins/kmd/overview,KMD
+X11,Khancoin,Khancoin (KNC),0,20211,/media/350895/knc.png,KNC,N/A,Pow/PoS,515,7850291561,N/A,/coins/knc/overview,KNC
+X15,KoboCoin,KoboCoin (KOBO),0,3642,/media/20329/kobo.png,KOBO,N/A,PoW/PoS,22,350000000,N/A,/coins/kobo/overview,KOBO
+X13,KoreCoin,KoreCoin (KORE),0,5318,/media/9350773/kore.png,KORE,N/A,PoW/PoS,287,13200000,N/A,/coins/kore/overview,KORE
+Dagger-Hashimoto,Krypton,Krypton (KR),0,20822,/media/350974/kr.png,KR,N/A,PoW,575,N/A,N/A,/coins/kr/overview,KR
+SHA256,Kraken,Kraken (KRAK),0,23741,/media/351236/krak.png,KRAK,N/A,PoW/PoS,683,20000000,N/A,/coins/krak/overview,KRAK
+CryptoNight,Karbowanec,Karbowanec (KRB),0,28154,/media/351504/krb.jpg,KRB,N/A,PoW,741,10000000,N/A,/coins/krb/overview,KRB
+X11,KRCoin,KRCoin (KRC),0,30379,/media/351755/krc.png,KRC,N/A,PoW,855,N/A,N/A,/coins/krc/overview,KRC
+Scrypt,Kronecoin,Kronecoin (KRONE),0,247703,/media/9350770/krone.png,KRONE,N/A,PoW,1538,84000000,N/A,/coins/krone/overview,KRONE
+Scrypt,KryptCoin,KryptCoin (KTK),0,5311,/media/19771/ktk.png,KTK,N/A,PoS,280,17000000,N/A,/coins/ktk/overview,KTK
+Scrypt,KubosCoin,KubosCoin (KUBO),0,22262,/media/351077/kubo.png,KUBO,N/A,PoW/PoS,650,2940000,N/A,/coins/kubo/overview,KUBO
+X11,Kurrent,Kurrent (KURT),0,34602,/media/352155/kurt.png,KURT,N/A,PoW,944,228000000,N/A,/coins/kurt/overview,KURT
+X11,KushCoin,KushCoin (KUSH),0,42687,/media/1382401/kush.png,KUSH,N/A,PoW/PoS,1060,9354000,N/A,/coins/kush/overview,KUSH
+Multiple,CoinWorksCoin,CoinWorksCoin (LAB),0,4548,/media/20040/lab.png,LAB,N/A,PoW,144,1000000,N/A,/coins/lab/overview,LAB
+SHA256D,LanaCoin,LanaCoin (LANA),0,30544,/media/351792/lana.png,LANA,N/A,PoW/PoS,867,7506000000,N/A,/coins/lana/overview,LANA
+N/A,Latium,Latium (LAT),0,237269,/media/9350724/lat.png,LAT,N/A,N/A,1511,30000000,N/A,/coins/lat/overview,LAT
+N/A,LAToken,LAToken (LATO),0,184163,/media/1383782/lato.png,LATO,N/A,N/A,1340,1000000000,N/A,/coins/lato/overview,LATO
+DPoS,Lazarus,Lazarus (LAZ),0,28700,/media/351552/laz.png,LAZ,N/A,DPoS,771,10000000,N/A,/coins/laz/overview,LAZ
+N/A,LBRY Credits,LBRY Credits (LBC),0,23432,/media/351211/lbc.png,LBC,N/A,N/A,678,1000000000,N/A,/coins/lbc/overview,LBC
+Scrypt,LiteBitcoin,LiteBitcoin (LBTC),0,247246,/media/9350763/lbtc.png,LBTC,N/A,PoW,1533,10000000001000000000,N/A,/coins/lbtc/overview,LBTC
+X11,Lutetium Coin,Lutetium Coin (LC),1,25916,/media/351398/lc.png,LC,N/A,PoS,708,657000000,N/A,/coins/lc/overview,LC
+Scrypt,LiteDoge,LiteDoge (LDOGE),0,5339,/media/20332/ldoge.png,LDOGE,N/A,PoW/PoS,307,35000000000,N/A,/coins/ldoge/overview,LDOGE
+SHA256,LeaCoin,LeaCoin (LEA),0,30117,/media/351729/lea.png,LEA,N/A,PoW,835,2000000000,N/A,/coins/lea/overview,LEA
+N/A,LemonCoin,LemonCoin (LEMON),0,21641,/media/351021/lemon.png,LEMON,N/A,PoW,617,31000000,N/A,/coins/lemon/overview,LEMON
+SHA256D,LeninCoin,LeninCoin (LENIN),0,40992,/media/1382270/lenin.png,LENIN,N/A,PoW,1028,100000000,N/A,/coins/lenin/overview,LENIN
+Scrypt,LEOcoin,LEOcoin (LEO),0,33001,/media/351988/leo.png,LEO,N/A,PoW,894,1000000000,N/A,/coins/leo/overview,LEO
+SHA256,LePenCoin,LePenCoin (LEPEN),0,43602,/media/1382507/lepen.png,LEPEN,N/A,PoS,1075,1000000000,N/A,/coins/lepen/overview,LEPEN
+X11,BigLifeCoin,BigLifeCoin (LFC),0,30388,/media/351757/lfc.png,LFC,N/A,PoW,857,9900000000,N/A,/coins/lfc/overview,LFC
+X11,LGBTQoin,LGBTQoin (LGBTQ),0,21215,/media/350996/lgbtq.png,LGBTQ,N/A,PoW,598,50000000,N/A,/coins/lgbtq/overview,LGBTQ
+N/A,Legends Cryptocurrency,Legends Cryptocurrency (LGD),0,66259,/media/1383085/lgd.png,LGD,N/A,N/A,1182,30000000,N/A,/coins/lgd/overview,LGD
+Scrypt,Legendary Coin,Legendary Coin (LGD*),0,4549,/media/19770/lgd.png,LGD*,N/A,PoW/PoS,145,10000000,N/A,/coins/lgdstar/overview,LGD*
+X11,LimeCoinX,LimeCoinX (LIMX),0,4354,/media/19769/limx.png,LIMX,N/A,PoW,67,21000000 ,N/A,/coins/limx/overview,LIMX
+Scrypt,Linda,Linda (LINDA),0,196541,/media/1383860/linda.png,LINDA,N/A,PoW/PoS,1388,50000000000,N/A,/coins/linda/overview,LINDA
+Scrypt,Linx,Linx (LINX),0,253667,/media/9350783/linx.png,LINX,N/A,PoW,1545,100000000,N/A,/coins/linx/overview,LINX
+POS 3.0,Let it Ride,Let it Ride (LIR),0,23423,/media/351208/lir.png,LIR,N/A,PoS,675,33500000,N/A,/coins/lir/overview,LIR
+Scrypt,LiviaCoin,LiviaCoin (LIV),0,33271,/media/352007/liv.png,LIV,N/A,PoW/PoS,904,1572000000,N/A,/coins/liv/overview,LIV
+Scrypt,Lucky7Coin,Lucky7Coin (LK7),0,4550,/media/19776/lk7.png,LK7,N/A,PoW/PoS,146,99792000,N/A,/coins/lk7/overview,LK7
+N/A,Lykke,Lykke (LKK),1,130939,/media/1383553/lkk.png,LKK,N/A,N/A,1253,1285690000,N/A,/coins/lkk/overview,LKK
+Scrypt,LuckyCoin,LuckyCoin (LKY),0,4551,/media/19774/lky.png,LKY,N/A,PoW,147,20000000,N/A,/coins/lky/overview,LKY
+Scrypt,LomoCoin,LomoCoin (LMC),0,70469,/media/1383139/lmc.png,LMC,N/A,PoW/PoS,1196,1000000000,N/A,/coins/lmc/overview,LMC
+N/A,Ethereum.Link,Ethereum.Link (LNK),0,238622,/media/9350738/lnk.png,LNK,N/A,N/A,1517,N/A,N/A,/coins/lnk/overview,LNK
+Quark,Loco,Loco (LOC),0,36988,/media/1381971/loc.png,LOC,N/A,Pow/Pos,980,N/A,N/A,/coins/loc/overview,LOC
+N/A,Wood Coin,Wood Coin (LOG),0,6454,/media/20335/log.png,LOG,N/A,PoW,414, 27625814,N/A,/coins/log/overview,LOG
+X11,LookCoin,LookCoin (LOOK),0,36984,/media/1381970/look.png,LOOK,N/A,PoW/PoS,979,1613150000,N/A,/coins/look/overview,LOOK
+N/A,Liquid,Liquid (LQD),0,22422,/media/351097/lqd.png,LQD,N/A,N/A,668,99999.99,N/A,/coins/lqd/overview,LQD
+NIST5,LightSpeedCoin,LightSpeedCoin (LSD),0,4552,/media/20041/lsd.png,LSD,N/A,PoW/PoS,148,900000,N/A,/coins/lsd/overview,LSD
+DPoS,Lisk,Lisk (LSK),1,19745,/media/352246/lsk.png,LSK,N/A,DPoS,506,100199025,N/A,/coins/lsk/overview,LSK
+N/A,Litra,Litra (LTA),0,234526,/media/9350693/lta.png,LTA,N/A,N/A,1497,99999999,N/A,/coins/lta/overview,LTA
+Scrypt,Litebar ,Litebar  (LTB),0,4553,/media/20336/ltb.png,LTB,N/A,PoW,149,1350000,N/A,/coins/ltb/overview,LTB
+N/A,LTBCoin,LTBCoin (LTBC),0,5369,/media/20336/ltb.png,LTBC,N/A,PoP/PoV/PoQ,337,0,N/A,/coins/ltbc/overview,LTBC
+Scrypt,Litecoin,Litecoin (LTC),0,3808,/media/19782/litecoin-logo.png,LTC,N/A,PoW,3,84000000,N/A,/coins/ltc/overview,LTC
+Scrypt,LitecoinDark,LitecoinDark (LTCD),0,4554,/media/20043/ltcd.png,LTCD,N/A,PoW,150,82003200,N/A,/coins/ltcd/overview,LTCD
+QuBit,LiteCreed,LiteCreed (LTCR),0,38370,/media/1382097/ltcr.png,LTCR,N/A,PoW/PoS,1008,78835200,N/A,/coins/ltcr/overview,LTCR
+X11,LitecoinX,LitecoinX (LTCX),0,4555,/media/19779/ltcx.png,LTCX,N/A,PoW,151,84000000,N/A,/coins/ltcx/overview,LTCX
+PoS,Limited Coin,Limited Coin (LTD),0,38030,/media/1382049/ltd.png,LTD,N/A,PoS,998,128,N/A,/coins/ltd/overview,LTD
+PoS,Lathaan,Lathaan (LTH),0,28885,/media/351565/lth.png,LTH,N/A,N/A,783,N/A,N/A,/coins/lth/overview,LTH
+N/A,Litestar Coin,Litestar Coin (LTS),0,7600,/media/20644/lts.png,LTS,N/A,PoW/PoS,436,120000000,N/A,/coins/lts/overview,LTS
+PoS,LuckyBlocks (LUCKY),LuckyBlocks (LUCKY) (LUCKY),0,32875,/media/351946/lucky.png,LUCKY,N/A,PoS,891,20000000,N/A,/coins/lucky/overview,LUCKY
+N/A,Lunyr,Lunyr (LUN),0,67447,/media/1383112/lunyr-logo.png,LUN,N/A,N/A,1188,2703356,N/A,/coins/lun/overview,LUN
+X11,BitLux,BitLux (LUX),0,6341,/media/20557/lux.png,LUX,N/A,PoW/PoS,406,0,N/A,/coins/lux/overview,LUX
+N/A,Leverage Coin,Leverage Coin (LVG),0,38312,/media/1382094/lvg.png,LVG,N/A,N/A,1005,26000,N/A,/coins/lvg/overview,LVG
+X11,LibrexCoin,LibrexCoin (LXC),0,4556,/media/20045/lxc.png,LXC,N/A,PoW/PoS,152,1000000,N/A,/coins/lxc/overview,LXC
+Lyra2RE,LyraBar,LyraBar (LYB),0,13281,/media/20339/lyb.png,LYB,N/A,PoW/PoS,476,0,N/A,/coins/lyb/overview,LYB
+Scrypt,LycanCoin,LycanCoin (LYC),0,4557,/media/19785/lyc.png,LYC,N/A,PoW,153,4950000000,N/A,/coins/lyc/overview,LYC
+X13,SupplyShock,SupplyShock (M1),0,6115,/media/19808/mrs.png,M1,N/A,PoW/PoS,402,0,N/A,/coins/m1/overview,M1
+Time Travel,MachineCoin,MachineCoin (MAC),0,41962,/media/1382368/mac.png,MAC,N/A,PoW,1040,35000000,N/A,/coins/mac/overview,MAC
+PoS,SatoshiMadness,SatoshiMadness (MAD),0,131079,/media/1383556/mad.png,MAD,N/A,POS,1255,2000000000,N/A,/coins/mad/overview,MAD
+N/A,Magos,Magos (MAG),0,235993,/media/9350711/mag.png,MAG,N/A,N/A,1507,50123377,N/A,/coins/mag/overview,MAG
+N/A,MaidSafe Coin,MaidSafe Coin (MAID),0,5293,/media/352247/maid.png,MAID,N/A,N/A,262,452552412,N/A,/coins/maid/overview,MAID
+N/A,Decentraland,Decentraland (MANA),0,199148,/media/1383903/mana.png,MANA,N/A,N/A,1415,N/A,N/A,/coins/mana/overview,MANA
+X11,MapCoin,MapCoin (MAPC),0,12223,/media/20710/mapc.png,MAPC,N/A,PoS,467,2228921.184,N/A,/coins/mapc/overview,MAPC
+X11,MarijuanaCoin,MarijuanaCoin (MAR),0,43814,/media/1382577/mar.png,MAR,N/A,PoW/PoS,1077,1050000,N/A,/coins/mar/overview,MAR
+X11,MarsCoin ,MarsCoin  (MARS),0,6109,/media/19808/mrs.png,MARS,N/A,PoW,396,33000000,N/A,/coins/mars/overview,MARS
+Scrypt,Marvelous,Marvelous (MARV),0,22428,/media/351099/marv.png,MARV,N/A,PoW,669,400000000,N/A,/coins/marv/overview,MARV
+X11,MarxCoin,MarxCoin (MARX),0,43818,/media/1382578/marx.png,MARX,N/A,PoW,1078,100640000,N/A,/coins/marx/overview,MARX
+X15,MaryJane Coin,MaryJane Coin (MARYJ),0,5363,/media/20343/maryj.png,MARYJ,N/A,PoW/PoS,331,0,N/A,/coins/maryj/overview,MARYJ
+N/A,Mass.Cloud,Mass.Cloud (MASS),0,184135,/media/1383781/mass.png,MASS,N/A,N/A,1339,N/A,N/A,/coins/mass/overview,MASS
+Scrypt,Manet Coin,Manet Coin (MAT),0,108094,/media/1383371/mat.png,MAT,N/A,PoW/PoS,1239,215000000,N/A,/coins/mat/overview,MAT
+SHA3,MaxCoin,MaxCoin (MAX),0,4558,/media/19786/max.png,MAX,N/A,PoW/PoS,154,100000000,N/A,/coins/max/overview,MAX
+N/A,Monster Byte Inc,Monster Byte Inc (MBI),0,180539,/media/1383759/mbi.png,MBI,N/A,N/A,1320,40000000,N/A,/coins/mbi/overview,MBI
+Scrypt,Mbitbooks,Mbitbooks (MBIT),0,55547,/media/1382793/mbit.png,MBIT,N/A,PoW,1133,81000000,N/A,/coins/mbit/overview,MBIT
+N/A,Embers,Embers (MBRS),0,221350,/media/1384010/mbrs.png,MBRS,N/A,N/A,1456,50000000,N/A,/coins/mbrs/overview,MBRS
+N/A,Mass Coin,Mass Coin (MC),0,27594,/media/351428/mc.png,MC,N/A,N/A,721,1000000000000,N/A,/coins/mc/overview,MC
+N/A,MCAP,MCAP (MCAP),0,131154,/media/1383559/mcap.png,MCAP,N/A,N/A,1258,100000000,N/A,/coins/mcap/overview,MCAP
+Scrypt,MasterCar,MasterCar (MCAR),0,45612,/media/1382659/mcar.png,MCAR,N/A,PoW/PoS,1102,2991837,N/A,/coins/mcar/overview,MCAR
+CryptoNight,MonetaVerde,MonetaVerde (MCN),0,7636,/media/20346/mcn.png,MCN,N/A,PoW,443,0,N/A,/coins/mcn/overview,MCN
+N/A,Monaco,Monaco (MCO),0,166548,/media/1383653/mco.jpg,MCO,N/A,N/A,1275,31587682.3632061,N/A,/coins/mco/overview,MCO
+PoS,MacronCoin,MacronCoin (MCRN),0,67430,/media/1383111/mcrn.png,MCRN,N/A,PoS,1187,N/A,N/A,/coins/mcrn/overview,MCRN
+Scrypt,MedicCoin,MedicCoin (MDC),0,28128,/media/351500/mdc.png,MDC,N/A,PoW/PoS,737,33000000,N/A,/coins/mdc/overview,MDC
+SHA256,Midnight ,Midnight  (MDT),0,33004,/media/351989/mdt.png,MDT,N/A,PoW/PoS,895,N/A,N/A,/coins/mdt/overview,MDT
+Scrypt,MegaCoin,MegaCoin (MEC),0,4559,/media/19789/mec.png,MEC,N/A,PoW,155,42000000,N/A,/coins/mec/overview,MEC
+HybridScryptHash256,MediterraneanCoin,MediterraneanCoin (MED),0,4560,/media/20046/med.png,MED,N/A,PoW,156,200000000,N/A,/coins/med/overview,MED
+N/A,MediBond,MediBond (MEDI),0,233044,/media/1384051/medi.png,MEDI,N/A,N/A,1495,250000000,N/A,/coins/medi/overview,MEDI
+N/A,MegaFlash,MegaFlash (MEGA),1,33393,/media/352020/mega.png,MEGA,N/A,N/A,906,300000,N/A,/coins/mega/overview,MEGA
+X11,Pepe,Pepe (MEME),0,20825,/media/1383050/pepecoin-512.png,MEME,N/A,PoW/PoS,578,N/A,N/A,/coins/meme/overview,MEME
+N/A,Mercury,Mercury (MER),1,61138,/media/1382996/mer.png,MER,N/A,N/A,1169,100000000,N/A,/coins/mer/overview,MER
+N/A,Memessenger,Memessenger (MET),0,221605,/media/1384013/met1.png,MET,N/A,N/A,1458,10000000,N/A,/coins/met/overview,MET
+Scrypt,MetalCoin,MetalCoin (METAL),0,5373,/media/20359/metal.png,METAL,N/A,PoW,341,0,N/A,/coins/metal/overview,METAL
+SHA256,Mind Gene,Mind Gene (MG),0,29001,/media/351588/mg.png,MG,N/A,PoW/PoS,788,7500000000,N/A,/coins/mg/overview,MG
+N/A,MobileGo,MobileGo (MGO),0,55650,/media/1382798/mgo.png,MGO,N/A,N/A,1135,100000000,N/A,/coins/mgo/overview,MGO
+Scrypt,XiaoMiCoin,XiaoMiCoin (MI),0,12225,/media/20711/mi.png,MI,N/A,PoW/PoS,468,400000000,N/A,/coins/mi/overview,MI
+X11,Milllionaire Coin,Milllionaire Coin (MIL),0,7581,/media/20354/mil.png,MIL,N/A,PoW/PoS,429,0,N/A,/coins/mil/overview,MIL
+Scrypt,MiloCoin,MiloCoin (MILO),0,74924,/media/1383236/milo.png,MILO,N/A,PoW/PoS,1209,N/A,N/A,/coins/milo/overview,MILO
+X11,Minerals Coin,Minerals Coin (MIN),0,4561,/media/19793/min.png,MIN,N/A,PoW/PoS,157,1000000,N/A,/coins/min/overview,MIN
+Scrypt,Instamine Nuggets,Instamine Nuggets (MINE),0,5379,/media/20356/mine.png,MINE,N/A,PoW,347,21649485,N/A,/coins/mine/overview,MINE
+N/A,Minex,Minex (MINEX),0,235021,/media/9350702/minex.png,MINEX,N/A,N/A,1504,30000000,N/A,/coins/minex/overview,MINEX
+Scrypt,MintCoin,MintCoin (MINT),0,4562,/media/19797/mint.png,MINT,N/A,PoS,158,0,N/A,/coins/mint/overview,MINT
+X11,MIScoin,MIScoin (MIS),0,37190,/media/1381981/mis.png,MIS,N/A,PoW/PoS,984,25000000,N/A,/coins/mis/overview,MIS
+Scrypt,MakeItViral,MakeItViral (MIV),0,177759,/media/1383728/miv.png,MIV,N/A,PoW/PoS,1297,N/A,N/A,/coins/miv/overview,MIV
+N/A,Maker,Maker (MKR),0,41192,/media/1382296/mkr.png,MKR,N/A,N/A,1032,1000000,N/A,/coins/mkr/overview,MKR
+SHA256D,MeLite,MeLite (MLITE),0,49600,/media/1382725/mlite.png,MLITE,N/A,PoW/PoS,1113,1000000,N/A,/coins/mlite/overview,MLITE
+N/A,Melon,Melon (MLN),1,45253,/media/1382653/mln.png,MLN,N/A,N/A,1096,749400,N/A,/coins/mln/overview,MLN
+N/A,CPROP,CPROP (MLS),0,234707,/media/9350696/mls.png,MLS,N/A,N/A,1500,100000000,N/A,/coins/mls/overview,MLS
+X11,MasterMint,MasterMint (MM),0,44959,/media/1382642/mm.jpg,MM,N/A,PoS,1092,1500000000,N/A,/coins/mm/overview,MM
+Multiple,MemoryCoin,MemoryCoin (MMC),0,5389,/media/19795/mmc.png,MMC,N/A,PoW,357,10000000,N/A,/coins/mmc/overview,MMC
+N/A,MMNXT ,MMNXT  (MMNXT),1,23425,/media/351209/nxtasset.png,MMNXT,N/A,N/A,676,50000000,N/A,/coins/mmnxt/overview,MMNXT
+SHA256,MaieutiCoin,MaieutiCoin (MMXIV),0,5326,/media/19798/mmxiv.png,MMXIV,N/A,PoS,294,2014,N/A,/coins/mmxiv/overview,MMXIV
+N/A,MMXVI,MMXVI (MMXVI),0,36992,/media/1381972/mmxvi.png,MMXVI,N/A,PoW,981,N/A,N/A,/coins/mmxvi/overview,MMXVI
+SHA256,Cryptsy Mining Contract,Cryptsy Mining Contract (MN),0,4563,/media/19796/mn1.png,MN,N/A,PoW,159,0,N/A,/coins/mn/overview,MN
+Scrypt,MinCoin,MinCoin (MNC),0,4564,/media/19805/mnc.png,MNC,N/A,PoW,160,10000000,N/A,/coins/mnc/overview,MNC
+X11,MindCoin,MindCoin (MND),0,15888,/media/350616/mnd.png,MND,N/A,PoW,488,16000000,N/A,/coins/mnd/overview,MND
+N/A,Minereum,Minereum (MNE),0,84831,/media/1383328/mne.png,MNE,N/A,N/A,1230,136576000,N/A,/coins/mne/overview,MNE
+X13,Mineum,Mineum (MNM),0,20905,/media/350982/mnm.png,MNM,N/A,PoW/PoS,583,10000000,N/A,/coins/mnm/overview,MNM
+N/A,GoldMint,GoldMint (MNT),0,240322,/media/9350745/mntp.png,MNT,N/A,N/A,1520,10000000,N/A,/coins/mnt/overview,MNT
+N/A,Monkey,Monkey (MNY),0,208001,/media/1383973/mny.png,MNY,N/A,N/A,1440,1000000000,N/A,/coins/mny/overview,MNY
+N/A,MoinCoin,MoinCoin (MOIN),0,20744,/media/350959/moin.png,MOIN,N/A,PoW/PoS,568,184000000,N/A,/coins/moin/overview,MOIN
+PoS,Mojocoin,Mojocoin (MOJO),0,21232,/media/351003/mojo.png,MOJO,N/A,PoS,604,N/A,N/A,/coins/mojo/overview,MOJO
+Scrypt,MonaCoin,MonaCoin (MONA),0,5296,/media/19801/mona.png,MONA,N/A,PoW,265,105120000,N/A,/coins/mona/overview,MONA
+Scrypt,Moneta,Moneta (MONETA),0,30364,/media/351749/moneta.png,MONETA,N/A,PoW,849,184000000,N/A,/coins/moneta/overview,MONETA
+Scrypt,MoneyCoin,MoneyCoin (MONEY),0,35681,/media/352249/money.png,MONEY,N/A,PoW/PoS,965,650659833,N/A,/coins/money/overview,MONEY
+Scrypt,MoonCoin,MoonCoin (MOON),0,4346,/media/19802/moon.png,MOON,N/A,PoW,59,384000000000,N/A,/coins/moon/overview,MOON
+Scrypt,Dark Moon,Dark Moon (MOOND),0,28774,/media/351558/moond.png,MOOND,N/A,PoW/PoS,777,420000000,N/A,/coins/moond/overview,MOOND
+N/A,Motocoin,Motocoin (MOTO),0,41592,/media/1382339/moto.png,MOTO,N/A,PoP,1035,40000000,N/A,/coins/moto/overview,MOTO
+PoS,MediumProject,MediumProject (MPRO),0,21222,/media/350999/mpro.jpg,MPRO,N/A,PoW,600,250000,N/A,/coins/mpro/overview,MPRO
+X11,MorpheusCoin,MorpheusCoin (MRP),0,6412,/media/20357/mrp.png,MRP,N/A,PoW,410,3400000,N/A,/coins/mrp/overview,MRP
+X11,MarsCoin,MarsCoin (MRS),0,5410,/media/19808/mrs.png,MRS,N/A,PoW,378,33000000,N/A,/coins/mrs/overview,MRS
+X13,MrsaCoin,MrsaCoin (MRSA),0,41116,/media/1382287/msra.png,MRSA,N/A,PoW/PoS,1029,2100000000,N/A,/coins/mrsa/overview,MRSA
+N/A,MinersReward,MinersReward (MRT),0,75475,/media/350884/waves_1.png,MRT,N/A,N/A,1212,10000000,N/A,/coins/mrt/overview,MRT
+N/A,Macroverse,Macroverse (MRV),0,221349,/media/1384009/mrv.png,MRV,N/A,N/A,1455,105000000,N/A,/coins/mrv/overview,MRV
+Scrypt,MurrayCoin,MurrayCoin (MRY),0,4566,/media/19807/mry.jpg,MRY,N/A,PoW,162,58000000,N/A,/coins/mry/overview,MRY
+Scrypt,MasterCoin,MasterCoin (MSC),1,5394,/media/19814/mst.png,MSC,N/A,PoW,362,619478,N/A,/coins/msc/overview,MSC
+N/A,Mothership,Mothership (MSP),0,198408,/media/1383881/c9fobrlr_400x400.jpg,MSP,N/A,N/A,1401,200000000,N/A,/coins/msp/overview,MSP
+X11,MustangCoin,MustangCoin (MST),0,28219,/media/351529/mst1.png,MST,N/A,PoW/PoS,748,3000000,N/A,/coins/mst/overview,MST
+N/A,Mycelium Token,Mycelium Token (MT),0,29378,/media/19453/mycelium.png,MT,N/A,N/A,807,5311,N/A,/coins/mt/overview,MT
+N/A,Monetha,Monetha (MTH),0,208914,/media/1383976/mth.png,MTH,N/A,N/A,1441,N/A,N/A,/coins/mth/overview,MTH
+N/A,Metal,Metal (MTL),0,179164,/media/1383743/mtl.png,MTL,N/A,PoPP,1308,66588888,N/A,/coins/mtl/overview,MTL
+Scrypt,Metal Music v3,Metal Music v3 (MTLM3),0,34754,/media/352183/mtmc3.png,MTLM3,N/A,PoW/PoS,949,2500000000,N/A,/coins/mtlm3/overview,MTLM3
+X11,MasterTraderCoin,MasterTraderCoin (MTR),0,5340,/media/19710/frac.png,MTR,N/A,PoW/PoS,308,10110000,N/A,/coins/mtr/overview,MTR
+N/A,Matryx,Matryx (MTX),0,257110,/media/9350793/mtx.png,MTX,N/A,N/A,1554,N/A,N/A,/coins/mtx/overview,MTX
+X13,MudraCoin,MudraCoin (MUDRA),0,25820,/media/351394/mudra.png,MUDRA,N/A,PoS,704,200000000,N/A,/coins/mudra/overview,MUDRA
+Quark,MonetaryUnit,MonetaryUnit (MUE),0,22325,/media/351084/mue.png,MUE,N/A,PoW,655,N/A,N/A,/coins/mue/overview,MUE
+Ethash,Musiccoin,Musiccoin (MUSIC),0,53950,/media/1382783/music.png,MUSIC,N/A,PoW,1130,N/A,N/A,/coins/music/overview,MUSIC
+SHA256,MilkCoin,MilkCoin (MUU),0,84247,/media/1383325/muu.png,MUU,N/A,PoW/PoS ,1227,4500000000,N/A,/coins/muu/overview,MUU
+X11,MultiWallet Coin,MultiWallet Coin (MWC),0,6107,/media/19808/mrs.png,MWC,N/A,PoW/PoS,394,0,N/A,/coins/mwc/overview,MWC
+X13,MartexCoin,MartexCoin (MXT),0,53944,/media/1382782/mxt.jpg,MXT,N/A, PoW/PoS,1129,5000000,N/A,/coins/mxt/overview,MXT
+N/A,MyBit,MyBit (MYB),0,179345,/media/1383746/myb.png,MYB,N/A,N/A,1310,5000000,N/A,/coins/myb/overview,MYB
+Scrypt,MayaCoin,MayaCoin (MYC),0,20661,/media/350947/myc.png,MYC,N/A,PoW/PoS,554,250000000,N/A,/coins/myc/overview,MYC
+N/A,Mysterium,Mysterium (MYST),0,136190,/media/1383561/myst.png,MYST,N/A,N/A,1259,32433365,N/A,/coins/myst/overview,MYST
+X11,MysteryCoin,MysteryCoin (MYST*),0,4567,/media/20053/myst.png,MYST*,N/A,PoW,163,32433366,N/A,/coins/myststar/overview,MYST*
+SHA256,MazaCoin,MazaCoin (MZC),0,4568,/media/19816/mzc.png,MZC,N/A,PoW/PoS,164,2419200000,N/A,/coins/mzc/overview,MZC
+Scrypt,Number7,Number7 (N7),0,21017,/media/350995/n7.jpg,N7,N/A,PoW,596,270967742,N/A,/coins/n7/overview,N7
+Scrypt,NanoToken,NanoToken (NAN),0,4569,/media/19821/nan.png,NAN,N/A,PoW,165,80000000,N/A,/coins/nan/overview,NAN
+Scrypt,BananaBits,BananaBits (NANAS),0,6453,/media/20575/nanas.png,NANAS,N/A,PoW/PoS,413,0,N/A,/coins/nanas/overview,NANAS
+N/A,Nas2Coin,Nas2Coin (NAS2),0,16717,/media/350776/nas2.png,NAS2,N/A,PoS,493,200000000,N/A,/coins/nas2/overview,NAS2
+Scrypt,Nautilus Coin,Nautilus Coin (NAUT),0,4570,/media/19822/naut.png,NAUT,N/A,PoS,166,16180000,N/A,/coins/naut/overview,NAUT
+X13,NavCoin,NavCoin (NAV),0,4571,/media/351431/nav.png,NAV,N/A,PoW/PoS,167,0,N/A,/coins/nav/overview,NAV
+Scrypt,NetBit,NetBit (NBIT),0,32688,/media/351928/nbit.png,NBIT,N/A,PoW/PoS,882,10500000,N/A,/coins/nbit/overview,NBIT
+Scrypt,Nybble,Nybble (NBL),0,4572,/media/19825/nbl.png,NBL,N/A,PoW,168,210000000,N/A,/coins/nbl/overview,NBL
+SHA256,NuBits,NuBits (NBT),0,5287,/media/20363/nbt.png,NBT,N/A,PoS,256,0,N/A,/coins/nbt/overview,NBT
+N/A,NeverDie,NeverDie (NDC),0,188787,/media/1383827/ndc.png,NDC,N/A,N/A,1372,400000000,N/A,/coins/ndc/overview,NDC
+X11,NinjaDoge,NinjaDoge (NDOGE),0,45044,/media/1382650/ndoge.png,NDOGE,N/A,PoW/PoS,1094,N/A,N/A,/coins/ndoge/overview,NDOGE
+N/A,Neblio,Neblio (NEBL),0,222085,/media/1384016/nebl.png,NEBL,N/A,N/A,1460,13000000,N/A,/coins/nebl/overview,NEBL
+PoS,Nebuchadnezzar,Nebuchadnezzar (NEBU),1,20980,/media/350990/nebu.png,NEBU,N/A,PoS,591,20000000,N/A,/coins/nebu/overview,NEBU
+Scrypt,NeoCoin,NeoCoin (NEC),0,4573,/media/19824/nec.png,NEC,N/A,PoW/PoS,169,80000000,N/A,/coins/nec/overview,NEC
+Scrypt,NefariousCoin,NefariousCoin (NEF),0,112405,/media/1383383/nef.png,NEF,N/A,PoW/PoS,1243,4835000000,N/A,/coins/nef/overview,NEF
+N/A,NEO,NEO (NEO),1,27368,/media/1383858/neo.jpg,NEO,N/A,N/A,718,100000000,N/A,/coins/neo/overview,NEO
+SHA256,NeosCoin,NeosCoin (NEOS),0,5370,/media/1382788/neos1.png,NEOS,N/A,PoS,338,21000000,N/A,/coins/neos/overview,NEOS
+Scrypt,NetCoin,NetCoin (NET),0,4574,/media/19826/net.png,NET,N/A,PoW,170,320636160,N/A,/coins/net/overview,NET
+N/A,Nimiq Exchange Token,Nimiq Exchange Token (NET*),0,176669,/media/1383697/net1.png,NET*,N/A,N/A,1290,210000000,N/A,/coins/netstar/overview,NET*
+X13,NetworkCoin,NetworkCoin (NETC),0,20647,/media/350938/netc.png,NETC,N/A,PoW/PoS,548,N/A,N/A,/coins/netc/overview,NETC
+Blake,Netko,Netko (NETKO),0,53174,/media/1382771/netko.png,NETKO,N/A,N/A,1126,25534140,N/A,/coins/netko/overview,NETKO
+N/A,NeuCoin,NeuCoin (NEU),0,13044,/media/20721/neu.png,NEU,N/A,PoS,470,100000000000,N/A,/coins/neu/overview,NEU
+N/A,NevaCoin,NevaCoin (NEVA),0,21669,/media/351026/neva.png,NEVA,N/A,PoW/PoS,620,26280000,N/A,/coins/neva/overview,NEVA
+PoS,NewInvestCoin,NewInvestCoin (NIC),0,35947,/media/352309/nic.png,NIC,N/A,PoS,975,47090909,N/A,/coins/nic/overview,NIC
+Scrypt,NiceCoin,NiceCoin (NICE),0,43253,/media/1382467/nice.png,NICE,N/A,PoW,1070,N/A,N/A,/coins/nice/overview,NICE
+N/A,Nimfamoney,Nimfamoney (NIMFA),0,234596,/media/9350694/nimfa.jpg,NIMFA,N/A,N/A,1498,100000000,N/A,/coins/nimfa/overview,NIMFA
+SHA256,IncaKoin,IncaKoin (NKA),0,7559,/media/20367/nka.png,NKA,N/A,PoW/PoS,422,190000000,N/A,/coins/nka/overview,NKA
+Scrypt,Nukecoinz,Nukecoinz (NKC),0,21710,/media/351041/nkc.png,NKC,N/A,PoW,623,N/A,N/A,/coins/nkc/overview,NKC
+X11,NakomotoDark,NakomotoDark (NKT),0,5334,/media/20371/nkt.png,NKT,N/A,PoW/PoS,302,0,N/A,/coins/nkt/overview,NKT
+SHA256D,NoLimitCoin,NoLimitCoin (NLC),0,29010,/media/351591/nlc.png,NLC,N/A,PoW/PoS,791,N/A,N/A,/coins/nlc/overview,NLC
+PoS,NoLimitCoin,NoLimitCoin (NLC2),0,195018,/media/1383855/nlc21.png,NLC2,N/A,PoS,1387,200000000,N/A,/coins/nlc2/overview,NLC2
+Scrypt,Gulden,Gulden (NLG),0,5315,/media/19828/nlg.png,NLG,N/A,PoW,284,1680000000,N/A,/coins/nlg/overview,NLG
+X15,Nimbus Coin,Nimbus Coin (NMB),0,4575,/media/20049/nmb.png,NMB,N/A,PoW/PoS,171,25000000,N/A,/coins/nmb/overview,NMB
+SHA256,NameCoin,NameCoin (NMC),0,4580,/media/19830/nmc.png,NMC,N/A,PoW,176,21000000,N/A,/coins/nmc/overview,NMC
+N/A,Numerai,Numerai (NMR),0,166594,/media/1383655/nmr.png,NMR,N/A,N/A,1276,2223451,N/A,/coins/nmr/overview,NMR
+Scrypt,NobleCoin,NobleCoin (NOBL),0,4577,/media/19833/nobl.png,NOBL,N/A,PoW,173,15000000000,N/A,/coins/nobl/overview,NOBL
+Curve25519,Node,Node (NODE),0,5402,/media/20373/node.png,NODE,N/A,PoA,370,1000000000,N/A,/coins/node/overview,NODE
+PoS,Noocoin,Noocoin (NOO),0,41971,/media/1382370/noo.png,NOO,N/A,PoS,1042,25000000,N/A,/coins/noo/overview,NOO
+Scrypt,Dnotes,Dnotes (NOTE),0,5322,/media/19832/note.png,NOTE,N/A,PoW,291,500000000,N/A,/coins/note/overview,NOTE
+SHA256D,NPCcoin,NPCcoin (NPC),0,34491,/media/352130/npc.png,NPC,N/A,PoW/PoS,939,7000000000,N/A,/coins/npc/overview,NPC
+N/A,Napoleon X,Napoleon X (NPX),0,187015,/media/1383806/npx.png,NPX,N/A,N/A,1359,N/A,N/A,/coins/npx/overview,NPX
+SHA256,NoirBits,NoirBits (NRB),0,4576,/media/19839/nrb.png,NRB,N/A,PoW,172,50000000,N/A,/coins/nrb/overview,NRB
+PoS,Neurocoin,Neurocoin (NRC),0,44001,/media/1382604/nrc.png,NRC,N/A,PoS,1082,N/A,N/A,/coins/nrc/overview,NRC
+N/A,Doc.ai Neuron,Doc.ai Neuron (NRN),1,307406,/media/12318047/nrn.png,NRN,N/A,N/A,1589,860000000,N/A,/coins/nrn/overview,NRN
+Scrypt,NoirShares,NoirShares (NRS),0,4578,/media/19834/nrs.png,NRS,N/A,PoW/PoS,174,5000000,N/A,/coins/nrs/overview,NRS
+N/A,NuShares,NuShares (NSR),0,5295,/media/20378/nsr.png,NSR,N/A,PoS,264,1000000000,N/A,/coins/nsr/overview,NSR
+Scrypt,NineElevenTruthCoin,NineElevenTruthCoin (NTC),0,29366,/media/351631/ntc.png,NTC,N/A,PoW/PoS,802,N/A,N/A,/coins/ntc/overview,NTC
+X11,NeptuneClassic,NeptuneClassic (NTCC),0,41819,/media/1382346/ntcc.png,NTCC,N/A,PoW/PoS,1036,250000000,N/A,/coins/ntcc/overview,NTCC
+SHA256,Neutron,Neutron (NTRN),0,5301,/media/20375/ntrn.png,NTRN,N/A,PoW/PoS,270,1000000,N/A,/coins/ntrn/overview,NTRN
+SHA256D,NubisCoin,NubisCoin (NUBIS),0,30393,/media/351759/nubis.png,NUBIS,N/A,PoW/PoS,859,N/A,N/A,/coins/nubis/overview,NUBIS
+PoS,NukeCoin,NukeCoin (NUKE),0,44799,/media/1382626/nuke.png,NUKE,N/A,PoS,1087,2778196,N/A,/coins/nuke/overview,NUKE
+Scrypt,NumbersCoin,NumbersCoin (NUM),0,20583,/media/350932/num.png,NUM,N/A,PoW/PoS,541,N/A,N/A,/coins/num/overview,NUM
+Scrypt,NovaCoin,NovaCoin (NVC),0,4579,/media/20713/nvc.png,NVC,N/A,PoW/PoS,175,0,N/A,/coins/nvc/overview,NVC
+N/A,NVO,NVO (NVST),0,178885,/media/1383732/nvst.png,NVST,N/A,N/A,1303,30000000,N/A,/coins/nvst/overview,NVST
+N/A,Nexium,Nexium (NXC),0,35678,/media/352248/nxc.png,NXC,N/A,N/A,964,100000000,N/A,/coins/nxc/overview,NXC
+NIST5,NXEcoin,NXEcoin (NXE),0,22240,/media/351070/nxe.png,NXE,N/A,PoW/PoS,645,2200000,N/A,/coins/nxe/overview,NXE
+SHA3,Nexus,Nexus (NXS),0,6103,/media/1382387/nexus.jpg,NXS,N/A,PoW/nPoS,390,78000000,N/A,/coins/nxs/overview,NXS
+PoS,Nxt,Nxt (NXT),1,1183,/media/20627/nxt.png,NXT,N/A,PoS/LPoS,6,1000000000,N/A,/coins/nxt/overview,NXT
+N/A,NXTI,NXTI (NXTI),0,3650,/media/20376/nxti.png,NXTI,N/A,N/A,30,N/A,N/A,/coins/nxti/overview,NXTI
+N/A,NXTTY,NXTTY (NXTTY),0,5360,/media/20379/nxtty.png,NXTTY,N/A,N/A,328,0,N/A,/coins/nxtty/overview,NXTTY
+Scrypt,NyanCoin,NyanCoin (NYAN),0,4581,/media/19842/nyan.png,NYAN,N/A,PoW,177,337000,N/A,/coins/nyan/overview,NYAN
+Scrypt,NewYorkCoin,NewYorkCoin (NYC),0,247232,/media/9350762/nyc.png,NYC,N/A,PoW,1532,10000000000,N/A,/coins/nyc/overview,NYC
+Scrypt,NewZealandCoin,NewZealandCoin (NZC),0,24892,/media/351366/nzc.png,NZC,N/A,PoW,696,335800000,N/A,/coins/nzc/overview,NZC
+N/A,OpenANX,OpenANX (OAX),1,180013,/media/1383756/oax.png,OAX,N/A,N/A,1319,100000000,N/A,/coins/oax/overview,OAX
+N/A,Obits Coin,Obits Coin (OBITS),1,15323,/media/350565/obits.png,OBITS,N/A,N/A,481,18276898,N/A,/coins/obits/overview,OBITS
+X11,Obscurebay,Obscurebay (OBS),0,22177,/media/351064/obs.png,OBS,N/A,PoW/PoS,639,6562000,N/A,/coins/obs/overview,OBS
+Scrypt,OrangeCoin,OrangeCoin (OC),0,5357,/media/19843/oc.png,OC,N/A,PoW/PoS,325,200000000,N/A,/coins/oc/overview,OC
+N/A,Oceanlab,Oceanlab (OCL),0,214738,/media/1383989/ocl.png,OCL,N/A,DPoS/LPoS,1447,50000000,N/A,/coins/ocl/overview,OCL
+N/A,OctoCoin,OctoCoin (OCTO),1,5393,/media/19983/888.png,OCTO,N/A,N/A,361,88000000,N/A,/coins/octo/overview,OCTO
+SHA256D,Old Dogs New Tricks,Old Dogs New Tricks (ODNT),0,34847,/media/352186/odnt.png,ODNT,N/A,PoW/PoS,950,21000000,N/A,/coins/odnt/overview,ODNT
+N/A,OKCash,OKCash (OK),0,17857,/media/350819/ok.png,OK,N/A,PoW/PoS,499,105000000,N/A,/coins/ok/overview,OK
+N/A,OldSafeCoin,OldSafeCoin (OLDSF),0,20640,/media/350936/oldsf.png,OLDSF,N/A,PoS,546,N/A,N/A,/coins/oldsf/overview,OLDSF
+X11,OlympCoin,OlympCoin (OLYMP),0,29715,/media/351683/olymp.png,OLYMP,N/A,PoW/PoS,818,50000000,N/A,/coins/olymp/overview,OLYMP
+X15,OmegaCoin,OmegaCoin (OMA),0,22280,/media/20386/oma.png,OMA,N/A,PoW/PoS,654,N/A,N/A,/coins/oma/overview,OMA
+Scrypt,OmniCron,OmniCron (OMC),0,5365,/media/1381967/omc.png,OMC,N/A,PoW,333,3371337,N/A,/coins/omc/overview,OMC
+N/A,OmiseGo,OmiseGo (OMG),0,187440,/media/1383814/omg.png,OMG,N/A,PoS,1362,140245398,N/A,/coins/omg/overview,OMG
+Scrypt,Omni,Omni (OMNI),1,22441,/media/351102/omni.png,OMNI,N/A,PoW,672,619478,N/A,/coins/omni/overview,OMNI
+X13,DeepOnion,DeepOnion (ONION),0,198967,/media/1383894/onion.png,ONION,N/A,PoW/PoS,1409,25000000,N/A,/coins/onion/overview,ONION
+X11,Onix,Onix (ONX),0,201676,/media/1383910/onx.png,ONX,N/A,PoW,1420,1100000000,N/A,/coins/onx/overview,ONX
+X13,OpalCoin,OpalCoin (OPAL),0,4582,/media/20050/opal.png,OPAL,N/A,PoW/PoS,178,15000000,N/A,/coins/opal/overview,OPAL
+Argon2,Opes,Opes (OPES),0,42850,/media/1382434/opes.png,OPES,N/A,PoW,1065,52000000,N/A,/coins/opes/overview,OPES
+N/A,Opus,Opus (OPT),0,197054,/media/1383873/opt.png,OPT,N/A,N/A,1396,1600000000,N/A,/coins/opt/overview,OPT
+X11,OptionCoin,OptionCoin (OPTION),0,37749,/media/1381998/option.png,OPTION,N/A,PoS,996,21000000,N/A,/coins/option/overview,OPTION
+NeoScrypt,Orbitcoin,Orbitcoin (ORB),0,4583,/media/19845/orb.png,ORB,N/A,PoW/PoS,179,3770000,N/A,/coins/orb/overview,ORB
+X15,OrlyCoin,OrlyCoin (ORLY),0,22258,/media/351076/orly.png,ORLY,N/A,PoW/PoS,649,36000000,N/A,/coins/orly/overview,ORLY
+N/A,Ormeus Coin,Ormeus Coin (ORME),0,301112,/media/12317975/omes.png,ORME,N/A,N/A,1571,200000000,N/A,/coins/orme/overview,ORME
+Scrypt,OroCoin,OroCoin (ORO),0,45262,/media/1382656/oro.png,ORO,N/A,PoW,1099,23529412,N/A,/coins/oro/overview,ORO
+N/A,Orocrypt,Orocrypt (OROC),0,180001,/media/1383755/oroc.png,OROC,N/A,N/A,1318,1112000,N/A,/coins/oroc/overview,OROC
+Scrypt,OsmiumCoin,OsmiumCoin (OS76),0,41122,/media/1382288/os76.png,OS76,N/A,PoW,1030,2714286,N/A,/coins/os76/overview,OS76
+SHA256,OpenSourceCoin,OpenSourceCoin (OSC),0,4584,/media/19847/osc.png,OSC,N/A,PoW/PoS,180,21000000,N/A,/coins/osc/overview,OSC
+X11,Octanox,Octanox (OTX),0,188294,/media/1383817/1qrfuod6_400x400.jpg,OTX,N/A,Hybrid (POS/POW),1364,7905634,N/A,/coins/otx/overview,OTX
+DPoS,Oxycoin,Oxycoin (OXY),0,242873,/media/9350753/oxy.png,OXY,N/A,DPoS,1527,N/A,N/A,/coins/oxy/overview,OXY
+SHA256D,PacCoin,PacCoin (PAC),0,44003,/media/1382605/pac.png,PAC,N/A,PoW,1083,100000000000000,N/A,/coins/pac/overview,PAC
+Scrypt,Pakcoin,Pakcoin (PAK),0,17006,/media/350788/pak.png,PAK,N/A,PoW,494,182000000,N/A,/coins/pak/overview,PAK
+Scrypt,ParanoiaCoin,ParanoiaCoin (PARA),0,44957,/media/1382641/para.png,PARA,N/A,PoW,1091,72000000,N/A,/coins/para/overview,PARA
+PoS,Particl,Particl (PART),0,191116,/media/1383838/part.png,PART,N/A,PoSv3,1377,8634140,N/A,/coins/part/overview,PART
+N/A,Pascal Coin,Pascal Coin (PASC),0,40811,/media/1382247/pasc.png,PASC,N/A,N/A,1021,N/A,N/A,/coins/pasc/overview,PASC
+SHA256,Pascal Lite,Pascal Lite (PASL),0,50754,/media/1382741/pasl.png,PASL,N/A,PoW/PoS,1119,N/A,N/A,/coins/pasl/overview,PASL
+N/A,TenX,TenX (PAY),1,45260,/media/1383687/pay.png,PAY,N/A,N/A,1098,205218255.948577763364408207,N/A,/coins/pay/overview,PAY
+X11,PayPeer,PayPeer (PAYP),0,40842,/media/1382251/payp.png,PAYP,N/A,PoW/PoS,1023,50000000000,N/A,/coins/payp/overview,PAYP
+X11,PabyosiCoin,PabyosiCoin (PBC),0,22171,/media/351062/pbc.png,PBC,N/A,PoW/PoS,638,31500000000,N/A,/coins/pbc/overview,PBC
+N/A,Bankex,Bankex (PBKX),0,241757,/media/9350749/bankex.jpg,PBKX,N/A,N/A,1525,N/A,N/A,/coins/pbkx/overview,PBKX
+N/A,Primalbase,Primalbase (PBT),0,84232,/media/1383324/pbt.png,PBT,N/A,N/A,1226,1000,N/A,/coins/pbt/overview,PBT
+Scrypt,Procom,Procom (PCM),0,35228,/media/352223/pcm.png,PCM,N/A,PoW,960,28000000,N/A,/coins/pcm/overview,PCM
+X11,Pabyosi Coin,Pabyosi Coin (PCS),0,32686,/media/351927/pabyosi.png,PCS,N/A,PoW/PoS,881,31500000000,N/A,/coins/pcs/overview,PCS
+N/A,Project Decorum,Project Decorum (PDC),1,22352,/media/351088/pdc.png,PDC,N/A,N/A,662,50000000,N/A,/coins/pdc/overview,PDC
+X11,PeaceCoin,PeaceCoin (PEC),0,30423,/media/351761/pec.png,PEC,N/A,PoW,861,700000000,N/A,/coins/pec/overview,PEC
+Scrypt,PenCoin,PenCoin (PEN),0,33127,/media/20384/pen.png,PEN,N/A,PoW,901,N/A,N/A,/coins/pen/overview,PEN
+N/A,Pepe Cash,Pepe Cash (PEPECASH),1,42663,/media/1382397/pepecash.png,PEPECASH,N/A,N/A,1057,701884009,N/A,/coins/pepecash/overview,PEPECASH
+SHA256D,PosEx,PosEx (PEX),0,33010,/media/351992/pex.png,PEX,N/A,N/A,897,N/A,N/A,/coins/pex/overview,PEX
+N/A,Prospectors,Prospectors (PGL),0,222125,/media/1384018/pgl.png,PGL,N/A,N/A,1461,220000000,N/A,/coins/pgl/overview,PGL
+PoS,Phreak,Phreak (PHR),0,77337,/media/1383243/phr.jpg,PHR,N/A,PoS,1215,30000000,N/A,/coins/phr/overview,PHR
+Scrypt,PhilosophersStone,PhilosophersStone (PHS),0,4585,/media/19857/phs.png,PHS,N/A,PoW,181,8891840,N/A,/coins/phs/overview,PHS
+PoS,Persistent Information Exchange,Persistent Information Exchange (PIE),0,45832,/media/1382686/pie.png,PIE,N/A,PoS,1107,43000000,N/A,/coins/pie/overview,PIE
+X11,Piggy Coin,Piggy Coin (PIGGY),0,7577,/media/19854/piggy.png,PIGGY,N/A,PoW/PoS,427,0,N/A,/coins/piggy/overview,PIGGY
+N/A,CryptoPing,CryptoPing (PING),0,177503,/media/1383706/ping1.png,PING,N/A,N/A,1296,10000000,N/A,/coins/ping/overview,PING
+X11,PinkCoin,PinkCoin (PINK),0,5374,/media/350588/pinkcoin-logo.png,PINK,N/A,PoW/PoS,342,380000000,N/A,/coins/pink/overview,PINK
+Scrypt,PantherCoin,PantherCoin (PINKX),0,29193,/media/351624/pinkx.png,PINKX,N/A,PoW/PoS,796,735000000,N/A,/coins/pinkx/overview,PINKX
+X11,Pioneershares,Pioneershares (PIO),0,28342,/media/351528/pio.png,PIO,N/A,PoW/PoS,764,200000,N/A,/coins/pio/overview,PIO
+Quark,Private Instant Verified Transaction,Private Instant Verified Transaction (PIVX),0,42433,/media/1382389/pivx.png,PIVX,N/A,PoW/PoS,1051,N/A,N/A,/coins/pivx/overview,PIVX
+N/A,Lampix,Lampix (PIX),0,223283,/media/1384024/pix.png,PIX,N/A,N/A,1493,114172459,N/A,/coins/pix/overview,PIX
+X11,PizzaCoin,PizzaCoin (PIZZA),0,25830,/media/351397/pizza.png,PIZZA,N/A,PoW,707,25000000,N/A,/coins/pizza/overview,PIZZA
+SHA256,ParkByte,ParkByte (PKB),0,8764,/media/20694/pkb.png,PKB,N/A,PoW/PoS,459,25000000,N/A,/coins/pkb/overview,PKB
+Scrypt,PlanetCoin,PlanetCoin (PLANET),0,56654,/media/1382851/planet.png,PLANET,N/A,PoW/PoS,1141,1000000,N/A,/coins/planet/overview,PLANET
+N/A,Polybius,Polybius (PLBT),0,171884,/media/1383671/polybius.png,PLBT,N/A,N/A,1280,20000000,N/A,/coins/plbt/overview,PLBT
+Scrypt,PLNCoin,PLNCoin (PLNC),0,34493,/media/352131/plnc.png,PLNC,N/A,PoW/PoS,940,38540000 ,N/A,/coins/plnc/overview,PLNC
+N/A,Pillar,Pillar (PLR),1,184298,/media/1383786/plr.png,PLR,N/A,N/A,1344,800000000,N/A,/coins/plr/overview,PLR
+N/A,Pluton,Pluton (PLU),0,42837,/media/1382431/plu.png,PLU,N/A,N/A,1062,20000000,N/A,/coins/plu/overview,PLU
+SHA256,PlatiniumCoin,PlatiniumCoin (PNC),0,33873,/media/352085/pnc.png,PNC,N/A,PoW,921,21000000,N/A,/coins/pnc/overview,PNC
+Scrypt,PandaCoin,PandaCoin (PND),0,37366,/media/1381993/pnd.png,PND,N/A,PoW,993,N/A,N/A,/coins/pnd/overview,PND
+PoS,SteamPunk,SteamPunk (PNK),0,28772,/media/351557/pnk.png,PNK,N/A,PoS,776,40000000,N/A,/coins/pnk/overview,PNK
+N/A,Po.et,Po.et (POE),0,188811,/media/1383828/poe.png,POE,N/A,N/A,1373,3141592653,N/A,/coins/poe/overview,POE
+N/A,Cryptsy Points,Cryptsy Points (POINTS),0,4586,/media/19863/points.png,POINTS,N/A,N/A,182,0,N/A,/coins/points/overview,POINTS
+Scrypt,PolyBit,PolyBit (POLY),0,7567,/media/20631/poly.png,POLY,N/A,PoW,426,150000000,N/A,/coins/poly/overview,POLY
+N/A,PostCoin,PostCoin (POST),0,20444,/media/350917/post.png,POST,N/A,PoS,537,15081003,N/A,/coins/post/overview,POST
+Scrypt,PoSWallet,PoSWallet (POSW),0,35030,/media/1382902/posw.png,POSW,N/A,PoW/PoS,955,41000000,N/A,/coins/posw/overview,POSW
+Scrypt,PotCoin,PotCoin (POT),0,4587,/media/19865/pot.png,POT,N/A,PoW,183,420000000,N/A,/coins/pot/overview,POT
+N/A,PeerCoin,PeerCoin (PPC),0,2349,/media/19864/peercoin-logo.png,PPC,N/A,N/A,14,0,N/A,/coins/ppc/overview,PPC
+N/A,Populous,Populous (PPT),0,179896,/media/1383747/ppt.png,PPT,N/A,N/A,1311,53252246,N/A,/coins/ppt/overview,PPT
+N/A,Peerplays,Peerplays (PPY),0,29348,/media/351630/peerplays.png,PPY,N/A,N/A,801,5916684,N/A,/coins/ppy/overview,PPY
+N/A,PAquarium,PAquarium (PQT),0,179077,/media/1383741/pqt.png,PQT,N/A,N/A,1306,1200000000,N/A,/coins/pqt/overview,PQT
+Scrypt,ProsperCoin,ProsperCoin (PRC),0,3638,/media/20393/prc.png,PRC,N/A,PoW,18,21000000,N/A,/coins/prc/overview,PRC
+Scrypt,Premium,Premium (PRE),0,30024,/media/351711/pre.png,PRE,N/A,PoW,833,20000000,N/A,/coins/pre/overview,PRE
+N/A,President Trump,President Trump (PRES),0,42841,/media/1382432/pres.png,PRES,N/A,N/A,1063,57968072167,N/A,/coins/pres/overview,PRES
+N/A,Paragon,Paragon (PRG),0,225764,/media/1384033/prg.png,PRG,N/A,N/A,1469,200000000,N/A,/coins/prg/overview,PRG
+N/A,PrimeChain,PrimeChain (PRIME),0,20814,/media/350979/prime.png,PRIME,N/A,PoS,572,N/A,N/A,/coins/prime/overview,PRIME
+N/A,Privatix,Privatix (PRIX),0,257772,/media/9350797/prix.png,PRIX,N/A,N/A,1555,10000000,N/A,/coins/prix/overview,PRIX
+SHA256,PrismChain,PrismChain (PRM),0,20304,/media/350906/prm.png,PRM,N/A,PoW/PoS,523,N/A,N/A,/coins/prm/overview,PRM
+N/A,Propy,Propy (PRO),1,185695,/media/1383792/pro.png,PRO,N/A,N/A,1348,100000000,N/A,/coins/pro/overview,PRO
+SHA256,ProCurrency,ProCurrency (PROC),0,71334,/media/1383159/proc.png,PROC,N/A,PoS,1199,75000000000,N/A,/coins/proc/overview,PROC
+N/A,Papyrus,Papyrus (PRP),0,304147,/media/12318007/prp.png,PRP,N/A,N/A,1578,N/A,N/A,/coins/prp/overview,PRP
+Scrypt,Printerium,Printerium (PRX),0,43998,/media/1382603/prx.png,PRX,N/A,PoW/PoS,1081,20000000,N/A,/coins/prx/overview,PRX
+Scrypt,PesoBit,PesoBit (PSB),0,29041,/media/351594/psb.jpg,PSB,N/A,PoW/PoS,792,32958651,N/A,/coins/psb/overview,PSB
+X13,PseudoCash,PseudoCash (PSEUD),0,4588,/media/20052/pseud.png,PSEUD,N/A,PoW/PoS,184,2200000,N/A,/coins/pseud/overview,PSEUD
+X11,PSIcoin,PSIcoin (PSI),0,29004,/media/351589/psi.png,PSI,N/A,PoS,789,696969,N/A,/coins/psi/overview,PSI
+N/A,Primas,Primas (PST),0,255777,/media/9350792/pst.jpg,PST,N/A,N/A,1553,100000000,N/A,/coins/pst/overview,PST
+N/A,Presearch,Presearch (PST*),1,186331,/media/1383801/pst.png,PST*,N/A,N/A,1355,1000000000,N/A,/coins/pststar/overview,PST*
+SHA256D,Psilocybin,Psilocybin (PSY),0,24871,/media/351362/psy.png,PSY,N/A,PoW/PoS,693,4214600,N/A,/coins/psy/overview,PSY
+SHA256,PentaCoin,PentaCoin (PTA),0,39698,/media/1382236/pta.png,PTA,N/A,PoW/PoS,1015, 1311955 ,N/A,/coins/pta/overview,PTA
+Scrypt,PesetaCoin,PesetaCoin (PTC),0,5317,/media/19868/ptc.png,PTC,N/A,PoW,286,166386000,N/A,/coins/ptc/overview,PTC
+N/A,Patientory,Patientory (PTOY),0,129035,/media/1383547/ptoy.png,PTOY,N/A,N/A,1251,100001999,N/A,/coins/ptoy/overview,PTOY
+SHA256,Protoshares,Protoshares (PTS),0,4589,/media/19869/pts.png,PTS,N/A,PoW,185,2000000,N/A,/coins/pts/overview,PTS
+SHA256D,Pulse,Pulse (PULSE),0,21012,/media/350994/pulse.jpg,PULSE,N/A,PoS,595,N/A,N/A,/coins/pulse/overview,PULSE
+Blake2S,PupaCoin,PupaCoin (PUPA),0,78172,/media/1383245/pupa.png,PUPA,N/A,PoW/PoS,1217,3500000000,N/A,/coins/pupa/overview,PUPA
+Scrypt,PutinCoin,PutinCoin (PUT),0,23737,/media/1383668/put1.png,PUT,N/A,Pow/PoS,682,2000000000,N/A,/coins/put/overview,PUT
+NIST5,PowerCoin,PowerCoin (PWR),0,20236,/media/350899/pwr.png,PWR,N/A,PoW/PoS,521,50021000,N/A,/coins/pwr/overview,PWR
+SHA256,PXcoin,PXcoin (PX),0,37370,/media/1381994/px.png,PX,N/A,PoW/PoS,994,N/A,N/A,/coins/px/overview,PX
+Scrypt,PhoenixCoin,PhoenixCoin (PXC),0,4590,/media/20058/pxc.png,PXC,N/A,PoW/PoS,186,98000000,N/A,/coins/pxc/overview,PXC
+X11,Prime-X1,Prime-X1 (PXI),0,15274,/media/350559/pxi.png,PXI,N/A,PoW,478,N/A,N/A,/coins/pxi/overview,PXI
+SHA256,Phalanx,Phalanx (PXL),0,20580,/media/350930/pxl.png,PXL,N/A,PoW,540,15000000,N/A,/coins/pxl/overview,PXL
+Scrypt,PayCoin,PayCoin (PYC),0,4591,/media/19878/pyc.png,PYC,N/A,PoW/PoS,187,30000000,N/A,/coins/pyc/overview,PYC
+N/A,Paycentos,Paycentos (PYN),0,304833,/media/12318033/pyn.png,PYN,N/A,N/A,1582,450000000,N/A,/coins/pyn/overview,PYN
+SHA256,Prizm,Prizm (PZM),0,77306,/media/1383242/pzm.jpg,PZM,N/A,PoS,1214,600000000000000,N/A,/coins/pzm/overview,PZM
+N/A,Quantum,Quantum (QAU),0,170958,/media/1383669/qau.png,QAU,N/A,N/A,1278,246855127,N/A,/coins/qau/overview,QAU
+X11,Quebecoin,Quebecoin (QBC),0,38371,/media/19874/qbc.png,QBC,N/A,N/A,1009,21000000,N/A,/coins/qbc/overview,QBC
+X13,QuBuck Coin,QuBuck Coin (QBK),0,5361,/media/20400/qbk.png,QBK,N/A,PoS/PoB,329,0,N/A,/coins/qbk/overview,QBK
+SHA256,Cubits,Cubits (QBT),0,59317,/media/1382936/qbt.png,QBT,N/A,PoW/PoS,1155,300000000,N/A,/coins/qbt/overview,QBT
+CryptoNight,Quazar Coin,Quazar Coin (QCN),0,7650,/media/19877/qcn.png,QCN,N/A,PoW,444,0,N/A,/coins/qcn/overview,QCN
+N/A,QoraCoin,QoraCoin (QORA),0,5314,/media/19876/qora.png,QORA,N/A,PoS,283,10000000000,N/A,/coins/qora/overview,QORA
+Multiple,QuarkCoin,QuarkCoin (QRK),0,4351,/media/19882/qrk.png,QRK,N/A,PoW,64,247000000,N/A,/coins/qrk/overview,QRK
+N/A,Quantum Resistant Ledger,Quantum Resistant Ledger (QRL),0,127667,/media/1383543/qrl.png,QRL,N/A,PoS,1248,65000000,N/A,/coins/qrl/overview,QRL
+X11,Quicksilver coin,Quicksilver coin (QSLV),0,6095,/media/20404/qslv.png,QSLV,N/A,PoW,382,33000000,N/A,/coins/qslv/overview,QSLV
+Scrypt,Quatloo,Quatloo (QTL),0,4349,/media/19879/qtl.png,QTL,N/A,PoW,62,100000000,N/A,/coins/qtl/overview,QTL
+POS 3.0,QTUM,QTUM (QTUM),0,112392,/media/1383382/qtum.png,QTUM,N/A,PoS,1242,100000000,N/A,/coins/qtum/overview,QTUM
+SHA256,Quartz,Quartz (QTZ),0,7595,/media/20643/qtz.png,QTZ,N/A,PoW/PoS,434,0,N/A,/coins/qtz/overview,QTZ
+N/A,Qvolta,Qvolta (QVT),0,205980,/media/1383954/qvt.png,QVT,N/A,N/A,1435,218750000,N/A,/coins/qvt/overview,QVT
+N/A,Qwark,Qwark (QWARK),0,116425,/media/1383522/qwark.png,QWARK,N/A,N/A,1246,250377576,N/A,/coins/qwark/overview,QWARK
+X13,RadicalCoin,RadicalCoin (RADI),0,39707,/media/1382239/rad.png,RADI,N/A,PoS,1018,N/A,N/A,/coins/radi/overview,RADI
+N/A,Radium,Radium (RADS),0,15870,/media/350610/rads.png,RADS,N/A,PoS,483,9000000,N/A,/coins/rads/overview,RADS
+X11,Condensate,Condensate (RAIN),0,67462,/media/1383114/rain.png,RAIN,N/A,PoW/PoS,1189,500000000,N/A,/coins/rain/overview,RAIN
+PoS,Ratio,Ratio (RATIO),0,43046,/media/1382442/ratio.png,RATIO,N/A,PoS,1068,100000000,N/A,/coins/ratio/overview,RATIO
+N/A,Rubies,Rubies (RBIES),0,20320,/media/350904/rbies.png,RBIES,N/A,PoS,525,10000000,N/A,/coins/rbies/overview,RBIES
+Scrypt,ReturnBit,ReturnBit (RBIT),0,26121,/media/351405/rbit.png,RBIT,N/A,PoW,714,N/A,N/A,/coins/rbit/overview,RBIT
+Multiple,Ribbit Rewards,Ribbit Rewards (RBR),0,5399,/media/20408/rbr.png,RBR,N/A,PoW,367,1000000000,N/A,/coins/rbr/overview,RBR
+N/A,Rimbit,Rimbit (RBT),0,8695,/media/20407/rbt.png,RBT,N/A,N/A,451,0,N/A,/coins/rbt/overview,RBT
+N/A,RiptoBuX,RiptoBuX (RBX),0,73143,/media/1383197/rbx.png,RBX,N/A,N/A,1206,N/A,N/A,/coins/rbx/overview,RBX
+Scrypt,RubyCoin,RubyCoin (RBY),0,5316,/media/351279/rby.png,RBY,N/A,PoS,285,0,N/A,/coins/rby/overview,RBY
+Scrypt,Russiacoin,Russiacoin (RC),0,37361,/media/1381992/rc.png,RC,N/A,PoW/PoS,992,144000000,N/A,/coins/rc/overview,RC
+N/A,Reality Clash,Reality Clash (RCC),0,196591,/media/1383864/rcc.png,RCC,N/A,N/A,1392,150000000,N/A,/coins/rcc/overview,RCC
+SHA256,RCoin,RCoin (RCN*),0,29374,/media/351634/rcn.png,RCN*,N/A,N/A,805,5000000000,N/A,/coins/rcnstar/overview,RCN
+N/A,Ripio,Ripio (RCN),0,307219,/media/12318046/rnc.png,RCN,N/A,N/A,1588,1000000000,N/A,/coins/rcn/overview,RCN*
+Scrypt,RedCrowCoin,RedCrowCoin (RCX),0,20218,/media/350902/rcx.png,RCX,N/A,PoW/PoS,520,3966666667,N/A,/coins/rcx/overview,RCX
+Scrypt,ReddCoin,ReddCoin (RDD),0,4592,/media/19887/rdd.png,RDD,N/A,PoW/PoS,188,27500000000,N/A,/coins/rdd/overview,RDD
+N/A,RadonPay,RadonPay (RDN),0,6098,/media/19808/mrs.png,RDN,N/A,PoS,385,0,N/A,/coins/rdn/overview,RDN
+N/A,REAL,REAL (REAL),0,198490,/media/1383884/rise.png,REAL,N/A,N/A,1404,N/A,N/A,/coins/real/overview,REAL
+Scrypt,Redcoin,Redcoin (RED),0,79864,/media/1383265/red.png,RED,N/A,PoW,1221,329000000,N/A,/coins/red/overview,RED
+Scrypt,ReeCoin,ReeCoin (REE),0,22418,/media/351096/ree.png,REE,N/A,PoW/PoS,667,350000000,N/A,/coins/ree/overview,REE
+N/A,Augur,Augur (REP),1,17778,/media/350815/augur-logo.png,REP,N/A,N/A,498,11000000,N/A,/coins/rep/overview,REP
+SHA256,Revenu,Revenu (REV),0,22169,/media/351061/rev.png,REV,N/A,PoW/PoS,637,222725000,N/A,/coins/rev/overview,REV
+Groestl,Riecoin,Riecoin (RIC),0,4352,/media/19888/ric.jpg,RIC,N/A,PoW,65,84000000,N/A,/coins/ric/overview,RIC
+X13,RiceCoin,RiceCoin (RICE),0,78190,/media/1383245/rice.png,RICE,N/A,PoW/PoS,1218,10000000,N/A,/coins/rice/overview,RICE
+PoS,Ride My Car,Ride My Car (RIDE),0,42344,/media/1382388/ride.png,RIDE,N/A,PoS,1050,100000000,N/A,/coins/ride/overview,RIDE
+Scrypt,RingCoin,RingCoin (RING),0,28657,/media/351546/ring.png,RING,N/A,PoW/PoS,769,1900000000,N/A,/coins/ring/overview,RING
+Scrypt,RipOffCoin,RipOffCoin (RIPO),0,4593,/media/20051/ripo.png,RIPO,N/A,PoW,189,12000000,N/A,/coins/ripo/overview,RIPO
+DPoS,Rise,Rise (RISE),0,22015,/media/351059/rise.png,RISE,N/A,PoS,636,100000000,N/A,/coins/rise/overview,RISE
+N/A,Etheriya,Etheriya (RIYA),0,238571,/media/9350737/riya.png,RIYA,N/A,N/A,1516,1861531,N/A,/coins/riya/overview,RIYA
+N/A,Royal Kingdom Coin,Royal Kingdom Coin (RKC),1,194924,/media/1383852/rkc.png,RKC,N/A,N/A,1386,15000000,N/A,/coins/rkc/overview,RKC
+N/A,iEx.ec,iEx.ec (RLC),0,61877,/media/1383010/rlc.png,RLC,N/A,N/A,1171, 87000000,N/A,/coins/rlc/overview,RLC
+NIST5,Resumeo Shares,Resumeo Shares (RMS),0,29928,/media/351701/rms.png,RMS,N/A,PoS,827,9188302,N/A,/coins/rms/overview,RMS
+X11,ReturnCoin,ReturnCoin (RNC),0,39710,/media/1382240/rnc.png,RNC,N/A,PoS,1019,250000000,N/A,/coins/rnc/overview,RNC
+Scrypt,RenosCoin,RenosCoin (RNS),0,57471,/media/1382859/rns.png,RNS,N/A,PoS,1145,33333333,N/A,/coins/rns/overview,RNS
+Scrypt,RootCoin,RootCoin (ROOT),0,28326,/media/351523/root.png,ROOT,N/A,PoW/PoS,758,1900000,N/A,/coins/root/overview,ROOT
+N/A,RootProject,RootProject (ROOTS),1,194906,/media/1383851/roots.png,ROOTS,N/A,N/A,1393,10000000000,N/A,/coins/roots/overview,ROOTS
+X11,ROS Coin,ROS Coin (ROS),0,5380,,ROS,N/A,PoW/PoS,348,0,N/A,/coins/ros/overview,ROS
+N/A,RoundCoin,RoundCoin (ROUND),0,43604,/media/1382508/round.png,ROUND,N/A,N/A,1076,1000000000,N/A,/coins/round/overview,ROUND
+X13,RoyalCoin,RoyalCoin (ROYAL),0,30386,/media/351756/royal.png,ROYAL,N/A,PoS,856,N/A,N/A,/coins/royal/overview,ROYAL
+Scrypt,RonPaulCoin,RonPaulCoin (RPC),0,4594,/media/19895/rpc-2.png,RPC,N/A,PoW,190,21000000,N/A,/coins/rpc/overview,RPC
+N/A,Recovery Right Tokens,Recovery Right Tokens (RRT),1,30020,/media/19554/bitfinex.png,RRT,N/A,N/A,831,N/A,N/A,/coins/rrt/overview,RRT
+Scrypt-n,RotoCoin,RotoCoin (RT2),0,4595,/media/19896/rt2.png,RT2,N/A,PoW/PoS,191,288000,N/A,/coins/rt2/overview,RT2
+Scrypt,Rublebit,Rublebit (RUBIT),0,30369,/media/351751/rubit.png,RUBIT,N/A,PoW,851,100000000,N/A,/coins/rubit/overview,RUBIT
+Scrypt,RustCoin,RustCoin (RUST),0,24887,/media/351365/rust.png,RUST,N/A,PoW/PoS,695,21212121,N/A,/coins/rust/overview,RUST
+N/A,Rivetz,Rivetz (RVT),0,176280,/media/1383694/rvt.png,RVT,N/A,N/A,1288,200000000,N/A,/coins/rvt/overview,RVT
+Scrypt,RoyalCoin,RoyalCoin (RYC),0,4596,/media/19898/ryc.png,RYC,N/A,PoW,192,140000000,N/A,/coins/ryc/overview,RYC
+X13,RoyalCoin 2.0,RoyalCoin 2.0 (RYCN),0,32548,/media/351756/royal.png,RYCN,N/A,PoS,880,2500000,N/A,/coins/rycn/overview,RYCN
+Scrypt,RazorCoin,RazorCoin (RZR),0,4597,/media/20055/rzr.png,RZR,N/A,PoW,193,4000000,N/A,/coins/rzr/overview,RZR
+Scrypt,S88 Coin,S88 Coin (S8C),0,38310,/media/1382093/s8c.png,S8C,N/A,PoW/PoS,1004,520000000,N/A,/coins/s8c/overview,S8C
+Scrypt,SafeExchangeCoin,SafeExchangeCoin (SAFEX),1,20594,/media/1383986/safex.png,SAFEX,N/A,PoC,590,2147483647,N/A,/coins/safex/overview,SAFEX
+SHA256,SharkCoin,SharkCoin (SAK),0,22268,/media/351079/sak.png,SAK,N/A,PoW,652,400000000,N/A,/coins/sak/overview,SAK
+N/A,Santiment,Santiment (SAN),0,177863,/media/1383730/san.png,SAN,N/A,N/A,1299,45000000,N/A,/coins/san/overview,SAN
+X11,BeachCoin,BeachCoin (SAND),0,188652,/media/1383825/beach.png,SAND,N/A,PoW,1379,21000000,N/A,/coins/sand/overview,SAND
+SHA256,Save and Gain,Save and Gain (SANDG),0,28770,/media/351556/sandt.png,SANDG,N/A,PoW,775,N/A,N/A,/coins/sandg/overview,SANDG
+SHA256,SARCoin,SARCoin (SAR),0,20215,/media/350901/sar.png,SAR,N/A,PoS,519,N/A,N/A,/coins/sar/overview,SAR
+Scrypt,Saturn2Coin,Saturn2Coin (SAT2),0,4598,/media/19897/sat2.png,SAT2,N/A,PoW,194,15000000000,N/A,/coins/sat2/overview,SAT2
+Scrypt,StableCoin,StableCoin (SBC),0,4599,/media/19900/sbc.png,SBC,N/A,PoW,195,250000000,N/A,/coins/sbc/overview,SBC
+N/A,Steem Backed Dollars,Steem Backed Dollars (SBD),0,23728,/media/350907/steem.png,SBD,N/A,N/A,680,N/A,N/A,/coins/sbd/overview,SBD
+Blake2b,Siacoin,Siacoin (SC),0,13072,/media/20726/siacon-logo.png,SC,N/A,PoW,473,0,N/A,/coins/sc/overview,SC
+X13,SpaceCash,SpaceCash (SCASH),0,34225,/media/352117/scash.png,SCASH,N/A,PoW/PoS,931,N/A,N/A,/coins/scash/overview,SCASH
+N/A,Social Nexus,Social Nexus (SCL),0,255254,/media/9350788/scl.png,SCL,N/A,N/A,1549,N/A,N/A,/coins/scl/overview,SCL
+Scrypt,Swiscoin,Swiscoin (SCN),0,28880,/media/351563/scn.png,SCN,N/A,PoW/PoW,781,3100000000,N/A,/coins/scn/overview,SCN
+N/A,Scorista,Scorista (SCOR),0,234659,/media/9350695/scor.jpg,SCOR,N/A,N/A,1499,N/A,N/A,/coins/scor/overview,SCOR
+Scrypt,Scorecoin,Scorecoin (SCORE),0,187431,/media/1383813/score.png,SCORE,N/A,PoW,1361,50000000,N/A,/coins/score/overview,SCORE
+Counterparty,Scotcoin,Scotcoin (SCOT),0,20342,/media/20416/scot_1.png,SCOT,N/A,N/A,530,1000000000,N/A,/coins/scot/overview,SCOT
+Scrypt,ScryptCoin,ScryptCoin (SCRPT),0,23429,/media/351210/scrpt.png,SCRPT,N/A,PoW,677,34181818,N/A,/coins/scrpt/overview,SCRPT
+X11,SecretCoin,SecretCoin (SCRT),0,21760,/media/351031/scrt.png,SCRT,N/A,PoW/PoS,624,21000000,N/A,/coins/scrt/overview,SCRT
+Scrypt,ScryptToken,ScryptToken (SCT),0,30536,/media/351791/sct.png,SCT,N/A,PoW/PoS,866,8842105,N/A,/coins/sct/overview,SCT
+N/A,Solar DAO,Solar DAO (SDAO),0,203183,/media/1383933/sdao.png,SDAO,N/A,N/A,1430,80000000,N/A,/coins/sdao/overview,SDAO
+Scrypt,ShadowCash,ShadowCash (SDC),0,4600,/media/20419/sdc.png,SDC,N/A,PoW/PoS,196,N/A,N/A,/coins/sdc/overview,SDC
+X13,SydPakCoin,SydPakCoin (SDP),0,30019,/media/351709/sdp.jpg,SDP,N/A,PoW/PoS,830,N/A,N/A,/coins/sdp/overview,SDP
+SHA256D,SeedShares,SeedShares (SEEDS),0,35027,/media/352190/seeds.png,SEEDS,N/A,PoW/PoS,954,7996400,N/A,/coins/seeds/overview,SEEDS
+PoS,SelenCoin,SelenCoin (SEL),0,41967,/media/1382369/sel.png,SEL,N/A,PoS,1041,159680000,N/A,/coins/sel/overview,SEL
+Scrypt,Sentaro,Sentaro (SEN),0,28778,/media/351560/sen.png,SEN,N/A,PoW/PoS,779,N/A,N/A,/coins/sen/overview,SEN
+N/A,Sense Token,Sense Token (SENSE),0,305252,/media/12318034/sense.png,SENSE,N/A,N/A,1584,1000000000,N/A,/coins/sense/overview,SENSE
+Scrypt,Sequence,Sequence (SEQ),0,131112,/media/1383558/seq.png,SEQ,N/A,PoW/PoS,1257,44738100,N/A,/coins/seq/overview,SEQ
+Scrypt,Solarflarecoin,Solarflarecoin (SFC),0,44952,/media/1382639/sfc.png,SFC,N/A,PoW,1089,20000000,N/A,/coins/sfc/overview,SFC
+N/A,Safecoin,Safecoin (SFE),0,30169,/media/351735/sfe.png,SFE,N/A,PoW/PoS,841,N/A,N/A,/coins/sfe/overview,SFE
+Multiple,SaffronCoin,SaffronCoin (SFR),0,4601,/media/19903/sfr.png,SFR,N/A,PoW,197,111000000,N/A,/coins/sfr/overview,SFR
+Scrypt,Shilling,Shilling (SH),0,28890,/media/351567/sh.png,SH,N/A,PoW,785,30000000,N/A,/coins/sh/overview,SH
+Scrypt,ShadeCoin,ShadeCoin (SHADE),0,4602,/media/20056/shade.png,SHADE,N/A,PoW/PoS,198,2000000,N/A,/coins/shade/overview,SHADE
+DPoS,Shift,Shift (SHIFT),0,38307,/media/1382125/shift.png,SHIFT,N/A,DPoS,1003,N/A,N/A,/coins/shift/overview,SHIFT
+X15,ShieldCoin,ShieldCoin (SHLD),0,4603,/media/19904/shld.png,SHLD,N/A,PoW/PoS,199,1000000,N/A,/coins/shld/overview,SHLD
+PoS,ShortyCoin,ShortyCoin (SHORTY),0,35226,/media/352222/shorty.png,SHORTY,N/A,PoS,959,100000000,N/A,/coins/shorty/overview,SHORTY
+X11GOST,SibCoin,SibCoin (SIB),0,20745,/media/350958/sib.png,SIB,N/A,PoW,569,24000000,N/A,/coins/sib/overview,SIB
+N/A,Smart Investment Fund Token,Smart Investment Fund Token (SIFT),0,229420,/media/1384045/sift.jpg,SIFT,N/A,N/A,1474,N/A,N/A,/coins/sift/overview,SIFT
+SkunkHash v2 Raptor,Signatum,Signatum (SIGT),0,200941,/media/9350710/sigt.png,SIGT,N/A,PoW/PoS,1419,137500000,N/A,/coins/sigt/overview,SIGT
+Scrypt,Singular,Singular (SIGU),0,6112,/media/19808/mrs.png,SIGU,N/A,PoW/PoS,399,0,N/A,/coins/sigu/overview,SIGU
+Scrypt,SilkCoin,SilkCoin (SILK),0,4604,/media/20057/silk.png,SILK,N/A,PoW/PoS,200,1000000,N/A,/coins/silk/overview,SILK
+Counterparty,StorjCoin,StorjCoin (SJCX),0,5288,/media/20422/sjcx.png,SJCX,N/A,PoS,257,500000000,N/A,/coins/sjcx/overview,SJCX
+SHA256,SkullBuzz,SkullBuzz (SKB),0,6099,/media/19808/mrs.png,SKB,N/A,PoS,386,0,N/A,/coins/skb/overview,SKB
+N/A,Skincoin,Skincoin (SKIN),0,198369,/media/1383880/dsb_amky_400x400.jpg,SKIN,N/A,N/A,1400,488183483 ,N/A,/coins/skin/overview,SKIN
+N/A,Skrilla Token,Skrilla Token (SKR),0,304605,/media/12318013/skr.png,SKR,N/A,N/A,1580,1000000000,N/A,/coins/skr/overview,SKR*
+N/A,Skycoin,Skycoin (SKY),0,136269,/media/1383565/sky.png,SKY,N/A,N/A,1262,100000000,N/A,/coins/sky/overview,SKY
+X13,SterlingCoin,SterlingCoin (SLG),0,4605,/media/20428/slg.png,SLG,N/A,PoS,201,0,N/A,/coins/slg/overview,SLG
+SHA256,Sling Coin,Sling Coin (SLING),0,5302,/media/20425/sling.png,SLING,N/A,PoW,271,1000000,N/A,/coins/sling/overview,SLING
+N/A,SlimCoin,SlimCoin (SLM),0,5382,/media/20426/slm.png,SLM,N/A,PoB,350,0,N/A,/coins/slm/overview,SLM
+Scrypt,SolarCoin,SolarCoin (SLR),0,5349,/media/20699/slr.png,SLR,N/A,PoW,317,98100000000,N/A,/coins/slr/overview,SLR
+Scrypt,SaluS,SaluS (SLS),0,20681,/media/350946/sls.png,SLS,N/A,PoW/PoS,557,N/A,N/A,/coins/sls/overview,SLS
+X11,Social Media Coin,Social Media Coin (SMAC),0,5350,/media/20427/smac.png,SMAC,N/A,PoW/PoS,318,0,N/A,/coins/smac/overview,SMAC
+Keccak,SmartCash,SmartCash (SMART),0,199901,/media/1383906/smart.png,SMART,N/A,PoW,1418,5000000000,N/A,/coins/smart/overview,SMART
+Scrypt,SmartCoin,SmartCoin (SMC),0,4606,/media/20059/smc.png,SMC,N/A,PoW,202,51200000,N/A,/coins/smc/overview,SMC
+Scrypt,SmurfCoin,SmurfCoin (SMF),0,43257,/media/1382468/xmf.png,SMF,N/A,PoW/PoS,1071,2500000000,N/A,/coins/smf/overview,SMF
+Scrypt,SmileyCoin,SmileyCoin (SMLY),0,8694,/media/20429/smly.png,SMLY,N/A,PoW,450,50000000000,N/A,/coins/smly/overview,SMLY
+N/A,SMNX,SMNX (SMNX),0,218221,/media/1383998/sx.png,SMNX,N/A,N/A,1452,15000000,N/A,/coins/smnx/overview,SMNX
+QuBit,Samsara Coin,Samsara Coin (SMSR),0,28650,/media/351543/smsr.png,SMSR,N/A,PoW/PoS,766,60000000,N/A,/coins/smsr/overview,SMSR
+N/A,SunContract,SunContract (SNC),0,179926,/media/1383748/snc.png,SNC,N/A,N/A,1312,7994751.31,N/A,/coins/snc/overview,SNC
+N/A,SingularDTV,SingularDTV (SNGLS),1,24926,/media/351368/sngls.png,SNGLS,N/A,N/A,697,1000000000 ,N/A,/coins/sngls/overview,SNGLS
+N/A,Sosnovkino,Sosnovkino (SNK),0,196612,/media/1383865/snk.png,SNK,N/A,N/A,1394,390000,N/A,/coins/snk/overview,SNK
+N/A,SONM,SONM (SNM),0,136244,/media/1383564/snm.png,SNM,N/A,N/A,1261,444000000,N/A,/coins/snm/overview,SNM
+X11,Synergy,Synergy (SNRG),0,8825,/media/20700/snrg.png,SNRG,N/A,PoW/PoS,461,0,N/A,/coins/snrg/overview,SNRG
+N/A,Sense,Sense (SNS),1,28027,/media/351494/sns.png,SNS,N/A,N/A,731,100000000,N/A,/coins/sns/overview,SNS
+N/A,Status Network Token,Status Network Token (SNT),0,137013,/media/1383568/snt.png,SNT,N/A,N/A,1264,6804870174.878168246198837603,N/A,/coins/snt/overview,SNT
+Scrypt,SocialCoin,SocialCoin (SOCC),0,183189,/media/1383779/socc.png,SOCC,N/A,PoW,1337, 75000000,N/A,/coins/socc/overview,SOCC
+Dagger,SoilCoin,SoilCoin (SOIL),0,20685,/media/350949/soil.png,SOIL,N/A,PoW,558,30000000,N/A,/coins/soil/overview,SOIL
+Scrypt,Sojourn Coin,Sojourn Coin (SOJ),0,237385,/media/9350725/soj.png,SOJ,N/A,PoW,1512,10500000000,N/A,/coins/soj/overview,SOJ
+X15,SoleCoin,SoleCoin (SOLE),0,4607,/media/20431/sole.png,SOLE,N/A,PoW/PoS,203,1200000,N/A,/coins/sole/overview,SOLE
+Scrypt,Song Coin,Song Coin (SONG),0,8682,/media/20432/song.png,SONG,N/A,PoW,446,210240000,N/A,/coins/song/overview,SONG
+SHA256,SoonCoin,SoonCoin (SOON),0,5403,/media/20436/soon.png,SOON,N/A,PoW,371,21000000,N/A,/coins/soon/overview,SOON
+Scrypt,SoulCoin,SoulCoin (SOUL),0,20585,/media/350930/pxl.png,SOUL,N/A,PoW/PoS,542,1400000000,N/A,/coins/soul/overview,SOUL
+Scrypt,Sex Pistols,Sex Pistols (SP),0,33332,/media/352018/sp.png,SP,N/A,PoW/PoS,905,N/A,N/A,/coins/sp/overview,SP
+Scrypt-n,SpainCoin,SpainCoin (SPA),0,4608,/media/19911/spa.png,SPA,N/A,PoW,204,50000000,N/A,/coins/spa/overview,SPA
+Scrypt,SpaceCoin,SpaceCoin (SPACE),0,22410,/media/351095/space.png,SPACE,N/A,PoW/PoS,666,N/A,N/A,/coins/space/overview,SPACE
+NIST5,SpinCoin,SpinCoin (SPC),0,7624,/media/20655/spc.png,SPC,N/A,PoW/PoS,437,0,N/A,/coins/spc/overview,SPC
+Scrypt,SpecCoin,SpecCoin (SPEC),0,8716,/media/20689/spec.png,SPEC,N/A,PoW,453,3000000000,N/A,/coins/spec/overview,SPEC
+Scrypt,Sphere Coin,Sphere Coin (SPHR),0,6111,/media/19808/mrs.png,SPHR,N/A,PoW/PoS,398,0,N/A,/coins/sphr/overview,SPHR
+SHA256,Ghost Coin,Ghost Coin (SPKTR),0,41871,/media/1382349/spkr.png,SPKTR,N/A,PoW/PoS,1039,2270000,N/A,/coins/spktr/overview,SPKTR
+Scrypt,Supreme,Supreme (SPM),0,21229,/media/351002/sup.png,SPM,N/A,PoW/PoS,603,88900000,N/A,/coins/spm/overview,SPM
+N/A,Spoon,Spoon (SPN),0,196549,/media/1383861/spn.png,SPN,N/A,N/A,1389,100000000,N/A,/coins/spn/overview,SPN
+X11,SportsCoin,SportsCoin (SPORT),0,29200,/media/351627/sports.png,SPORT,N/A,PoS,799,20000000,N/A,/coins/sport/overview,SPORT
+N/A,Spots,Spots (SPOTS),0,20205,/media/350893/spots.png,SPOTS,N/A,PoW/PoS,513,12730,N/A,/coins/spots/overview,SPOTS
+X11,Spreadcoin,Spreadcoin (SPR),0,3649,/media/20438/spr.png,SPR,N/A,PoW,29,20000000,N/A,/coins/spr/overview,SPR
+SHA256,Sprouts,Sprouts (SPRTS),0,8761,/media/20692/sprts.png,SPRTS,N/A,PoW/PoS,456,0,N/A,/coins/sprts/overview,SPRTS
+Scrypt,Spots,Spots (SPT),0,4609,/media/19917/spt.png,SPT,N/A,PoW,205,100000000,N/A,/coins/spt/overview,SPT
+PoS,Specie,Specie (SPX),0,23435,/media/351212/spx.png,SPX,N/A,PoS,679,9000000,N/A,/coins/spx/overview,SPX
+X11,Squall Coin,Squall Coin (SQL),0,7565,/media/20441/sql.png,SQL,N/A,PoS,425,0,N/A,/coins/sql/overview,SQL
+N/A,SqPay,SqPay (SQP),0,237448,/media/9350728/sqp.png,SQP,N/A,N/A,1515,1000000,N/A,/coins/sqp/overview,SQP
+Scrypt,SecureCoin,SecureCoin (SRC),0,4611,/media/19918/src.png,SRC,N/A,PoW,206,21000000,N/A,/coins/src/overview,SRC
+N/A,StarCredits,StarCredits (SRC*),0,59966,/media/1382936/src1.png,SRC*,N/A,N/A,1156,20000000,N/A,/coins/srcstar/overview,SRC*
+N/A,Scrypto,Scrypto (SRT),0,248243,/media/9350771/srt.png,SRT,N/A,N/A,1539,9123000,N/A,/coins/srt/overview,SRT
+SHA256,Sonic Screw Driver Coin,Sonic Screw Driver Coin (SSD),0,5320,/media/20443/ssd.png,SSD,N/A,PoW/PoS,289,0,N/A,/coins/ssd/overview,SSD
+X11,SunShotCoin,SunShotCoin (SSTC),0,20644,/media/350937/ssc.png,SSTC,N/A,PoW,547,2250000000,N/A,/coins/sstc/overview,SSTC
+X13,SSVCoin,SSVCoin (SSV),0,4613,/media/20060/ssv.png,SSV,N/A,PoW,207,21000000,N/A,/coins/ssv/overview,SSV
+N/A,Starta,Starta (STA),0,150519,/media/1383620/crs.png,STA,N/A,N/A,1270,N/A,N/A,/coins/sta/overview,STA
+PoS,Stakers,Stakers (STA*),0,21981,/media/351063/sta.png,STA*,N/A,PoS,635,100000000,N/A,/coins/stastar/overview,STA*
+X11,StalinCoin,StalinCoin (STALIN),0,49605,/media/1382726/stalin.png,STALIN,N/A,PoW/PoS,1114,3000000000,N/A,/coins/stalin/overview,STALIN
+N/A,Starbase,Starbase (STAR),0,179947,/media/1383750/star1.png,STAR,N/A,N/A,1314,1000000000,N/A,/coins/star/overview,STAR
+Scrypt,StarCoin,StarCoin (STAR*),0,21775,/media/351043/star.jpg,STAR*,N/A,PoW/PoS,627,870731707,N/A,/coins/starstar/overview,STAR*
+X11,StartCoin,StartCoin (START),1,5289,/media/19916/start.png,START,N/A,PoW,258,45079785,N/A,/coins/start/overview,START
+PoS,Stakecoin,Stakecoin (STCN),0,237428,/media/9350727/stcn.png,STCN,N/A,PoS,1514,N/A,N/A,/coins/stcn/overview,STCN
+N/A,Steem,Steem (STEEM),1,20333,/media/350907/steem.png,STEEM,N/A,Pow,526,99692126,N/A,/coins/steem/overview,STEEM
+N/A,Steps,Steps (STEPS),0,20724,/media/350952/steps.png,STEPS,N/A,PoS,564,9243127.173,N/A,/coins/steps/overview,STEPS
+PoS,Stakerush,Stakerush (STHR),0,21833,/media/351042/sthr.png,STHR,N/A,PoS,628,N/A,N/A,/coins/sthr/overview,STHR
+X11,Save The Ocean,Save The Ocean (STO),0,28025,/media/351493/sto.png,STO,N/A,PoW/PoS,730,150000000,N/A,/coins/sto/overview,STO
+N/A,Storj,Storj (STORJ),1,187347,/media/20422/sjcx.png,STORJ,N/A,N/A,1360,424999998,N/A,/coins/storj/overview,STORJ
+N/A,Storm,Storm (STORM),0,186875,/media/1383803/storm.jpg,STORM,N/A,N/A,1357,7500000000,N/A,/coins/storm/overview,STORM
+Scrypt,StarCoin,StarCoin (STR*),0,8767,/media/19920/str.png,STR*,N/A,PoW/PoS,460,227334008,N/A,/coins/strstar/overview,STR*
+X13,Stratis,Stratis (STRAT),1,24294,/media/351303/stratis-logo.png,STRAT,N/A,PoW/PoS,687,98000000,N/A,/coins/strat/overview,STRAT
+X13,STRESScoin,STRESScoin (STS),0,21650,/media/351022/sts.png,STS,N/A,PoW/PoS,618,N/A,N/A,/coins/sts/overview,STS
+N/A,BitJob,BitJob (STU),0,184237,/media/1383785/stu.png,STU,N/A,N/A,1343,100000000,N/A,/coins/stu/overview,STU
+X13,Sativa Coin,Sativa Coin (STV),0,5328,/media/20444/stv.png,STV,N/A,PoW/PoS,296,10000000,N/A,/coins/stv/overview,STV
+N/A,Stox,Stox (STX),0,204716,/media/1383946/stx.png,STX,N/A,N/A,1431,29600000,N/A,/coins/stx/overview,STX
+PoS,Subscriptio,Subscriptio (SUB),0,100944,/media/1383362/sub.png,SUB,N/A,PoS,1232,10000000,N/A,/coins/sub/overview,SUB
+N/A,Substratum Network,Substratum Network (SUB*),0,221463,/media/1384011/sub1.png,SUB*,N/A,N/A,1457,600000000,N/A,/coins/substar/overview,SUB*
+N/A,Supcoin,Supcoin (SUP),0,3645,/media/20442/sup.png,SUP,N/A,PoW,25,0,N/A,/coins/sup/overview,SUP
+X11,SuperCoin,SuperCoin (SUPER),0,4615,/media/20061/super.png,SUPER,N/A,PoW/PoS,209,150000000,N/A,/coins/super/overview,SUPER
+N/A,Suretly,Suretly (SUR),1,177462,/media/1383696/sur.png,SUR,N/A,N/A,1295,N/A,N/A,/coins/sur/overview,SUR
+N/A,SwarmCoin,SwarmCoin (SWARM),1,5342,/media/20445/swarm.png,SWARM,N/A,N/A,310,100000000,N/A,/coins/swarm/overview,SWARM
+PoS,SweetStake,SweetStake (SWEET),0,30887,/media/351868/sweet.png,SWEET,N/A,N/A,873,1000000000,N/A,/coins/sweet/overview,SWEET
+Scrypt,BitSwift,BitSwift (SWIFT),0,4616,/media/20446/swift.png,SWIFT,N/A,PoW/PoS,210,4000000,N/A,/coins/swift/overview,SWIFT
+SHA256,SwingCoin,SwingCoin (SWING),0,20920,/media/350987/swing.png,SWING,N/A,PoW/PoS,589,40000000,N/A,/coins/swing/overview,SWING
+N/A,Swarm City Token,Swarm City Token (SWT),0,50741,/media/1382740/swt.jpg,SWT,N/A,N/A,1118,9525397 ,N/A,/coins/swt/overview,SWT
+Scrypt,SexCoin,SexCoin (SXC),0,4348,/media/19924/sxc.png,SXC,N/A,PoW,61,250000000,N/A,/coins/sxc/overview,SXC
+N/A,SynchroCoin,SynchroCoin (SYC),0,185873,/media/1383793/syc.png,SYC,N/A,N/A,1349,100000000,N/A,/coins/syc/overview,SYC
+X11,SyncCoin,SyncCoin (SYNC),0,4617,/media/19922/sync.png,SYNC,N/A,PoW/PoS,211,1000,N/A,/coins/sync/overview,SYNC
+X11,Syndicate,Syndicate (SYNX),0,27591,/media/351427/synx.png,SYNX,N/A,PoW/PoS,720,N/A,N/A,/coins/synx/overview,SYNX
+Scrypt,SysCoin,SysCoin (SYS),0,4618,/media/20062/sys.png,SYS,N/A,PoW,212,2000000000,N/A,/coins/sys/overview,SYS
+N/A,Token as a Service,Token as a Service (TAAS),0,66270,/media/1383085/taas.png,TAAS,N/A,N/A,1183,8146000.78,N/A,/coins/taas/overview,TAAS
+Scrypt,MollyCoin,MollyCoin (TAB),0,27993,/media/351488/tab.png,TAB,N/A,PoW/PoS,725,25000000,N/A,/coins/tab/overview,TAB
+Scrypt,TagCoin,TagCoin (TAG),0,4619,/media/19925/tag.png,TAG,N/A,PoW/PoS,213,1000000,N/A,/coins/tag/overview,TAG
+X15,Think And Get Rich Coin,Think And Get Rich Coin (TAGR),0,20652,/media/350940/tagr.png,TAGR,N/A,PoW/PoS,550,30700000,N/A,/coins/tagr/overview,TAGR
+Blake2S,TajCoin,TajCoin (TAJ),0,57750,/media/1382867/taj.png,TAJ,N/A,PoW/PoS,1151,36900000,N/A,/coins/taj/overview,TAJ
+SHA256,TakCoin,TakCoin (TAK),0,4620,/media/19928/tak.png,TAK,N/A,PoW/PoS,214,7515187520,N/A,/coins/tak/overview,TAK
+Scrypt,TamaGucci,TamaGucci (TAM),0,6411,/media/20565/tam.png,TAM,N/A,PoW/PoS/PoC,409,5300000,N/A,/coins/tam/overview,TAM
+X11,TappingCoin,TappingCoin (TAP),0,81403,/media/1383283/tap.png,TAP,N/A,Pow/PoS,1224,5000000000,N/A,/coins/tap/overview,TAP
+N/A,Tatiana Coin,Tatiana Coin (TAT),0,43933,/media/1382594/tat.png,TAT,N/A,N/A,1079,3000000,N/A,/coins/tat/overview,TAT
+SHA256D,TrashBurn,TrashBurn (TBCX),0,45609,/media/1382658/tbcx.png,TBCX,N/A,PoS,1101,9000000,N/A,/coins/tbcx/overview,TBCX
+QuBit,Thecreed,Thecreed (TCR),0,20441,/media/350918/tcr.png,TCR,N/A,Pow/PoS,536,N/A,N/A,/coins/tcr/overview,TCR
+SHA256D,TDFB,TDFB (TDFB),0,28176,/media/351507/tdfb.png,TDFB,N/A,PoW/PoS,744,N/A,N/A,/coins/tdfb/overview,TDFB
+PoS,TeamUP,TeamUP (TEAM),1,30523,/media/351790/team.png,TEAM,N/A,PoS,865,301000000,N/A,/coins/team/overview,TEAM
+Multiple,TeCoin,TeCoin (TEC),0,42106,/media/1382383/tecoin.png,TEC,N/A,PoW,1048,469521976,N/A,/coins/tec/overview,TEC
+X13,TechCoin,TechCoin (TECH),0,43595,/media/1382505/tech.png,TECH,N/A,PoW/PoS,1073,300000,N/A,/coins/tech/overview,TECH
+SHA256,TekCoin,TekCoin (TEK),0,5298,/media/19929/tek.png,TEK,N/A,PoW/PoS,267,100000000,N/A,/coins/tek/overview,TEK
+X11,Tellurion,Tellurion (TELL),0,28172,/media/351505/tell.png,TELL,N/A,PoW/PoS,742,3652422000,N/A,/coins/tell/overview,TELL
+SHA256D,Tennet,Tennet (TENNET),0,30421,/media/351760/tennet.png,TENNET,N/A,PoW/PoS,860,N/A,N/A,/coins/tennet/overview,TENNET
+Multiple,TeslaCoin,TeslaCoin (TES),0,4622,/media/19927/tes.png,TES,N/A,PoW/PoS,215,60800000,N/A,/coins/tes/overview,TES
+N/A,TeslaCoilCoin,TeslaCoilCoin (TESLA),0,32873,/media/351945/tesla.png,TESLA,N/A,N/A,890,100000000,N/A,/coins/tesla/overview,TESLA
+N/A,True Flip Lottery,True Flip Lottery (TFL),0,150545,/media/1383621/tfl.png,TFL,N/A,N/A,1271,N/A,N/A,/coins/tfl/overview,TFL
+SHA256,TigerCoin,TigerCoin (TGC),0,4623,/media/19930/tgc.png,TGC,N/A,PoW,216,47011968,N/A,/coins/tgc/overview,TGC
+Scrypt,The Hempcoin,The Hempcoin (THC),0,29924,/media/351699/thc.png,THC,N/A,PoW/PoS,825,250000000,N/A,/coins/thc/overview,THC
+N/A,ThankYou,ThankYou (THNX),0,228146,/media/1384039/thnx.jpg,THNX,N/A,N/A,1470,70000000,N/A,/coins/thnx/overview,THNX
+DPoS,TechShares,TechShares (THS),0,45615,/media/1382660/ths.png,THS,N/A,DPoS,1103,600000000,N/A,/coins/ths/overview,THS
+Lyra2RE,Tianhe,Tianhe (TIA),0,29455,/media/351636/tia.png,TIA,N/A,N/A,808,21000000,N/A,/coins/tia/overview,TIA
+Scrypt,TrueInvestmentCoin,TrueInvestmentCoin (TIC),0,44752,/media/1382625/tic.png,TIC,N/A,PoW/PoS,1086,53200000,N/A,/coins/tic/overview,TIC
+N/A,Ties Network,Ties Network (TIE),0,205991,/media/1383955/tie.png,TIE,N/A,N/A,1436,200000000,N/A,/coins/tie/overview,TIE
+N/A,Time,Time (TIME),0,33914,/media/352105/time.png,TIME,N/A,N/A,923,710113,N/A,/coins/time/overview,TIME
+SHA256,TitCoin,TitCoin (TIT),0,4624,/media/20069/tit.png,TIT,N/A,PoW,217,69000000,N/A,/coins/tit/overview,TIT
+N/A,Blocktix,Blocktix (TIX),0,175671,/media/1383690/tix.png,TIX,N/A,N/A,1285,62500000,N/A,/coins/tix/overview,TIX
+N/A,TokenCard  ,TokenCard   (TKN),0,71077,/media/1383157/tkn.png,TKN,N/A,N/A,1197,39406760,N/A,/coins/tkn/overview,TKN
+SHA256,TrollTokens,TrollTokens (TKN*),0,22458,/media/351104/tkn.png,TKN*,N/A,PoW/PoS,674,860000000,N/A,/coins/tknstar/overview,TKN*
+N/A,Tokes,Tokes (TKS),0,35124,/media/352207/tks.jpg,TKS,N/A,N/A,956,50000000,N/A,/coins/tks/overview,TKS
+N/A,TimesCoin,TimesCoin (TMC),0,5284,/media/20451/tmc.png,TMC,N/A,N/A,253,16000000,N/A,/coins/tmc/overview,TMC
+N/A,Timereum,Timereum (TME),0,199887,/media/1383905/tme.png,TME,N/A,N/A,1417,N/A,N/A,/coins/tme/overview,TME
+N/A,ToTheMoon,ToTheMoon (TMT),0,301150,/media/12317977/tmt.png,TMT,N/A,N/A,1573,51750000,N/A,/coins/tmt/overview,TMT
+N/A,Tierion,Tierion (TNT),0,186309,/media/1383800/tnt.png,TNT,N/A,N/A,1354,1000000000,N/A,/coins/tnt/overview,TNT
+Scrypt,TodayCoin,TodayCoin (TODAY),0,28317,/media/351521/today.png,TODAY,N/A,PoW,756,39200000,N/A,/coins/today/overview,TODAY
+N/A,Tomahawkcoin,Tomahawkcoin (TOM),0,215602,/media/1383992/tom.png,TOM,N/A,N/A,1449,200000000,N/A,/coins/tom/overview,TOM
+X11,TorCoin,TorCoin (TOR),0,4625,/media/19934/tor.png,TOR,N/A,PoW/PoS,218,10000000,N/A,/coins/tor/overview,TOR
+Scrypt,TotCoin,TotCoin (TOT),0,28087,,TOT,N/A,PoW/PoS,734,1613150000,N/A,/coins/tot/overview,TOT
+Scrypt,TrollPlay,TrollPlay (TPAY),0,53166,/media/1382770/tpay.png,TPAY,N/A,PoW/PoS,1125,N/A,N/A,/coins/tpay/overview,TPAY
+PoS,Troll Payment,Troll Payment (TPG),0,32882,/media/351948/tpg.png,TPG,N/A,N/A,893,N/A,N/A,/coins/tpg/overview,TPG
+Scrypt,Tetra,Tetra (TRA),0,29926,/media/351700/tra.png,TRA,N/A,PoW,826,N/A,N/A,/coins/tra/overview,TRA
+SHA256,TerraCoin,TerraCoin (TRC),0,4626,/media/19938/terracoin.png,TRC,N/A,PoW,219,42000000,N/A,/coins/trc/overview,TRC
+X13,Triangles Coin,Triangles Coin (TRI),0,5341,/media/350568/tri.png,TRI,N/A,PoW/PoS,309,120000,N/A,/coins/tri/overview,TRI
+N/A,TribeToken,TribeToken (TRIBE),0,186253,/media/1383797/tribe.jpg,TRIBE,N/A,N/A,1352,N/A,N/A,/coins/tribe/overview,TRIBE
+PoS,TrickyCoin,TrickyCoin (TRICK),0,34483,/media/352127/trick.png,TRICK,N/A,PoS,936,N/A,N/A,/coins/trick/overview,TRICK
+N/A,Trigger,Trigger (TRIG),0,27996,/media/351489/trg.png,TRIG,N/A,N/A,726,100000000,N/A,/coins/trig/overview,TRIG
+X11,TruckCoin,TruckCoin (TRK),0,5351,/media/20460/trk.png,TRK,N/A,PoW/PoS,319,1000000,N/A,/coins/trk/overview,TRK
+SHA256,Positron,Positron (TRON),0,5299,/media/20459/tron.png,TRON,N/A,PoW/PoS,268,1000000,N/A,/coins/tron/overview,TRON
+N/A,TrustCoin,TrustCoin (TRST),0,37040,/media/1381975/trst.png,TRST,N/A,N/A,983,N/A,N/A,/coins/trst/overview,TRST
+Blake,TrumpCoin,TrumpCoin (TRUMP),0,20270,/media/350905/trump.png,TRUMP,N/A,PoS,522,12000000,N/A,/coins/trump/overview,TRUMP
+X11,TrustPlus,TrustPlus (TRUST),0,5384,/media/19935/trust.png,TRUST,N/A,PoW/PoS,352,0,N/A,/coins/trust/overview,TRUST
+N/A,Travel Coin,Travel Coin (TRV),0,255293,/media/9350789/trv.png,TRV,N/A,N/A,1550,200000,N/A,/coins/trv/overview,TRV
+Scrypt,TattooCoin,TattooCoin (TSE),0,49610,/media/1382790/tato1.png,TSE,N/A,PoW/PoS,1115,500000000,N/A,/coins/tse/overview,TSE
+Scrypt,TittieCoin,TittieCoin (TTC),0,4627,/media/20064/ttc.png,TTC,N/A,PoW,220,1000000,N/A,/coins/ttc/overview,TTC
+N/A,Tap Project,Tap Project (TTT),0,243013,/media/9350755/ttt.jpg,TTT,N/A,N/A,1528,N/A,N/A,/coins/ttt/overview,TTT
+N/A,Turron,Turron (TUR),0,21626,/media/351020/tur.png,TUR,N/A,PoS,616,N/A,N/A,/coins/tur/overview,TUR
+X11,TwisterCoin,TwisterCoin (TWIST),0,40839,/media/1382250/twist1.png,TWIST,N/A,PoW/PoS,1022,3195000,N/A,/coins/twist/overview,TWIST
+T-Inside,Twelve Coin,Twelve Coin (TWLV),0,6105,/media/20472/viral.png,TWLV,N/A,PoW/PoS,392,0,N/A,/coins/twlv/overview,TWLV
+X11,Transfer,Transfer (TX),0,13045,/media/20722/tx.png,TX,N/A,PoW/PoS,471,0,N/A,/coins/tx/overview,TX
+X11,Ucoin,Ucoin (U),0,5352,/media/351629/u.jpg,U,N/A,PoS,320,20000000,N/A,/coins/u/overview,U
+X11,United Arab Emirates Coin,United Arab Emirates Coin (UAEC),0,45816,/media/1382684/uaec.png,UAEC,N/A,PoW/PoS,1105,10000000,N/A,/coins/uaec/overview,UAEC
+Progressive-n,Ubiqoin,Ubiqoin (UBIQ),0,28652,/media/351544/ubiq.png,UBIQ,N/A,PoS,767,500000000,N/A,/coins/ubiq/overview,UBIQ
+Dagger-Hashimoto,Ubiq,Ubiq (UBQ),0,43044,/media/1382441/ubq.png,UBQ,N/A,PoW,1067,N/A,N/A,/coins/ubq/overview,UBQ
+N/A,Useless Ethereum Token,Useless Ethereum Token (UET),1,191037,/media/1383837/uet.png,UET,N/A,N/A,1376,3965716.0979,N/A,/coins/uet/overview,UET
+Scrypt,UFO Coin,UFO Coin (UFO),0,5355,/media/20453/ufojpeg.png,UFO,N/A,PoW,323,4000000000,N/A,/coins/ufo/overview,UFO
+Multiple,Unitus,Unitus (UIS),0,5353,/media/20455/uis.png,UIS,N/A,PoW,321,0,N/A,/coins/uis/overview,UIS
+SHA256,Umbrella,Umbrella (ULTC),0,4628,/media/20063/ultc.png,ULTC,N/A,PoW,221,2625000,N/A,/coins/ultc/overview,ULTC
+N/A,Umbrella Coin,Umbrella Coin (UMC),0,213100,/media/1383983/umb.png,UMC,N/A,N/A,1443,100000000,N/A,/coins/umc/overview,UMC
+SHA256,Unattanium,Unattanium (UNAT),0,5381,/media/20456/unat.png,UNAT,N/A,PoW,349,0,N/A,/coins/unat/overview,UNAT
+SHA256,UnbreakableCoin,UnbreakableCoin (UNB),0,4629,/media/19940/unb.png,UNB,N/A,PoW,222,80000000,N/A,/coins/unb/overview,UNB
+X11,UnCoin,UnCoin (UNC),0,8760,/media/20693/unc.png,UNC,N/A,N/A,455,144000000000,N/A,/coins/unc/overview,UNC
+Scrypt,Unfed Coin,Unfed Coin (UNF),0,29198,/media/351626/unf.png,UNF,N/A,PoW,798,67000000,N/A,/coins/unf/overview,UNF
+Scrypt,Universe,Universe (UNI),0,60631,/media/1382968/uni.png,UNI,N/A,PoS,1164,112000000,N/A,/coins/uni/overview,UNI
+Scrypt,Unify,Unify (UNIFY),0,182364,/media/1383775/unify.png,UNIFY,N/A,PoW,1333,18181818,N/A,/coins/unify/overview,UNIFY
+N/A,UnikoinGold,UnikoinGold (UNIKRN),0,186929,/media/1383805/unikr.png,UNIKRN,N/A,N/A,1358,1000000000,N/A,/coins/unikrn/overview,UNIKRN
+SHA256D,Uniqredit,Uniqredit (UNIQ),0,25594,/media/351387/uniq.png,UNIQ,N/A,PoW,700,N/A,N/A,/coins/uniq/overview,UNIQ
+SHA256,Universal Currency,Universal Currency (UNIT),0,20728,/media/350954/unit.png,UNIT,N/A,PoW/PoS,566,210000000,N/A,/coins/unit/overview,UNIT
+Scrypt,GameUnits,GameUnits (UNITS),0,38032,/media/1382050/units.png,UNITS,N/A,PoW/PoS,999,13000000,N/A,/coins/units/overview,UNITS
+N/A,SuperNET,SuperNET (UNITY),0,20635,/media/350935/unity_1.png,UNITY,N/A,N/A,545,816060.9999,N/A,/coins/unity/overview,UNITY
+SHA256,Unobtanium,Unobtanium (UNO),0,4630,/media/20065/uno.png,UNO,N/A,PoW,223,250000,N/A,/coins/uno/overview,UNO
+Dagger,UR,UR (UR),0,34750,/media/352182/ur.jpg,UR,N/A,PoW,948,N/A,N/A,/coins/ur/overview,UR
+X11,UroCoin,UroCoin (URO),0,4631,/media/19937/uro.png,URO,N/A,PoW,224,0,N/A,/coins/uro/overview,URO
+SHA256,Ultimate Secure Cash,Ultimate Secure Cash (USC),0,100954,/media/1383363/usc.png,USC,N/A,PoS,1233,200084200,N/A,/coins/usc/overview,USC
+Scrypt,UnitaryStatus Dollar,UnitaryStatus Dollar (USDE),0,5011,/media/20465/usde.png,USDE,N/A,PoW/PoS,225,1600000000,N/A,/coins/usde/overview,USDE
+N/A,Tether,Tether (USDT),0,171986,/media/1383672/usdt.png,USDT,N/A,N/A,1281,N/A,N/A,/coins/usdt/overview,USDT
+Scrypt,UltraCoin,UltraCoin (UTC),0,5012,/media/19942/utc.png,UTC,N/A,PoW/PoS,226,100000000,N/A,/coins/utc/overview,UTC
+Dagger,Uther,Uther (UTH),0,21219,/media/350998/uth.png,UTH,N/A,PoW,599,25885320,N/A,/coins/uth/overview,UTH
+X13,Utility Coin,Utility Coin (UTIL),0,5013,/media/20067/util.png,UTIL,N/A,PoW/PoS,227,0,N/A,/coins/util/overview,UTIL
+N/A,Utrust,Utrust (UTK),0,236358,/media/9350717/utrust.png,UTK,N/A,N/A,1510,1000000000,N/A,/coins/utk/overview,UTK
+SHA256,Vaporcoin,Vaporcoin (VAPOR),0,30016,/media/351708/vapor.png,VAPOR,N/A,PoW/PoS,829,2000000,N/A,/coins/vapor/overview,VAPOR
+X11,VidioCoin,VidioCoin (VDO),0,5014,/media/20066/vdo.png,VDO,N/A,PoW/PoS,228,0,N/A,/coins/vdo/overview,VDO
+Dagger-Hashimoto,VectorCoin 2.0 ,VectorCoin 2.0  (VEC2),0,22434,/media/351101/vec2.png,VEC2,N/A,PoW,671,N/A,N/A,/coins/vec2/overview,VEC2
+N/A,BLOCKv,BLOCKv (VEE),0,306482,/media/12318044/vee.png,VEE,N/A,N/A,1586,6428571429,N/A,/coins/vee/overview,VEE
+PoS,BitVegan,BitVegan (VEG),0,55544,/media/1382792/veg.png,VEG,N/A,PoS,1132,600000000,N/A,/coins/veg/overview,VEG
+N/A,Veritaseum,Veritaseum (VERI),0,136211,/media/1383562/veri.png,VERI,N/A,N/A,1260,100000000,N/A,/coins/veri/overview,VERI
+N/A,Versa Token,Versa Token (VERSA),0,7562,/media/20629/versa.png,VERSA,N/A,PoS,423,0,N/A,/coins/versa/overview,VERSA
+Scrypt,ViaCoin,ViaCoin (VIA),0,5015,/media/20070/via.png,VIA,N/A,PoW,229,92000000,N/A,/coins/via/overview,VIA
+N/A,Viberate,Viberate (VIB),0,198710,/media/1383893/vib.png,VIB,N/A,N/A,1408,200000000,N/A,/coins/vib/overview,VIB
+PoS,PureVidz,PureVidz (VIDZ),0,38964,/media/1382172/vidz.png,VIDZ,N/A,PoS,1013,125000000,N/A,/coins/vidz/overview,VIDZ
+Scrypt,ViorCoin,ViorCoin (VIOR),0,5407,/media/20469/viorjpeg.png,VIOR,N/A,PoW/PoS,375,0,N/A,/coins/vior/overview,VIOR
+NIST5,VIP Tokens,VIP Tokens (VIP),0,22212,/media/351069/vip.png,VIP,N/A,PoW/PoS,644,90000000,N/A,/coins/vip/overview,VIP
+Scrypt,Viral Coin,Viral Coin (VIRAL),0,6088,/media/20472/viral.png,VIRAL,N/A,PoS,379,0,N/A,/coins/viral/overview,VIRAL
+X13,Visio,Visio (VISIO),0,62648,/media/1383047/visio.png,VISIO,N/A,PoW/PoS,1176,N/A,N/A,/coins/visio/overview,VISIO
+N/A,Veltor,Veltor (VLT),0,28225,/media/351514/vlt.png,VLT,N/A,PoW,751,N/A,N/A,/coins/vlt/overview,VLT
+X11,VaultCoin,VaultCoin (VLTC),0,50730,/media/1382738/vltc.png,VLTC,N/A,PoW,1116,1000000000,N/A,/coins/vltc/overview,VLTC
+Scrypt-n,VirtualMining Coin,VirtualMining Coin (VMC),0,5409,/media/19943/vmc.png,VMC,N/A,PoW,377,1000000,N/A,/coins/vmc/overview,VMC
+N/A,Veredictum,Veredictum (VNT),0,229307,/media/1384015/vent.png,VNT,N/A,N/A,1473,N/A,N/A,/coins/vnt/overview,VNT
+PoS,BitVolt,BitVolt (VOLT),0,55553,/media/1382794/volt.png,VOLT,N/A,PoS,1134,60000000,N/A,/coins/volt/overview,VOLT
+X11,VootCoin,VootCoin (VOOT),0,5016,/media/19946/voot.png,VOOT,N/A,PoW,230,0,N/A,/coins/voot/overview,VOOT
+Scrypt,Voxels,Voxels (VOX),1,18180,/media/350824/vox.png,VOX,N/A,PoW,500,210000000,N/A,/coins/vox/overview,VOX
+N/A,Voyacoin,Voyacoin (VOYA),0,24305,/media/351304/voya.png,VOYA,N/A,PoW,688,N/A,N/A,/coins/voya/overview,VOYA
+Scrypt,VapersCoin,VapersCoin (VPRC),0,20718,/media/350951/vpc.png,VPRC,N/A,PoW,562,42750000000,N/A,/coins/vprc/overview,VPRC
+Scrypt,VeriCoin,VeriCoin (VRC),0,5017,/media/20068/vrc.png,VRC,N/A,PoW/PoS,231,0,N/A,/coins/vrc/overview,VRC
+N/A,Verium,Verium (VRM),0,28323,/media/351522/vrm.png,VRM,N/A,PoWT,757,N/A,N/A,/coins/vrm/overview,VRM
+N/A,Veros,Veros (VRS),0,33399,/media/352021/vrs.png,VRS,N/A,N/A,907,10000000000,N/A,/coins/vrs/overview,VRS
+N/A,vSlice,vSlice (VSL),1,32880,/media/352113/d5a4e4f0366d3ae8cdbc45ad097f664c2557a55f0c237c1710-pimgpsh_fullsize_distr.jpg,VSL,N/A,N/A,892,33390496.0333756,N/A,/coins/vsl/overview,VSL
+N/A,VOISE,VOISE (VSM),0,188352,/media/1383819/snfsbjsl_400x400.jpg,VSM,N/A,N/A,1366,16825578,N/A,/coins/vsm/overview,VSM
+Scrypt,VirtaCoin,VirtaCoin (VTA),0,20680,/media/350945/vta.png,VTA,N/A,PoW,556,21000000000,N/A,/coins/vta/overview,VTA
+Scrypt-n,VertCoin,VertCoin (VTC),0,5018,/media/19945/vtc.png,VTC,N/A,PoW,232,84000000,N/A,/coins/vtc/overview,VTC
+Scrypt,Vtorrent,Vtorrent (VTR),0,5372,/media/20471/vtr.png,VTR,N/A,PoW/PoS,340,20000000,N/A,/coins/vtr/overview,VTR
+SHA256,Vertex,Vertex (VTX),0,30377,/media/351754/vertex.png,VTX,N/A,PoW/PoS,854,N/A,N/A,/coins/vtx/overview,VTX
+Scrypt,Victoriouscoin,Victoriouscoin (VTY),0,30126,/media/351733/vty.png,VTY,N/A,PoW/PoS,839,N/A,N/A,/coins/vty/overview,VTY
+NIST5,Virta Unique Coin,Virta Unique Coin (VUC),0,182340,/media/1383773/vuc.png,VUC,N/A,PoW/PoS,1331,120000000,N/A,/coins/vuc/overview,VUC
+N/A,Wanchain,Wanchain (WAN),0,240142,/media/9350742/wan.jpg,WAN,N/A,PoS,1519,N/A,N/A,/coins/wan/overview,WAN
+PoS,WarpCoin,WarpCoin (WARP),0,25822,/media/351395/warp.png,WARP,N/A,PoS,705,N/A,N/A,/coins/warp/overview,WARP
+X11,WashingtonCoin,WashingtonCoin (WASH),0,32870,/media/351944/wash.png,WASH,N/A,PoW/PoS,889,170000000,N/A,/coins/wash/overview,WASH
+Leased POS,Waves,Waves (WAVES),1,20131,/media/350884/waves_1.png,WAVES,N/A,LPoS,507,100000000,N/A,/coins/waves/overview,WAVES
+X11,WayCoin,WayCoin (WAY),0,27681,/media/351433/way.png,WAY,N/A,PoS,724,100000000,N/A,/coins/way/overview,WAY
+Scrypt,Wild Beast Coin,Wild Beast Coin (WBB),0,5319,/media/20477/wbb.png,WBB,N/A,PoW,288,2628000,N/A,/coins/wbb/overview,WBB
+N/A,wBTC,wBTC (WBTC),1,62640,/media/1383045/wbtc.png,WBTC,N/A,N/A,1175,21000000,N/A,/coins/wbtc/overview,WBTC
+Scrypt,WhiteCoin,WhiteCoin (WC),0,5019,/media/19948/wc.png,WC,N/A,PoW/PoS,233,0,N/A,/coins/wc/overview,WC
+N/A,Waves Community Token,Waves Community Token (WCT),0,43042,/media/350884/waves_1.png,WCT,N/A,N/A,1066,10000000,N/A,/coins/wct/overview,WCT
+Scrypt,WorldCoin,WorldCoin (WDC),0,5020,/media/19949/wdc.png,WDC,N/A,PoW,234,265420800,N/A,/coins/wdc/overview,WDC
+DPoS,WealthCoin,WealthCoin (WEALTH),0,42440,/media/1382392/wealth.png,WEALTH,N/A,PoS,1054,N/A,N/A,/coins/wealth/overview,WEALTH
+N/A,Wexcoin,Wexcoin (WEX),0,28882,/media/351564/wex.jpg,WEX,N/A,PoS,782,N/A,N/A,/coins/wex/overview,WEX
+SHA256,World Gold Coin,World Gold Coin (WGC),0,24402,/media/351310/wgc.png,WGC,N/A,PoW,690,51000000,N/A,/coins/wgc/overview,WGC
+N/A,WavesGO,WavesGO (WGO),1,61667,/media/1382998/wgo.png,WGO,N/A,N/A,1170,10000000,N/A,/coins/wgo/overview,WGO
+PoS,Wagerr,Wagerr (WGR),0,178467,/media/1383736/wgr.png,WGR,N/A,N/A,1301,200000000,N/A,/coins/wgr/overview,WGR
+Scrypt,WineCoin,WineCoin (WINE),0,32691,/media/351929/wine.png,WINE,N/A,PoW/PoS,883,1744000000,N/A,/coins/wine/overview,WINE
+N/A,Wings DAO,Wings DAO (WINGS),1,25946,/media/1382758/1wings.png,WINGS,N/A,N/A,712,100000000,N/A,/coins/wings/overview,WINGS
+PoS,Wink,Wink (WINK),0,201962,/media/1383913/wink.png,WINK,N/A,PoS,1423,80000000,N/A,/coins/wink/overview,WINK
+Scrypt,WisdomCoin,WisdomCoin (WISC),0,48794,/media/1382710/wisc.jpg,WISC,N/A,PoW/PoS,1110,N/A,N/A,/coins/wisc/overview,WISC
+X11,WMCoin,WMCoin (WMC),0,21871,/media/351044/wmc.png,WMC,N/A,PoS,631,1000000000,N/A,/coins/wmc/overview,WMC
+N/A,Wavesnode.net,Wavesnode.net (WNET),0,206512,/media/1383982/wnet1.png,WNET,N/A,N/A,1468,10000000,N/A,/coins/wnet/overview,WNET
+X11,Insanity Coin,Insanity Coin (WOLF),0,3653,/media/20559/wolf.png,WOLF,N/A,PoW,31,50000000,N/A,/coins/wolf/overview,WOLF
+N/A,Wolk,Wolk (WOLK),0,198703,/media/1383892/wolk.png,WOLK,N/A,N/A,1407,500000000,N/A,/coins/wolk/overview,WOLK
+X11,WorldPay,WorldPay (WOP),0,37191,/media/1381982/wop.png,WOP,N/A,PoW/PoS,985,10000000,N/A,/coins/wop/overview,WOP
+PoS,HealthyWorm,HealthyWorm (WORM),0,228162,/media/1384040/worm.png,WORM,N/A,PoS,1471,N/A,N/A,/coins/worm/overview,WORM
+N/A,Worldcore,Worldcore (WRC),0,296844,/media/11999078/wrc.png,WRC,N/A,N/A,1566,1000000000,N/A,/coins/wrc/overview,WRC
+Scrypt,WarCoin,WarCoin (WRC*),0,71873,/media/1383162/wrc.png,WRC*,N/A,PoW/PoS,1201,11666667,N/A,/coins/wrcstar/overview,WRC*
+X11,WRTcoin,WRTcoin (WRT),0,299811,/media/12317963/wrt.png,WRT,N/A,PoW,1570,25000000000,N/A,/coins/wrt/overview,WRT
+X11,WeAreSatoshi,WeAreSatoshi (WSX),0,68084,/media/1383144/wsx.png,WSX,N/A,PoW/PoS,1190,N/A,N/A,/coins/wsx/overview,WSX
+N/A,Waltonchain,Waltonchain (WTC),0,299397,/media/12317959/wtc.png,WTC,N/A,N/A,1567,70000000,N/A,/coins/wtc/overview,WTC
+N/A,Giga Watt,Giga Watt (WTT),0,179109,/media/1383742/wtt.png,WTT,N/A,N/A,1307,34500000	,N/A,/coins/wtt/overview,WTT
+N/A,X2Coin,X2Coin (X2),0,29376,/media/351635/x2.png,X2,N/A,N/A,806,N/A,N/A,/coins/x2/overview,X2
+X11,SapienceCoin,SapienceCoin (XAI),0,5021,/media/20071/xai.png,XAI,N/A,PoB/PoS,235,0,N/A,/coins/xai/overview,XAI
+N/A,AICoin,AICoin (XAI*),0,191228,/media/1383840/xai.png,XAI*,N/A,N/A,1380,N/A,N/A,/coins/xaistar/overview,XAI*
+N/A,Asch,Asch (XAS),0,218107,/media/1383997/xas.png,XAS,N/A,N/A,1451,100000000,N/A,/coins/xas/overview,XAS
+SHA256,XauCoin,XauCoin (XAU),0,5283,/media/20479/xau.png,XAU,N/A,PoW,252,2100000,N/A,/coins/xau/overview,XAU
+N/A,Xaurum,Xaurum (XAUR),0,25082,/media/351382/xaur.png,XAUR,N/A,N/A,698,N/A,N/A,/coins/xaur/overview,XAUR
+Scrypt,BitcoinPlus,BitcoinPlus (XBC),0,5391,/media/20488/xbc.png,XBC,N/A,PoW/PoS,359,0,N/A,/coins/xbc/overview,XBC
+Scrypt,SocialXbotCoin,SocialXbotCoin (XBOT),0,5022,/media/20073/xbot.png,XBOT,N/A,PoW/PoS,236,2000000,N/A,/coins/xbot/overview,XBOT
+X11,Bitstake,Bitstake (XBS),0,5023,/media/351060/xbs_1.png,XBS,N/A,PoW/PoS,16,1300000,N/A,/coins/xbs/overview,XBS
+X11,Beats,Beats (XBTS),0,29131,/media/351617/beats.png,XBTS,N/A,PoW/PoS,793,N/A,N/A,/coins/xbts/overview,XBTS
+N/A,XtraBYtes,XtraBYtes (XBY),0,66694,/media/1383439/xby1.png,XBY,N/A,PoSign,1185,650000000,N/A,/coins/xby/overview,XBY
+X11,X11 Coin,X11 Coin (XC),0,5024,/media/19956/xc.png,XC,N/A,PoW/PoS,237,5500000,N/A,/coins/xc/overview,XC
+Scrypt,Xcash,Xcash (XCASH),0,5025,/media/20075/xcash.png,XCASH,N/A,PoW/PoS,238,2400000,N/A,/coins/xcash/overview,XCASH
+SHA256,Cerium,Cerium (XCE),0,6455,/media/20573/xce.png,XCE,N/A,PoW/PoS,415,2307925,N/A,/coins/xce/overview,XCE
+CryptoNight,Cannabis Industry Coin,Cannabis Industry Coin (XCI),0,35955,/media/352312/xci.png,XCI,N/A,PoW,978,21000000,N/A,/coins/xci/overview,XCI
+N/A,CoinJob,CoinJob (XCJ),0,194689,/media/1383849/xcj.png,XCJ,N/A,N/A,1385,200000000,N/A,/coins/xcj/overview,XCJ
+M7 POW,Cryptonite,Cryptonite (XCN),0,5386,/media/20483/xcn.png,XCN,N/A,PoW,354,1840000000,N/A,/coins/xcn/overview,XCN
+SHA256,XCoin,XCoin (XCO),0,5408,/media/20486/xco.png,XCO,N/A,PoW/PoS,376,0,N/A,/coins/xco/overview,XCO
+N/A,CounterParty,CounterParty (XCP),1,5292,/media/19960/xcp.png,XCP,N/A,PoW,261,2600000,N/A,/coins/xcp/overview,XCP
+Multiple,Crypti,Crypti (XCR),0,5026,/media/19710/frac.png,XCR,N/A,PoS,239,0,N/A,/coins/xcr/overview,XCR
+PoS,Creatio,Creatio (XCRE),1,34604,/media/352156/xcre.png,XCRE,N/A,PoS,945,20000000,N/A,/coins/xcre/overview,XCRE
+SHA256,C-Bits,C-Bits (XCT),0,78227,/media/1383246/xct.png,XCT,N/A,PoW,1219,210000000,N/A,/coins/xct/overview,XCT
+Scrypt,CoinonatX,CoinonatX (XCXT),0,253688,/media/9350784/xcxt.png,XCXT,N/A,PoW/PoS,1546,48252000,N/A,/coins/xcxt/overview,XCXT
+X11,DragonSphere,DragonSphere (XDB),0,20826,/media/350977/xdb.png,XDB,N/A,PoW/PoS,579,21007600,N/A,/coins/xdb/overview,XDB
+SHA256,XDE II,XDE II (XDE2),0,22430,/media/351100/xde2.png,XDE2,N/A,PoS,670,N/A,N/A,/coins/xde2/overview,XDE2
+CryptoNight,DigitalNote ,DigitalNote  (XDN),0,5282,/media/19957/xdn.jpg,XDN,N/A,PoW,251,8589869056,N/A,/coins/xdn/overview,XDN
+N/A,DogeParty,DogeParty (XDP),0,3655,/media/20560/xdp.png,XDP,N/A,N/A,32,0,N/A,/coins/xdp/overview,XDP
+Blake,Dirac Coin,Dirac Coin (XDQ),0,5347,/media/19959/xdq.png,XDQ,N/A,PoW,315,2272800,N/A,/coins/xdq/overview,XDQ
+N/A,Elastic,Elastic (XEL),0,178861,/media/1383737/xel.png,XEL,N/A,PoW,1302,100000000,N/A,/coins/xel/overview,XEL
+N/A,NEM,NEM (XEM),0,5285,/media/20490/xem.png,XEM,N/A,PoI,254,8999999999,N/A,/coins/xem/overview,XEM
+X11,XenixCoin,XenixCoin (XEN),1,34324,/media/352119/xen.jpg,XEN,N/A,PoW/PoS,932,3853326.77707314,N/A,/coins/xen/overview,XEN
+X11,Forever Coin,Forever Coin (XFC),0,6452,/media/20574/xfc.png,XFC,N/A,PoS,412,210000000,N/A,/coins/xfc/overview,XFC
+XG Hash,XG Sports,XG Sports (XG),0,5376,/media/20156/xg.png,XG,N/A,PoW/PoS,344,0,N/A,/coins/xg/overview,XG
+X13,GoldenBird,GoldenBird (XGB),0,41989,/media/1382372/xgb.png,XGB,N/A,PoW/PoS,1044,450000000,N/A,/coins/xgb/overview,XGB
+X11,GoldReserve,GoldReserve (XGR),0,71862,/media/1383161/xgr.png,XGR,N/A,PoW/PoS,1200,40000000,N/A,/coins/xgr/overview,XGR
+Scrypt,HiCoin,HiCoin (XHI),0,20202,/media/350892/xhi.png,XHI,N/A,PoS,512,10008835635,N/A,/coins/xhi/overview,XHI
+N/A,Sphre AIR,Sphre AIR (XID),0,199026,/media/1383898/xid.jpg,XID,N/A,N/A,1412,30081573.5853 ,N/A,/coins/xid/overview,XID
+N/A,International Diamond Coin,International Diamond Coin (XID*),0,20387,/media/350916/xid.png,XID*,N/A,Pow,533,67000010 ,N/A,/coins/xidstar/overview,XID*
+SHA256,JouleCoin,JouleCoin (XJO),0,5027,/media/19962/xjo.png,XJO,N/A,PoW,240,45000000,N/A,/coins/xjo/overview,XJO
+X11,LibertyCoin,LibertyCoin (XLB),0,5028,/media/19966/xlb.png,XLB,N/A,PoW/PoS,241,16500000,N/A,/coins/xlb/overview,XLB
+CryptoNight,LeviarCoin,LeviarCoin (XLC),0,198337,/media/1383879/ivetpxdq_400x400.jpg,XLC,N/A,PoW,1399,54000000,N/A,/coins/xlc/overview,XLC
+N/A,Stellar,Stellar (XLM),0,4614,/media/20696/str.png,XLM,N/A,N/A,208,100804167793,N/A,/coins/xlm/overview,XLM
+NIST5,Solaris,Solaris (XLR),0,61061,/media/1382994/xlr.png,XLR,N/A,PoW/PoS,1166,10000000,N/A,/coins/xlr/overview,XLR
+X11,MonacoCoin,MonacoCoin (XMCC),0,222133,/media/1384017/mcc.png,XMCC,N/A,PoW/PoS,1462,50000000,N/A,/coins/xmcc/overview,XMCC
+M7M,Coin Magi,Coin Magi (XMG),0,5331,/media/20154/xmg.png,XMG,N/A,PoW/PoM/PoSII,299,0,N/A,/coins/xmg/overview,XMG
+CryptoNight,Monero,Monero (XMR),0,5038,/media/19969/xmr.png,XMR,N/A,PoW,5,0,N/A,/coins/xmr/overview,XMR
+X11,Megastake,Megastake (XMS),0,6110,/media/19808/mrs.png,XMS,N/A,PoW/PoS,397,0,N/A,/coins/xms/overview,XMS
+Multiple,MyriadCoin,MyriadCoin (XMY),0,4345,/media/19815/myr.png,XMY,N/A,PoW,58,2000000000,N/A,/coins/xmy/overview,XMY
+X11,DeOxyRibose,DeOxyRibose (XNA),0,6097,/media/19808/mrs.png,XNA,N/A,PoS,384,0,N/A,/coins/xna/overview,XNA
+Scrypt,XenCoin,XenCoin (XNC),0,33939,/media/352109/xnc.png,XNC,N/A,PoW,925,2100000000,N/A,/coins/xnc/overview,XNC	
+X13,Numismatic Collections,Numismatic Collections (XNC*),0,41866,/media/1382347/xnc.png,XNC*,N/A,PoW/PoS,1037,23273860,N/A,/coins/xncstar/overview,XNC*
+X11,Enigma,Enigma (XNG),0,35953,/media/352311/xng.png,XNG,N/A,PoW/PoS,977,5000000,N/A,/coins/xng/overview,XNG
+Scrypt,XanaxCoin,XanaxCoin (XNX),0,21773,/media/351033/xnx.jpg,XNX,N/A,PoW,626,42000000,N/A,/coins/xnx/overview,XNX
+CryptoNight,Pebble Coin,Pebble Coin (XPB),0,5346,/media/20158/xpb.png,XPB,N/A,PoW,314,0,N/A,/coins/xpb/overview,XPB
+SHA256D,PetroDollar,PetroDollar (XPD),0,3646,/media/20162/xpd.png,XPD,N/A,N/A,26,122107462,N/A,/coins/xpd/overview,XPD
+N/A,PharmaCoin,PharmaCoin (XPH),0,7590,/media/20641/xph.png,XPH,N/A,N/A,432,0,N/A,/coins/xph/overview,XPH
+Multiple,PrimeCoin,PrimeCoin (XPM),0,5029,/media/19970/xpm.png,XPM,N/A,PoW,242,3299976,N/A,/coins/xpm/overview,XPM
+PoS,Opair,Opair (XPO),0,29008,/media/351590/xpo.png,XPO,N/A,PoS,790,74000000,N/A,/coins/xpo/overview,XPO
+X13,PokeChain,PokeChain (XPOKE),0,25817,/media/351393/xpoke.png,XPOKE,N/A,PoS,703,75000000,N/A,/coins/xpoke/overview,XPOKE
+X15,ProCoin,ProCoin (XPRO),0,38380,/media/1382098/xpro.png,XPRO,N/A,PoW/PoS,1010,6000000,N/A,/coins/xpro/overview,XPRO
+Scrypt,PoisonIvyCoin,PoisonIvyCoin (XPS),0,105220,/media/1383365/xps.png,XPS,N/A,PoW/PoS,1235,4666666667,N/A,/coins/xps/overview,XPS
+SHA256,PayCoin,PayCoin (XPY),0,5030,/media/20076/xpy_1.png,XPY,N/A,PoS,17,12500000,N/A,/coins/xpy/overview,XPY
+Scrypt,Quotient,Quotient (XQN),0,5400,/media/20160/xqn.png,XQN,N/A,PoW/PoS,368,0,N/A,/coins/xqn/overview,XQN
+X11,Ratecoin,Ratecoin (XRA),0,21770,/media/351032/xra.png,XRA,N/A,PoW/PoS,625,75000000,N/A,/coins/xra/overview,XRA
+Blake2b,RaiBlocks,RaiBlocks (XRB),0,172091,/media/1383674/xrb.png,XRB,N/A,PoW,1282,340282367,N/A,/coins/xrb/overview,XRB
+X11Evo,RevolverCoin,RevolverCoin (XRE),0,20823,/media/350975/xre.jpg,XRE,N/A,PoW,576,22000000,N/A,/coins/xre/overview,XRE
+N/A,Rialto.AI,Rialto.AI (XRL),0,179990,/media/1383754/xrl.png,XRL,N/A,N/A,1317,N/A,N/A,/coins/xrl/overview,XRL
+N/A,Ripple,Ripple (XRP),1,5031,/media/19972/ripple.png,XRP,N/A,N/A,12,38305873865,N/A,/coins/xrp/overview,XRP
+SHA256,BitSeeds,BitSeeds (XSEED),0,8683,/media/20163/xseed.png,XSEED,N/A,PoW/PoS,447,0,N/A,/coins/xseed/overview,XSEED
+Scrypt,Stability Shares,Stability Shares (XSI),0,5306,/media/20165/xsi.png,XSI,N/A,PoW/PoS,275,15000000,N/A,/coins/xsi/overview,XSI
+X13,PoolStamp,PoolStamp (XSP),0,35816,/media/352293/xsp.png,XSP,N/A,PoW/PoS,970,N/A,N/A,/coins/xsp/overview,XSP
+POS 3.0,Spectre,Spectre (XSPEC),0,42598,/media/1382395/xspec.png,XSPEC,N/A,PoS,1056,20000000,N/A,/coins/xspec/overview,XSPEC
+X13,StealthCoin,StealthCoin (XST),0,5032,/media/20077/xst.png,XST,N/A,PoW/PoS,243,0,N/A,/coins/xst/overview,XST
+Scrypt,ExtremeCoin,ExtremeCoin (XT),0,24885,/media/351364/xt.png,XT,N/A,PoW/PoS,694,N/A,N/A,/coins/xt/overview,XT
+N/A,TileCoin,TileCoin (XTC),0,5321,/media/20167/xtc.png,XTC,N/A,N/A,290,100000000,N/A,/coins/xtc/overview,XTC
+N/A,Tezos,Tezos (XTZ),0,166390,/media/1383651/xbt.png,XTZ,N/A,Delegated Proof of Stake,1273,N/A,N/A,/coins/xtz/overview,XTZ
+N/A,Exchange Union,Exchange Union (XUC),0,184221,/media/1383784/xuc.png,XUC,N/A,N/A,1342,3000000000,N/A,/coins/xuc/overview,XUC
+N/A,UCash,UCash (XUC*),0,299774,/media/12317962/xuc.png,XUC*,N/A,N/A,1569,21000000000,N/A,/coins/xucstar/overview,XUC*
+X13,UPcoin,UPcoin (XUP),0,29460,/media/351638/xup.png,XUP,N/A,PoS,810,N/A,N/A,/coins/xup/overview,XUP
+Whirlpool,Vcash,Vcash (XVC),0,5303,/media/350813/xvc.png,XVC,N/A,PoS,272,N/A,N/A,/coins/xvc/overview,XVC
+PoS,The Vegan Initiative,The Vegan Initiative (XVE),0,59973,/media/1382937/xve.png,XVE,N/A,PoS,1158,50000000,N/A,/coins/xve/overview,XVE
+Multiple,Verge,Verge (XVG),0,4433,/media/12318032/xvg.png,XVG,N/A,PoW,99,N/A,N/A,/coins/xvg/overview,XVG
+X11,VirtacoinPlus,VirtacoinPlus (XVP),0,57734,/media/1382865/xvp.png,XVP,N/A,PoW/PoS,1149,100000000,N/A,/coins/xvp/overview,XVP
+Scrypt,Vsync,Vsync (XVS),0,75285,/media/1383239/xvs.png,XVS,N/A,PoW/PoS,1210,N/A,N/A,/coins/xvs/overview,XVS
+Scrypt,WhiteCoin,WhiteCoin (XWC),0,20338,/media/350911/xwc_1.png,XWC,N/A,Pow/PoS,528,300000000,N/A,/coins/xwc/overview,XWC
+X15,World Trade Funds,World Trade Funds (XWT),0,6096,/media/19808/mrs.png,XWT,N/A,PoW/PoS,383,1000000,N/A,/coins/xwt/overview,XWT
+Scrypt,XXXCoin,XXXCoin (XXX),0,5033,/media/350617/xxx.png,XXX,N/A,PoW/PoS,244,50000000,N/A,/coins/xxx/overview,XXX
+Lyra2RE,ZCoin,ZCoin (XZC),0,30022,/media/1382780/xzc1.png,XZC,N/A,PoW,832,21000000,N/A,/coins/xzc/overview,XZC
+Scrypt,YAcCoin,YAcCoin (YAC),0,5034,/media/19976/yac.png,YAC,N/A,PoW,245,2000000000,N/A,/coins/yac/overview,YAC
+Scrypt,YAYcoin,YAYcoin (YAY),0,40847,/media/1382253/yay.png,YAY,N/A,PoW/PoS,1025,N/A,N/A,/coins/yay/overview,YAY
+Multiple,YbCoin,YbCoin (YBC),0,3639,/media/19975/ybc.png,YBC,N/A,N/A,19,200000000,N/A,/coins/ybc/overview,YBC
+Scrypt,YesCoin,YesCoin (YES),0,40990,/media/1382269/yes.png,YES,N/A,PoW/PoS,1027,N/A,N/A,/coins/yes/overview,YES
+Scrypt,YamahaCoin,YamahaCoin (YMC),0,42099,/media/1382380/ymc.png,YMC,N/A,PoW,1045,315000000,N/A,/coins/ymc/overview,YMC
+Scrypt,YoCoin,YoCoin (YOC),0,20691,/media/350957/yoc.png,YOC,N/A,PoW,560,4000000,N/A,/coins/yoc/overview,YOC
+SHA256,YobitVirtualCoin,YobitVirtualCoin (YOVI),0,22254,/media/351073/yovi.png,YOVI,N/A,PoS,648,22830000,N/A,/coins/yovi/overview,YOVI
+SHA256,Z2 Coin,Z2 Coin (Z2),0,252359,/media/9350780/z2.png,Z2,N/A,PoW,1544,11000000,N/A,/coins/z2/overview,Z2
+Scrypt,Zilbercoin,Zilbercoin (ZBC),0,45250,/media/1382652/zbc.png,ZBC,N/A,PoW/PoS,1095,55000000,N/A,/coins/zbc/overview,ZBC
+Scrypt,ZCC Coin,ZCC Coin (ZCC),0,5035,/media/19979/zcc.png,ZCC,N/A,PoW,246,1000000000,N/A,/coins/zcc/overview,ZCC
+Equihash,ZClassic,ZClassic (ZCL),0,32544,/media/351926/zcl.png,ZCL,N/A,PoW,879,21000000,N/A,/coins/zcl/overview,ZCL
+Equihash,ZCash,ZCash (ZEC),0,24854,/media/351360/zec.png,ZEC,N/A,PoW,9,21000000,N/A,/coins/zec/overview,ZEC
+Scrypt,ZCashDarkCoin,ZCashDarkCoin (ZECD),0,32777,/media/351935/zecd.png,ZECD,N/A,PoW,887,500000000,N/A,/coins/zecd/overview,ZECD
+Scrypt,ZedCoins,ZedCoins (ZED),0,5036,/media/19981/zed.png,ZED,N/A,PoW,247,120000000,N/A,/coins/zed/overview,ZED
+PoS,ZeitCoin,ZeitCoin (ZEIT),0,20908,/media/350984/zeit.png,ZEIT,N/A,PoS,585, 99000000000,N/A,/coins/zeit/overview,ZEIT
+Equihash,ZenCash,ZenCash (ZEN),0,116180,/media/1383502/zen.png,ZEN,N/A,PoW,1244,21000000,N/A,/coins/zen/overview,ZEN
+Scrypt,Zennies,Zennies (ZENI),0,56253,/media/1382807/zen.png,ZENI,N/A,PoS,1140,1000000000,N/A,/coins/zeni/overview,ZENI
+Equihash,Zero,Zero (ZER),0,51845,/media/1382761/zer.png,ZER,N/A,PoW,1122,78948000,N/A,/coins/zer/overview,ZER
+SHA256,ZetaCoin,ZetaCoin (ZET),0,4347,/media/19993/zet.png,ZET,N/A,PoW,60,0,N/A,/coins/zet/overview,ZET
+Quark,Zeta2Coin,Zeta2Coin (ZET2),0,28136,/media/351502/zet2.png,ZET2,N/A,PoW/PoS,739,1200000,N/A,/coins/zet2/overview,ZET2
+QuBit,ZLiteQubit,ZLiteQubit (ZLQ),0,39704,/media/1382238/zlq.png,ZLQ,N/A,N/A,1017, 83075000,N/A,/coins/zlq/overview,ZLQ
+Scrypt,ZoneCoin,ZoneCoin (ZNE),0,28227,/media/351515/zne.jpg,ZNE,N/A,PoW/PoS,752,21000000,N/A,/coins/zne/overview,ZNE
+N/A,OpenZen,OpenZen (ZNT),0,197886,/media/1383875/znt.png,ZNT,N/A,N/A,1397,270000000,N/A,/coins/znt/overview,ZNT
+Scrypt,BitZeny,BitZeny (ZNY),0,8762,/media/20691/zny.png,ZNY,N/A,PoW,457,250000000,N/A,/coins/zny/overview,ZNY
+Lyra2RE,Zoin,Zoin (ZOI),0,53178,/media/1382772/zoin.png,ZOI,N/A,PoW,1127,21000000,N/A,/coins/zoi/overview,ZOI
+Lyra2RE,ZoomCoin,ZoomCoin (ZOOM),0,22245,/media/351081/zoom.png,ZOOM,N/A,PoW,646,250000,N/A,/coins/zoom/overview,ZOOM
+N/A,ZrCoin,ZrCoin (ZRC),0,129604,/media/1383548/xzc.png,ZRC,N/A,N/A,1252,4988894,N/A,/coins/zrc/overview,ZRC
+X11,ZiftrCoin,ZiftrCoin (ZRC*),0,5037,/media/20078/zrc.png,ZRC*,N/A,PoW,248,450000000,N/A,/coins/zrcstar/overview,ZRC*
+N/A,0x,0x (ZRX),0,186277,/media/1383799/zrx.png,ZRX,N/A,N/A,1353,1000000000,N/A,/coins/zrx/overview,ZRX
+X11,ZSEcoin,ZSEcoin (ZSE),0,79875,/media/1383266/zse.png,ZSE,N/A,PoW/PoS,1222,2093500000,N/A,/coins/zse/overview,ZSE
+Quark,Zurcoin,Zurcoin (ZUR),0,30391,/media/351758/zur.png,ZUR,N/A,PoW,858,126000000,N/A,/coins/zur/overview,ZUR
+N/A,Zcrypt,Zcrypt (ZXT),0,32785,/media/351936/zxt.png,ZXT,N/A,PoW/PoZ,888,101000000,N/A,/coins/zxt/overview,ZXT
+SHA256,ZayedCoin,ZayedCoin (ZYD),0,28216,/media/351510/zyd.png,ZYD,N/A,PoW,747,9736000,N/A,/coins/zyd/overview,ZYD

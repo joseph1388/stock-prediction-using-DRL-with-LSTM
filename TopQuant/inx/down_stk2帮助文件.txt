@@ -1,0 +1,70 @@
+down_stk2.0 帮助文件
+
+   down_stk2.0 是zwDat数据源，股票下载程序，python源码。
+   
+【简介】
+   down_stk2.0股票数据下载程序，作为zw量化工具箱zwQuant示例程序的一部分，已经收录在zwPy2016和zwQuant内。
+   目录是：x:\zwPython\zwQuant\down_stk2\
+	 目录内有多个脚本源码文件，其中以下脚本，是用于数据下载更新：
+		::	zw_down_cnSTK.py，A股交易数据下载下载
+    ::	zw_down_cnSTK_Base.py，A股基本概况数据下载
+		::	zw_down_cnSTK_inx.py，A股指数行情数据下载
+		::	zw_down_usSTK.py，美股交易数据下载
+		::	zw_down_cnTick.py，A股历史tick分笔数据下载，并自动转换为分时数据5/15/30/60 分钟
+		
+【tick分笔数据】
+   down_stk2.0最新增加了zw_down_cnTick.py程序，
+   A股历史tick分笔数据下载，并自动转换为分时数据5/15/30/60 分钟
+   并在zwQaunt开源量化软件，zwQTBox.py模块库，增加了多个xtick开头的函数，用于tick数据下载转换。
+   相关函数，都内置了中文注释。
+
+【目录结构】
+具体目录结构如下
+\zwDat\，zw数据源根目录
+  cn\，中国股票数据
+    Day\，A股日线数据、 
+    XDay\，大盘等指数日线数据
+    
+  us\，美股数据
+    Day\，美股日线数据、 
+  
+  zw\，zw增强版数据包，包括中国A股、A股指数、美股数据
+    cnDay\，zw增强版，A股日线数据、 
+    cnXDay\，zw增强版，大盘等指数日线数据
+    usDay\，zw增强版，美股日线数据、 
+    
+  inx\，股票代码等参数数据
+  
+  min\，中国A股分时数据
+    M05\、5分钟数据
+    M15\、15分钟数据
+    M30\、30分钟数据
+    M60\、60分钟数据
+    tick\、tick分笔数据
+
+  tick\，中国A股实时tick分笔分时数据
+    M05\、5分钟数据
+    M15\、15分钟数据
+    M30\、30分钟数据
+    M60\、60分钟数据
+    tick\、tick分笔数据
+
+   为方便用户测试，在目录：
+   x:\zwPython\zwQuant\down_stk2\inx\min00\
+   有个空白分时数据及子目录框架，只有空目录，没有任何数据
+   用户测试时，开直接copy到zwDay\min、zwDay\tick目录当中，无需人工建立子目录
+   
+
+zw数据包，建议直接解压在硬盘根目录下，
+最好是SSD硬盘，并与zwPython在同一硬盘，
+如不在同一硬盘，部分程序，可能需要修改zw量化开源工具箱：zwQuant\zwSys.py，相关目录代码
+
+
+================
+
+【更多资料】请参见
+zw网站: http://ziwang.com,   Python量化,第一品牌
+  网盘: http://pan.baidu.com/s/1bnSqTxd
+  QQ群：124134140 （zwPython大数据,量化交易,云字库）
+  Blog：http://blog.sina.com.cn/zbrow 
+

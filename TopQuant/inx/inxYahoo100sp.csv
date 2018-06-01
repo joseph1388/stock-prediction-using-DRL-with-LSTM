@@ -1,0 +1,102 @@
+code,name
+NYSE,Symbol
+AA,alcoa inc
+AAPL,apple inc
+ABT,abbott
+AEP,American
+AES,AES
+AIG,American
+ALL,allstate
+AMGN,amgen
+ATI,allegheny
+AVP,avon
+AXP,American
+BA,boeing
+BAC,Bank
+BAX,baxter
+BHI,baker
+BK,The
+BMY,bristol
+BNI,Burlington
+BUD,anheuser
+C,citigroup inc
+CAT,caterpillar inc
+CBS,CBS
+CCU,Clear
+CI,CIGNA Corp.
+CL,colgate
+CMCSA,Comcast Corp.
+COF,Capital
+COP,conocophillips
+COV,covidien ltd.
+CPB,Campbell
+CSCO,Cisco
+CVS,CVS
+CVX,chevron
+DD,EI
+DELL,dell inc
+DIS,Walt
+DOW,dow
+EMC,EMC Corp.
+EP,EI
+ETR,Entergy
+EXC,exelon
+F,ford
+FDX,fedex
+GD,General
+GE,General
+GM,General
+GOOG,google
+GS,goldman
+HAL,halliburton
+HD,home
+HET,harrah's
+HIG,Hartford
+HNZ,H.
+HON,Honeywell
+HPQ,hewlett
+IBM,International
+INTC,intel
+IP,International
+JNJ,Johnson
+JPM,J.P.
+KRFT,kraft
+KO,Coca-Cola
+LEH,Lehman
+LTD,limited
+MCD,mcdonalds
+MDT,medtronic inc
+MER,Merrill
+MMM,3M
+MO,altria
+MRK,merck
+MS,morgan
+MSFT,microsoft
+NSC,Norfolk
+ORCL,oracle
+PEP,pepsico inc
+PFE,pfizer inc
+PG,procter
+RF,Regions
+ROK,rockwell
+RTN,raytheon
+S,sprint
+SLB,schlumberger ltd.
+SLE,sara
+SO,Southern
+T,AT&T
+TGT,target
+TWX,time
+TXN,texas
+TYC,Tyco
+UPS,united
+USB,us
+UTX,United
+VZ,Verizon
+WB,wachovia
+WFC,wells
+WMB,Williams
+WMT,wal-mart
+WY,weyerhaeuser
+XOM,exxon
+XRX,xerox
