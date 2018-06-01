@@ -10,3 +10,7 @@ X,Y = np.meshgrid(X,Y)
 Z = -X * np.log2(Y) - (1-X)* np.log2(1 - Y)
 ax.plot_surface(X,Y,Z,rstride=1,cstride=1,cmap='rainbow')
 plt.show()
+'''兼容性问题
+UserWarning: This figure includes Axes that are not compatible with tight_layout, so results might be incorrect.
+  warnings.warn("This figure includes Axes that are not compatible "
+'''

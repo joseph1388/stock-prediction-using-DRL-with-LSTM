@@ -4,7 +4,7 @@ import time
 
 from snake import SnakeEnv, ModelFreeAgent, TableAgent, eval_game
 import gym
-from policy_iter import PolicyIteration
+import policy_iter
 
 @contextmanager
 def timer(name):
